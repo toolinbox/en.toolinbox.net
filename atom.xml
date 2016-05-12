@@ -68,4 +68,30 @@
     
   </entry>
   
+  <entry>
+    <title>iHosts Change Log</title>
+    <link href="http://toolinbox.net/en/iHostsChangeLog.html"/>
+    <id>http://toolinbox.net/en/iHostsChangeLog.html</id>
+    <published>2015-05-03T10:32:16.000Z</published>
+    <updated>2016-05-12T09:19:28.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;v1-0-10&quot;&gt;&lt;a href=&quot;#v1-0-10&quot; class=&quot;headerlink&quot; title=&quot;v1.0.10&quot;&gt;&lt;/a&gt;v1.0.10&lt;/h1&gt;&lt;p&gt;&lt;em&gt;May 2nd, 2016&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Release on Mac App Store&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;v1-0-10&quot;&gt;&lt;a href=&quot;#v1-0-10&quot; class=&quot;headerlink&quot; title=&quot;v1.0.10&quot;&gt;&lt;/a&gt;v1.0.10&lt;/h1&gt;&lt;p&gt;&lt;em&gt;May 2nd, 2016&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Release on Mac
+    
+    </summary>
+    
+      <category term="iHosts" scheme="http://toolinbox.net/en/categories/iHosts/"/>
+    
+    
+  </entry>
+  
 </feed>
