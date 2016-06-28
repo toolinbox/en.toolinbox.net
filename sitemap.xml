@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://toolinbox.net/en/iPic/index.html</loc>
+    
+    <lastmod>2016-06-28T11:02:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://toolinbox.net/en/en/iHosts/privacy.html</loc>
     
     <lastmod>2016-06-28T03:01:46.000Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://toolinbox.net/en/en/iHosts/terms.html</loc>
     
     <lastmod>2016-06-28T03:01:34.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/en/iPic/index.html</loc>
-    
-    <lastmod>2016-06-22T15:38:33.000Z</lastmod>
     
   </url>
   
