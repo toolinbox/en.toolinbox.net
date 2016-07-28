@@ -5,7 +5,7 @@
   <link href="/en/atom.xml" rel="self"/>
   
   <link href="http://toolinbox.net/en/"/>
-  <updated>2016-05-11T13:53:40.000Z</updated>
+  <updated>2016-07-28T12:36:02.000Z</updated>
   <id>http://toolinbox.net/en/</id>
   
   <author>
@@ -14,6 +14,75 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>iPic Change Log</title>
+    <link href="http://toolinbox.net/en/iPic/ChangeLog.html"/>
+    <id>http://toolinbox.net/en/iPic/ChangeLog.html</id>
+    <published>2016-05-22T10:32:16.000Z</published>
+    <updated>2016-07-28T12:36:02.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;v1-1-0&quot;&gt;&lt;a href=&quot;#v1-1-0&quot; class=&quot;headerlink&quot; title=&quot;v1.1.0&quot;&gt;&lt;/a&gt;v1.1.0&lt;/h1&gt;&lt;p&gt;2016/07/01&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Release on Mac App Store&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v1-0-7&quot;&gt;&lt;a href=&quot;#v1-0-7&quot; class=&quot;headerlink&quot; title=&quot;v1.0.7&quot;&gt;&lt;/a&gt;v1.0.7&lt;/h1&gt;&lt;p&gt;2016/07/01&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support upload to your Imgur account.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v1-0-6&quot;&gt;&lt;a href=&quot;#v1-0-6&quot; class=&quot;headerlink&quot; title=&quot;v1.0.6&quot;&gt;&lt;/a&gt;v1.0.6&lt;/h1&gt;&lt;p&gt;2016/06/29&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add image type in link when upload to Weibo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v1-0-5&quot;&gt;&lt;a href=&quot;#v1-0-5&quot; class=&quot;headerlink&quot; title=&quot;v1.0.5&quot;&gt;&lt;/a&gt;v1.0.5&lt;/h1&gt;&lt;p&gt;2016/06/27&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support sandbox mode.&lt;/li&gt;
+&lt;li&gt;Adjust menu bar icon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v0-8-0&quot;&gt;&lt;a href=&quot;#v0-8-0&quot; class=&quot;headerlink&quot; title=&quot;v0.8.0&quot;&gt;&lt;/a&gt;v0.8.0&lt;/h1&gt;&lt;p&gt;2016/06/22&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support upload image to &lt;a href=&quot;https://www.flickr.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Flickr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support upload by services in Finder.&lt;/li&gt;
+&lt;li&gt;Support upload by dragging image to iPic in menu bar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v0-7-6&quot;&gt;&lt;a href=&quot;#v0-7-6&quot; class=&quot;headerlink&quot; title=&quot;v0.7.6&quot;&gt;&lt;/a&gt;v0.7.6&lt;/h1&gt;&lt;p&gt;2016/06/11&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support upload image to &lt;a href=&quot;https://www.upyun.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;UpYun&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v0-7-1&quot;&gt;&lt;a href=&quot;#v0-7-1&quot; class=&quot;headerlink&quot; title=&quot;v0.7.1&quot;&gt;&lt;/a&gt;v0.7.1&lt;/h1&gt;&lt;p&gt;2016/05/31&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support upload image to &lt;a href=&quot;https://imgur.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Imgur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support key prefix for &lt;a href=&quot;https://qiniu.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Qiniu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Record more upload history. Save when quit iPic.&lt;/li&gt;
+&lt;li&gt;Support start at login.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v0-6-0&quot;&gt;&lt;a href=&quot;#v0-6-0&quot; class=&quot;headerlink&quot; title=&quot;v0.6.0&quot;&gt;&lt;/a&gt;v0.6.0&lt;/h1&gt;&lt;p&gt;2016/05/25&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support upload to &lt;a href=&quot;https://qiniu.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Qiniu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Show auto upload status in menu bar.&lt;/li&gt;
+&lt;li&gt;Show upload progress in menu bar.&lt;/li&gt;
+&lt;li&gt;Support open menu by shortcut.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v0-5-1&quot;&gt;&lt;a href=&quot;#v0-5-1&quot; class=&quot;headerlink&quot; title=&quot;v0.5.1&quot;&gt;&lt;/a&gt;v0.5.1&lt;/h1&gt;&lt;p&gt;2016/05/17&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First trial version.&lt;/li&gt;
+&lt;li&gt;Support auto upload to Weibo.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;v1-1-0&quot;&gt;&lt;a href=&quot;#v1-1-0&quot; class=&quot;headerlink&quot; title=&quot;v1.1.0&quot;&gt;&lt;/a&gt;v1.1.0&lt;/h1&gt;&lt;p&gt;2016/07/01&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Release on Mac App Store&lt;/li&gt;
+
+    
+    </summary>
+    
+      <category term="iPic" scheme="http://toolinbox.net/en/categories/iPic/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>iHosts Was Recommended by Many Japanese Sites</title>
