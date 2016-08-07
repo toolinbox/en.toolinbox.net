@@ -150,9 +150,13 @@
     <link href="http://toolinbox.net/en/iHostsChangeLog.html"/>
     <id>http://toolinbox.net/en/iHostsChangeLog.html</id>
     <published>2015-05-03T10:32:16.000Z</published>
-    <updated>2016-05-23T15:08:33.000Z</updated>
+    <updated>2016-08-07T13:38:11.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;&lt;em&gt;May 22nd, 2016&lt;/em&gt;&lt;/p&gt;
+    <content type="html">&lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Aug 14th, 2016&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support macOS Sierra.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;&lt;em&gt;May 22nd, 2016&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Open Hosts menu by shortcut.&lt;/li&gt;
 &lt;li&gt;Support syntax highlight for Hosts.&lt;/li&gt;
@@ -166,9 +170,9 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;&lt;em&gt;May 22nd, 2016&lt;/em&gt;&lt;/p&gt;
+      &lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Aug 14th, 2016&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Open Hosts menu b
+&lt;li&gt;Support macOS Sie
     
     </summary>
     

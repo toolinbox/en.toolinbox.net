@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://toolinbox.net/en/en/iHostsChangeLog.html</loc>
+    
+    <lastmod>2016-08-07T13:38:11.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://toolinbox.net/en/en/iPic/ChangeLog.html</loc>
     
     <lastmod>2016-08-01T00:47:46.000Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://toolinbox.net/en/en/iHosts/terms.html</loc>
     
     <lastmod>2016-06-28T03:01:34.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://toolinbox.net/en/en/iHostsChangeLog.html</loc>
-    
-    <lastmod>2016-05-23T15:08:33.000Z</lastmod>
     
   </url>
   
