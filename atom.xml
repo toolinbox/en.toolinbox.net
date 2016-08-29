@@ -5,7 +5,7 @@
   <link href="/en/atom.xml" rel="self"/>
   
   <link href="http://toolinbox.net/en/"/>
-  <updated>2016-08-29T09:39:58.000Z</updated>
+  <updated>2016-08-29T14:05:47.000Z</updated>
   <id>http://toolinbox.net/en/</id>
   
   <author>
@@ -14,6 +14,87 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://toolinbox.net/en/iPic/AddS3.html"/>
+    <id>http://toolinbox.net/en/iPic/AddS3.html</id>
+    <published>2016-08-29T10:45:26.000Z</published>
+    <updated>2016-08-29T14:05:47.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Amazon Simple Storage Service (&lt;a href=&quot;https://aws.amazon.com/s3/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Amazon S3&lt;/a&gt;) is easy to use object storage, with a simple web service interface to store and retrieve any amount of data from anywhere on the web. For more introductions, please refer to &lt;a href=&quot;http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Getting Started with Amazon Simple Storage Service&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;Add-Amazon-S3-in-iPic&quot;&gt;&lt;a href=&quot;#Add-Amazon-S3-in-iPic&quot; class=&quot;headerlink&quot; title=&quot;Add Amazon S3 in iPic&quot;&gt;&lt;/a&gt;Add Amazon S3 in iPic&lt;/h1&gt;&lt;p&gt;Open iPic’s &lt;code&gt;Preferences&lt;/code&gt;, clicks &lt;code&gt;Image Host&lt;/code&gt;, and add &lt;code&gt;Amazon S3&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8353/29314951485_be334c71ed_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Here is the introductions for all parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;Same with the bucket in Amazon S3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;Refer to &lt;a href=&quot;http://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AWS Identity and Access Management (IAM) &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Http Prefix&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;The endpoint for Amazon S3 bucket, e.g., &lt;em&gt;&lt;a href=&quot;https://ipic-test.s3.amazonaws.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://ipic-test.s3.amazonaws.com&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After fill all the parts, clicks the &lt;strong&gt;Validate&lt;/strong&gt; button. If all the information above is correct, you can see the link of &lt;strong&gt;Passed&lt;/strong&gt; in the right.&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;Beside the basic configuration above, Amazon S3 also supports several advanced ones. Click the ‘Advanced’ button in right of &lt;code&gt;Http Prefix&lt;/code&gt;, you can see the following setting page.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8414/28692212794_54c631a0b0_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Http Prefix&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;Same with what ever introduced.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Filename Prefix&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;Could understand as the folder in Amazon S3&lt;/li&gt;
+&lt;li&gt;For example, if you want iPic upload all images in &lt;code&gt;blog&lt;/code&gt; folder, just input &lt;code&gt;blog&lt;/code&gt; here. The image link will like &lt;em&gt;&lt;a href=&quot;https://ipic-test.s3.amazonaws.com/blog/pic.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://ipic-test.s3.amazonaws.com/blog/pic.jpg&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Filename&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;The filename saved in Amazon S3. Now iPic supports these 3 kinds of filename.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Only Filename&lt;/code&gt; e.g.,  &lt;code&gt;pic.jpg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Date-Filename&lt;/code&gt; e.g., &lt;code&gt;2016-06-16-pic.jpg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Random&lt;/code&gt; e.g., &lt;code&gt;jk8l1.jpg&lt;/code&gt;, could help to shorten the link.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Http Suffix&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;Any characters in the end of the link.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After all, clicks &lt;strong&gt;Apply&lt;/strong&gt; to save.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Amazon Simple Storage Service (&lt;a href=&quot;https://aws.amazon.com/s3/&quot;&gt;Amazon S3&lt;/a&gt;) is easy to use object storage, with a simple web service interface to store and retrieve any amount of data from anywhere on the web. For more introductions, please refer to &lt;a href=&quot;http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html&quot;&gt;Getting Started with Amazon Simple Storage Service&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;Add-Amazon-S3-in-iPic&quot;&gt;&lt;a href=&quot;#Add-Amazon-S3-in-iPic&quot; class=&quot;headerlink&quot; title=&quot;Add Amazon S3 in iPic&quot;&gt;&lt;/a&gt;Add Amazon S3 in iPic&lt;/h1&gt;&lt;p&gt;Open iPic’s &lt;code&gt;Preferences&lt;/code&gt;, clicks &lt;code&gt;Image Host&lt;/code&gt;, and add &lt;code&gt;Amazon S3&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8353/29314951485_be334c71ed_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Here is the introductions for all parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;Same with the bucket in Amazon S3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;Refer to &lt;a href=&quot;http://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html&quot;&gt;AWS Identity and Access Management (IAM) &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Http Prefix&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;The endpoint for Amazon S3 bucket, e.g., &lt;em&gt;&lt;a href=&quot;https://ipic-test.s3.amazonaws.com&quot;&gt;https://ipic-test.s3.amazonaws.com&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After fill all the parts, clicks the &lt;strong&gt;Validate&lt;/strong&gt; button. If all the information above is correct, you can see the link of &lt;strong&gt;Passed&lt;/strong&gt; in the right.&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>iPic Change Log</title>
