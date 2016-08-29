@@ -4,12 +4,48 @@
 
     
   <url>
-    <loc>http://toolinbox.net/en/en/iPic/AddS3.html</loc>
-    <lastmod>2016-08-29T14:07:42.000Z</lastmod>
+    <loc>http://toolinbox.net/en/en/iHosts/terms.html</loc>
+    <lastmod>2016-08-29T14:14:23.000Z</lastmod>
     <data>
         <display>
-        <title>Add Amazon S3 in iPic</title>
-        <pubTime>2016-08-29T10:45:26.000Z</pubTime>
+        <title>Terms and Conditions</title>
+        <pubTime>2011-10-29T12:50:28.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iHosts" url="http://toolinbox.net/en/en/categories/iHosts/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://toolinbox.net/en/en/iHosts/privacy.html</loc>
+    <lastmod>2016-08-29T14:14:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>Privacy Policy</title>
+        <pubTime>2011-10-29T12:50:28.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iHosts" url="http://toolinbox.net/en/en/categories/iHosts/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://toolinbox.net/en/en/iPic/ChangeLog.html</loc>
+    <lastmod>2016-08-29T14:13:42.000Z</lastmod>
+    <data>
+        <display>
+        <title>iPic Change Log</title>
+        <pubTime>2016-05-22T10:32:16.000Z</pubTime>
         
          
            
@@ -22,12 +58,12 @@
 
     
   <url>
-    <loc>http://toolinbox.net/en/en/iPic/ChangeLog.html</loc>
-    <lastmod>2016-08-29T09:39:58.000Z</lastmod>
+    <loc>http://toolinbox.net/en/en/iPic/AddS3.html</loc>
+    <lastmod>2016-08-29T14:07:42.000Z</lastmod>
     <data>
         <display>
-        <title>iPic Change Log</title>
-        <pubTime>2016-05-22T10:32:16.000Z</pubTime>
+        <title>Add Amazon S3 in iPic</title>
+        <pubTime>2016-08-29T10:45:26.000Z</pubTime>
         
          
            
@@ -57,42 +93,6 @@
     </url>
 
     
-    
-  <url>
-    <loc>http://toolinbox.net/en/en/iHosts/privacy.html</loc>
-    <lastmod>2016-06-28T03:01:46.000Z</lastmod>
-    <data>
-        <display>
-        <title>Privacy Policy</title>
-        <pubTime>2011-10-29T12:50:28.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iHosts" url="http://toolinbox.net/en/en/categories/iHosts/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://toolinbox.net/en/en/iHosts/terms.html</loc>
-    <lastmod>2016-06-28T03:01:34.000Z</lastmod>
-    <data>
-        <display>
-        <title>Terms and Conditions</title>
-        <pubTime>2011-10-29T12:50:28.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iHosts" url="http://toolinbox.net/en/en/categories/iHosts/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>http://toolinbox.net/en/en/iHosts/iHostsJapaneseMedia.html</loc>

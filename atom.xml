@@ -103,7 +103,7 @@
     <link href="http://toolinbox.net/en/iPic/ChangeLog.html"/>
     <id>http://toolinbox.net/en/iPic/ChangeLog.html</id>
     <published>2016-05-22T10:32:16.000Z</published>
-    <updated>2016-08-29T09:39:58.000Z</updated>
+    <updated>2016-08-29T14:13:42.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;v1-2-0&quot;&gt;&lt;a href=&quot;#v1-2-0&quot; class=&quot;headerlink&quot; title=&quot;v1.2.0&quot;&gt;&lt;/a&gt;v1.2.0&lt;/h1&gt;&lt;p&gt;2016/08/29&lt;/p&gt;
 &lt;ul&gt;
@@ -118,6 +118,7 @@
 &lt;ul&gt;
 &lt;li&gt;Support &lt;a href=&quot;https://intl.aliyun.com/product/oss&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Alibaba Cloud Object Storage Service (OSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h1 id=&quot;v1-1-1&quot;&gt;&lt;a href=&quot;#v1-1-1&quot; class=&quot;headerlink&quot; title=&quot;v1.1.1&quot;&gt;&lt;/a&gt;v1.1.1&lt;/h1&gt;&lt;p&gt;2016/08/01&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Support macOS Sierra.&lt;/li&gt;
@@ -178,7 +179,17 @@
     
       &lt;h1 id=&quot;v1-2-0&quot;&gt;&lt;a href=&quot;#v1-2-0&quot; class=&quot;headerlink&quot; title=&quot;v1.2.0&quot;&gt;&lt;/a&gt;v1.2.0&lt;/h1&gt;&lt;p&gt;2016/08/29&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Support &lt;a href=&quot;https://aws.a
+&lt;li&gt;Support &lt;a href=&quot;https://aws.amazon.com/s3/&quot;&gt;Amazon S3&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Fixed Bugs&lt;ul&gt;
+&lt;li&gt;When upload multi-files, the order of links keep the same with files.&lt;/li&gt;
+&lt;li&gt;Sometimes no response when drag images from Dock to upload.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v1-1-2&quot;&gt;&lt;a href=&quot;#v1-1-2&quot; class=&quot;headerlink&quot; title=&quot;v1.1.2&quot;&gt;&lt;/a&gt;v1.1.2&lt;/h1&gt;&lt;p&gt;2016/08/21&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support &lt;a href=&quot;https://intl.aliyun.com/product/oss&quot;&gt;Alibaba Cloud Object Storage Service (OSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
@@ -282,9 +293,10 @@
     <link href="http://toolinbox.net/en/iHosts/terms.html"/>
     <id>http://toolinbox.net/en/iHosts/terms.html</id>
     <published>2011-10-29T12:50:28.000Z</published>
-    <updated>2016-06-28T03:01:34.000Z</updated>
+    <updated>2016-08-29T14:14:23.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;Terms-and-Conditions-“Terms”&quot;&gt;&lt;a href=&quot;#Terms-and-Conditions-“Terms”&quot; class=&quot;headerlink&quot; title=&quot;Terms and Conditions (“Terms”)&quot;&gt;&lt;/a&gt;Terms and Conditions (“Terms”)&lt;/h1&gt;&lt;p&gt;Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the &lt;a href=&quot;http://toolinbox.net&quot;&gt;http://toolinbox.net&lt;/a&gt; website or the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”) operated by Toolinbox (“us”, “we”, or “our”).&lt;br&gt;Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.&lt;br&gt;By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;Accounts&quot;&gt;&lt;a href=&quot;#Accounts&quot; class=&quot;headerlink&quot; title=&quot;Accounts&quot;&gt;&lt;/a&gt;Accounts&lt;/h2&gt;&lt;p&gt;When you create an account with us, you must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.&lt;br&gt;You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.&lt;br&gt;You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.&lt;/p&gt;
 &lt;h2 id=&quot;Links-To-Other-Web-Sites&quot;&gt;&lt;a href=&quot;#Links-To-Other-Web-Sites&quot; class=&quot;headerlink&quot; title=&quot;Links To Other Web Sites&quot;&gt;&lt;/a&gt;Links To Other Web Sites&lt;/h2&gt;&lt;p&gt;Our Service may contain links to third-party web sites or services that are not owned or controlled by Toolinbox.&lt;br&gt;Toolinbox has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Toolinbox shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.&lt;br&gt;We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.&lt;/p&gt;
 &lt;h2 id=&quot;Termination&quot;&gt;&lt;a href=&quot;#Termination&quot; class=&quot;headerlink&quot; title=&quot;Termination&quot;&gt;&lt;/a&gt;Termination&lt;/h2&gt;&lt;p&gt;We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.&lt;br&gt;All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.&lt;br&gt;We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.&lt;br&gt;Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service.&lt;br&gt;All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.&lt;/p&gt;
@@ -295,7 +307,7 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Terms-and-Conditions-“Terms”&quot;&gt;&lt;a href=&quot;#Terms-and-Conditions-“Terms”&quot; class=&quot;headerlink&quot; title=&quot;Terms and Conditions (“Terms”)&quot;&gt;&lt;/a&gt;
+      &lt;h1 id=&quot;Terms-and-Conditions-“Terms”&quot;&gt;&lt;a href=&quot;#Terms-and-Conditions-“Terms”&quot; class=&quot;headerlink&quot; title=&quot;Terms and Conditions (“Terms”)&quot;&gt;&lt;/a&gt;Terms and Conditions (“Terms”)&lt;/h1&gt;&lt;p&gt;Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the &lt;a href=&quot;http://toolinbox.net&quot;&gt;http://toolinbox.net&lt;/a&gt; website or the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”) operated by Toolinbox (“us”, “we”, or “our”).&lt;br&gt;Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.&lt;br&gt;By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.&lt;/p&gt;
     
     </summary>
     
@@ -309,9 +321,10 @@
     <link href="http://toolinbox.net/en/iHosts/privacy.html"/>
     <id>http://toolinbox.net/en/iHosts/privacy.html</id>
     <published>2011-10-29T12:50:28.000Z</published>
-    <updated>2016-06-28T03:01:46.000Z</updated>
+    <updated>2016-08-29T14:14:19.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;Privacy-Policy&quot;&gt;&lt;a href=&quot;#Privacy-Policy&quot; class=&quot;headerlink&quot; title=&quot;Privacy Policy&quot;&gt;&lt;/a&gt;Privacy Policy&lt;/h1&gt;&lt;p&gt;Toolinbox (“us”, “we”, or “our”) operates the &lt;a href=&quot;http://toolinbox.net&quot;&gt;http://toolinbox.net&lt;/a&gt; website and the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”).&lt;br&gt;This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.&lt;br&gt;We will not use or share your information with anyone except as described in this Privacy Policy.&lt;br&gt;We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at &lt;a href=&quot;http://toolinbox.net&quot;&gt;http://toolinbox.net&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;Information-Collection-And-Use&quot;&gt;&lt;a href=&quot;#Information-Collection-And-Use&quot; class=&quot;headerlink&quot; title=&quot;Information Collection And Use&quot;&gt;&lt;/a&gt;Information Collection And Use&lt;/h2&gt;&lt;p&gt;While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you.&lt;/p&gt;
 &lt;h2 id=&quot;Log-Data&quot;&gt;&lt;a href=&quot;#Log-Data&quot; class=&quot;headerlink&quot; title=&quot;Log Data&quot;&gt;&lt;/a&gt;Log Data&lt;/h2&gt;&lt;p&gt;We collect information that your browser or app sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your browser type, browser version, the macOS version, the time and date of your use, the time spent on those pages and other statistics.&lt;/p&gt;
 &lt;h2 id=&quot;Cookies&quot;&gt;&lt;a href=&quot;#Cookies&quot; class=&quot;headerlink&quot; title=&quot;Cookies&quot;&gt;&lt;/a&gt;Cookies&lt;/h2&gt;&lt;p&gt;Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.&lt;br&gt;We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.&lt;/p&gt;
@@ -325,7 +338,7 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Privacy-Policy&quot;&gt;&lt;a href=&quot;#Privacy-Policy&quot; class=&quot;headerlink&quot; title=&quot;Privacy Policy&quot;&gt;&lt;/a&gt;Privacy Policy&lt;/h1&gt;&lt;p&gt;Toolinbox (“us”, “we”,
+      &lt;h1 id=&quot;Privacy-Policy&quot;&gt;&lt;a href=&quot;#Privacy-Policy&quot; class=&quot;headerlink&quot; title=&quot;Privacy Policy&quot;&gt;&lt;/a&gt;Privacy Policy&lt;/h1&gt;&lt;p&gt;Toolinbox (“us”, “we”, or “our”) operates the &lt;a href=&quot;http://toolinbox.net&quot;&gt;http://toolinbox.net&lt;/a&gt; website and the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”).&lt;br&gt;This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.&lt;br&gt;We will not use or share your information with anyone except as described in this Privacy Policy.&lt;br&gt;We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at &lt;a href=&quot;http://toolinbox.net&quot;&gt;http://toolinbox.net&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
