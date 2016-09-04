@@ -5,7 +5,7 @@
   <link href="/en/atom.xml" rel="self"/>
   
   <link href="http://toolinbox.net/en/"/>
-  <updated>2016-08-29T14:07:42.000Z</updated>
+  <updated>2016-09-04T23:17:32.000Z</updated>
   <id>http://toolinbox.net/en/</id>
   
   <author>
@@ -14,6 +14,78 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>iPic Open Upload API: iPicUploader</title>
+    <link href="http://toolinbox.net/en/iPic/iPicUploader.html"/>
+    <id>http://toolinbox.net/en/iPic/iPicUploader.html</id>
+    <published>2016-09-04T23:16:11.000Z</published>
+    <updated>2016-09-04T23:17:32.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;iPic&quot;&gt;&lt;a href=&quot;#iPic&quot; class=&quot;headerlink&quot; title=&quot;iPic&quot;&gt;&lt;/a&gt;iPic&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7322/28018346695_f1461c7a09_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;iPic could automatically upload images and save Markdown links on macOS.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Upload images by drag &amp;amp; drop.&lt;/li&gt;
+&lt;li&gt;Upload images by services with shortcut [Command + U].&lt;/li&gt;
+&lt;li&gt;Upload copied images with shortcut [Shift + Command + U].&lt;/li&gt;
+&lt;li&gt;Support Imgur, Flickr, Amazon S3 and other image hosts.&lt;/li&gt;
+&lt;li&gt;Support image link of Markdown format.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://toolinbox.net/en/iPic/&quot;&gt;Video introduction&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1101244278?ls=1&amp;amp;mt=12&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Download iPic&lt;/a&gt; and have a try.&lt;/p&gt;
+&lt;h1 id=&quot;iPicUploader&quot;&gt;&lt;a href=&quot;#iPicUploader&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader&quot;&gt;&lt;/a&gt;iPicUploader&lt;/h1&gt;&lt;p&gt;iPic open the ability to upload images. It means if you App also needs to upload images, no need to build from scratch. Just use iPicUploader, you App could also upload images to Imgur, Flickr, Amazon S3 and other image hosts.&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;iPicUploader-Usage&quot;&gt;&lt;a href=&quot;#iPicUploader-Usage&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader Usage&quot;&gt;&lt;/a&gt;iPicUploader Usage&lt;/h2&gt;&lt;p&gt;Upload image file:&lt;/p&gt;
+&lt;figure class=&quot;highlight swift&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageFilePath = &lt;span class=&quot;string&quot;&gt;&quot;/Path/to/the/pic.jpg&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iPic.uploadImage(imageFilePath, handler: &amp;#123; (imageLink, error) &lt;span class=&quot;keyword&quot;&gt;in&lt;/span&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageLink = imageLink &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;comment&quot;&gt;// Image uploaded        &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	   &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125; &lt;span class=&quot;keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; error = error &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;comment&quot;&gt;// Some error happened&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;Upload image data:&lt;/p&gt;
+&lt;figure class=&quot;highlight swift&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageFilePath = &lt;span class=&quot;string&quot;&gt;&quot;/Path/to/the/pic.jpg&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageData = &lt;span class=&quot;type&quot;&gt;NSData&lt;/span&gt;(contentsOfFile: imageFilePath)!&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iPic.uploadImage(imageData, handler: &amp;#123; (imageLink, error) &lt;span class=&quot;keyword&quot;&gt;in&lt;/span&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageLink = imageLink &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;comment&quot;&gt;// Image uploaded        &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	   &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125; &lt;span class=&quot;keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; error = error &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;comment&quot;&gt;// Some error happened&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;Upload NSImage:&lt;/p&gt;
+&lt;figure class=&quot;highlight swift&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageFilePath = &lt;span class=&quot;string&quot;&gt;&quot;/Path/to/the/pic.jpg&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; image = &lt;span class=&quot;type&quot;&gt;NSImage&lt;/span&gt;(contentsOfFile: imageFilePath)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iPic.uploadImage(image, handler: &amp;#123; (imageLink, error) &lt;span class=&quot;keyword&quot;&gt;in&lt;/span&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageLink = imageLink &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;comment&quot;&gt;// Image uploaded        &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	   &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125; &lt;span class=&quot;keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; error = error &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;comment&quot;&gt;// Some error happened&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;iPicUploader-Example&quot;&gt;&lt;a href=&quot;#iPicUploader-Example&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader Example&quot;&gt;&lt;/a&gt;iPicUploader Example&lt;/h2&gt;&lt;p&gt;iPicUploader also includes a full example. You will feel easy to start. To run the example project, just clone current repository and open &lt;em&gt;iPicUploader.xcworkspace&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Note: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As the demo needs to upload images by iPic, you need to &lt;a href=&quot;http://toolinbox.net/html/DownloadiPicWithService.html&quot;&gt;download iPic&lt;/a&gt; at first. &lt;/li&gt;
+&lt;li&gt;No worry, you will also be guided to download iPic in the example.&lt;/li&gt;
+&lt;li&gt;The example already dealt with these cases:&lt;ul&gt;
+&lt;li&gt;If iPic wasn’t installed, guide user to download.&lt;/li&gt;
+&lt;li&gt;If iPic wasn’t running, launch iPic automatically.&lt;/li&gt;
+&lt;li&gt;If iPic is running but not compatible, guide user to download latest version.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now, let’s have a look how the example upload images.&lt;/p&gt;
+&lt;h3 id=&quot;1-Upload-Images-by-Drag-amp-Drop&quot;&gt;&lt;a href=&quot;#1-Upload-Images-by-Drag-amp-Drop&quot; class=&quot;headerlink&quot; title=&quot;1. Upload Images by Drag &amp;amp; Drop&quot;&gt;&lt;/a&gt;1. Upload Images by Drag &amp;amp; Drop&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8085/29362952261_29d4282e7d_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;As you can see, iPicUploader support uploads multi-images at a time.&lt;/p&gt;
+&lt;h3 id=&quot;2-Upload-Images-by-Select-Images-Files&quot;&gt;&lt;a href=&quot;#2-Upload-Images-by-Select-Images-Files&quot; class=&quot;headerlink&quot; title=&quot;2. Upload Images by Select Images Files&quot;&gt;&lt;/a&gt;2. Upload Images by Select Images Files&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8437/29408369616_bd961fc777_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3-Upload-Images-by-Copy-Image-and-Paste&quot;&gt;&lt;a href=&quot;#3-Upload-Images-by-Copy-Image-and-Paste&quot; class=&quot;headerlink&quot; title=&quot;3. Upload Images by Copy Image and Paste&quot;&gt;&lt;/a&gt;3. Upload Images by Copy Image and Paste&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8533/29408372976_7b39f9898f_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Beside copy image files, you can also copy the image in other Apps to upload.&lt;/p&gt;
+&lt;h2 id=&quot;Requirements&quot;&gt;&lt;a href=&quot;#Requirements&quot; class=&quot;headerlink&quot; title=&quot;Requirements&quot;&gt;&lt;/a&gt;Requirements&lt;/h2&gt;&lt;p&gt;As iPic runs on macOS 10.11 and newer version, iPicUploader also needs macOS 10.11+&lt;/p&gt;
+&lt;h2 id=&quot;Installation&quot;&gt;&lt;a href=&quot;#Installation&quot; class=&quot;headerlink&quot; title=&quot;Installation&quot;&gt;&lt;/a&gt;Installation&lt;/h2&gt;&lt;p&gt;iPicUploader is available through &lt;a href=&quot;http://cocoapods.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CocoaPods&lt;/a&gt;. To install&lt;br&gt;it, simply add the following line to your Podfile:&lt;/p&gt;
+&lt;figure class=&quot;highlight ruby&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;pod &lt;span class=&quot;string&quot;&gt;&quot;iPicUploader&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;License&quot;&gt;&lt;a href=&quot;#License&quot; class=&quot;headerlink&quot; title=&quot;License&quot;&gt;&lt;/a&gt;License&lt;/h2&gt;&lt;p&gt;iPicUploader is available under the MIT license.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;iPic&quot;&gt;&lt;a href=&quot;#iPic&quot; class=&quot;headerlink&quot; title=&quot;iPic&quot;&gt;&lt;/a&gt;iPic&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7322/28018346695_f1461c7a09_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;iPic could automatically upload images and save Markdown links on macOS.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Upload images by drag &amp;amp; drop.&lt;/li&gt;
+&lt;li&gt;Upload images by services with shortcut [Command + U].&lt;/li&gt;
+&lt;li&gt;Upload copied images with shortcut [Shift + Command + U].&lt;/li&gt;
+&lt;li&gt;Support Imgur, Flickr, Amazon S3 and other image hosts.&lt;/li&gt;
+&lt;li&gt;Support image link of Markdown format.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://toolinbox.net/en/iPic/&quot;&gt;Video introduction&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1101244278?ls=1&amp;amp;mt=12&quot;&gt;Download iPic&lt;/a&gt; and have a try.&lt;/p&gt;
+&lt;h1 id=&quot;iPicUploader&quot;&gt;&lt;a href=&quot;#iPicUploader&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader&quot;&gt;&lt;/a&gt;iPicUploader&lt;/h1&gt;&lt;p&gt;iPic open the ability to upload images. It means if you App also needs to upload images, no need to build from scratch. Just use iPicUploader, you App could also upload images to Imgur, Flickr, Amazon S3 and other image hosts.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="iPic" scheme="http://toolinbox.net/en/categories/iPic/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Add Amazon S3 in iPic</title>
