@@ -376,6 +376,46 @@
   </entry>
   
   <entry>
+    <title>iTimer Change Log</title>
+    <link href="http://toolinbox.net/en/iTimer/ChangeLog.html"/>
+    <id>http://toolinbox.net/en/iTimer/ChangeLog.html</id>
+    <published>2015-11-22T10:32:16.000Z</published>
+    <updated>2016-09-22T04:40:48.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;v1-2-1&quot;&gt;&lt;a href=&quot;#v1-2-1&quot; class=&quot;headerlink&quot; title=&quot;v1.2.1&quot;&gt;&lt;/a&gt;v1.2.1&lt;/h1&gt;&lt;p&gt;2016/09/29&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Change App name to iTimer, also update logo.&lt;/li&gt;
+&lt;li&gt;Add more timers.&lt;/li&gt;
+&lt;li&gt;Support macOS Sierra.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;v0-6-2&quot;&gt;&lt;a href=&quot;#v0-6-2&quot; class=&quot;headerlink&quot; title=&quot;v0.6.2&quot;&gt;&lt;/a&gt;v0.6.2&lt;/h1&gt;&lt;p&gt;2015/12/15&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug fixing and feature improvement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v0-5-1&quot;&gt;&lt;a href=&quot;#v0-5-1&quot; class=&quot;headerlink&quot; title=&quot;v0.5.1&quot;&gt;&lt;/a&gt;v0.5.1&lt;/h1&gt;&lt;p&gt;2015/12/05&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Release on Mac App Store&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;v1-2-1&quot;&gt;&lt;a href=&quot;#v1-2-1&quot; class=&quot;headerlink&quot; title=&quot;v1.2.1&quot;&gt;&lt;/a&gt;v1.2.1&lt;/h1&gt;&lt;p&gt;2016/09/29&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Change App name to iTimer, also update logo.&lt;/li&gt;
+&lt;li&gt;Add more timers.&lt;/li&gt;
+&lt;li&gt;Support macOS Sierra.&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="iTimer" scheme="http://toolinbox.net/en/categories/iTimer/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>iHosts Change Log</title>
     <link href="http://toolinbox.net/en/iHostsChangeLog.html"/>
     <id>http://toolinbox.net/en/iHostsChangeLog.html</id>
