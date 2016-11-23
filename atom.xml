@@ -5,7 +5,7 @@
   <link href="/en/atom.xml" rel="self"/>
   
   <link href="http://toolinbox.net/en/"/>
-  <updated>2016-11-23T02:59:45.000Z</updated>
+  <updated>2016-11-23T03:15:11.000Z</updated>
   <id>http://toolinbox.net/en/</id>
   
   <author>
@@ -20,12 +20,13 @@
     <link href="http://toolinbox.net/en/iPic/iPicUploader_Typora.html"/>
     <id>http://toolinbox.net/en/iPic/iPicUploader_Typora.html</id>
     <published>2016-11-23T02:50:22.000Z</published>
-    <updated>2016-11-23T02:59:45.000Z</updated>
+    <updated>2016-11-23T03:15:11.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/65e4f1e6gw1f9yveec8a2j20rs0dw751.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Now, &lt;a href=&quot;http://www.typora.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Typora&lt;/a&gt;‘s user could easily insert images in Markdown with iPic’s help.&lt;/p&gt;
 &lt;h1 id=&quot;Upload-Local-Images-to-Cloud-via-iPic&quot;&gt;&lt;a href=&quot;#Upload-Local-Images-to-Cloud-via-iPic&quot; class=&quot;headerlink&quot; title=&quot;Upload Local Images to Cloud via iPic&quot;&gt;&lt;/a&gt;Upload Local Images to Cloud via iPic&lt;/h1&gt;&lt;p&gt;If you already insert local images in Markdown, could easily upload them to Cloud with one click.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/65e4f1e6gw1f9yve3ycosg20ha0c0k3l.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h1 id=&quot;Automatically-Upload-Images-to-Cloud-When-Insert&quot;&gt;&lt;a href=&quot;#Automatically-Upload-Images-to-Cloud-When-Insert&quot; class=&quot;headerlink&quot; title=&quot;Automatically Upload Images to Cloud When Insert&quot;&gt;&lt;/a&gt;Automatically Upload Images to Cloud When Insert&lt;/h1&gt;&lt;p&gt;If you enable this option, when you insert local images, Typora will automatically upload them to Cloud and replace the link.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/65e4f1e6gw1f9yve97z9pg20hm0bsnbg.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h1 id=&quot;iPicUploader&quot;&gt;&lt;a href=&quot;#iPicUploader&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader&quot;&gt;&lt;/a&gt;iPicUploader&lt;/h1&gt;&lt;p&gt;iPic opens the ability to upload images. It means if your App also needs to upload images, no need to build from scratch. Just use iPicUploader, your App could also upload images to Imgur, Flickr, Amazon S3 and other image hosts.&lt;/p&gt;
@@ -38,7 +39,9 @@
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/65e4f1e6gw1f9yveec8a2j20rs0dw751.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Now, &lt;a href=&quot;http://www.typora.io/&quot; target=&quot;_
+&lt;p&gt;Now, &lt;a href=&quot;http://www.typora.io/&quot;&gt;Typora&lt;/a&gt;‘s user could easily insert images in Markdown with iPic’s help.&lt;/p&gt;
+&lt;h1 id=&quot;Upload-Local-Images-to-Cloud-via-iPic&quot;&gt;&lt;a href=&quot;#Upload-Local-Images-to-Cloud-via-iPic&quot; class=&quot;headerlink&quot; title=&quot;Upload Local Images to Cloud via iPic&quot;&gt;&lt;/a&gt;Upload Local Images to Cloud via iPic&lt;/h1&gt;&lt;p&gt;If you already insert local images in Markdown, could easily upload them to Cloud with one click.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/65e4f1e6gw1f9yve3ycosg20ha0c0k3l.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     
