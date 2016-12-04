@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://en.toolinbox.net/"/>
-  <updated>2016-12-04T15:40:05.000Z</updated>
+  <updated>2016-12-04T15:46:34.000Z</updated>
   <id>http://en.toolinbox.net/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://en.toolinbox.net/iPic/iPicMover.html"/>
     <id>http://en.toolinbox.net/iPic/iPicMover.html</id>
     <published>2016-12-04T15:24:32.000Z</published>
-    <updated>2016-12-04T15:40:05.000Z</updated>
+    <updated>2016-12-04T15:46:34.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;https://oaawbohq4.qnssl.com/blog/6uid2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h1 id=&quot;What’s-iPic-Mover-Do-I-Need-it&quot;&gt;&lt;a href=&quot;#What’s-iPic-Mover-Do-I-Need-it&quot; class=&quot;headerlink&quot; title=&quot;What’s iPic Mover? Do I Need it?&quot;&gt;&lt;/a&gt;What’s iPic Mover? Do I Need it?&lt;/h1&gt;&lt;p&gt;Did you ever meet these troubles?&lt;/p&gt;
@@ -43,8 +43,9 @@
 &lt;li&gt;This feature is under development…&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In another side, iPic Mover could help you to easily transfer images in Markdown to new image host.&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h1 id=&quot;How-to-Use-iPic-Mover&quot;&gt;&lt;a href=&quot;#How-to-Use-iPic-Mover&quot; class=&quot;headerlink&quot; title=&quot;How to Use iPic Mover?&quot;&gt;&lt;/a&gt;How to Use iPic Mover?&lt;/h1&gt;&lt;p&gt;Have a look at this gif first:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/006tNc79gw1faf5yylpijg30ii0b84qp.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/large/006tNc79gw1faf6wk04rrg30ii0b81kx.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;You only need to select the folder of Markdown files, iPic Mover could help you to:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Find all Markdown files&lt;/li&gt;
@@ -68,7 +69,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&quot;How-iPic-Mover-Works？&quot;&gt;&lt;a href=&quot;#How-iPic-Mover-Works？&quot; class=&quot;headerlink&quot; title=&quot;How iPic Mover Works？&quot;&gt;&lt;/a&gt;How iPic Mover Works？&lt;/h1&gt;&lt;p&gt;In fact iPic Mover calls iPic to upload images. Check more details about iPicUploader in this blog: &lt;a href=&quot;https://en.toolinbox.net/iPic/iPicUploader.html&quot;&gt;iPic Opens Upload API: iPicUploader&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;How-iPic-Mover-Works？&quot;&gt;&lt;a href=&quot;#How-iPic-Mover-Works？&quot; class=&quot;headerlink&quot; title=&quot;How iPic Mover Works？&quot;&gt;&lt;/a&gt;How iPic Mover Works？&lt;/h1&gt;&lt;p&gt;In fact iPic Mover calls iPic to upload images. Check more details about iPicUploader in this blog:&lt;br&gt;&lt;a href=&quot;https://en.toolinbox.net/iPic/iPicUploader.html&quot;&gt;iPic Opens Upload API: iPicUploader&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;Download-iPic-Mover&quot;&gt;&lt;a href=&quot;#Download-iPic-Mover&quot; class=&quot;headerlink&quot; title=&quot;Download iPic Mover&quot;&gt;&lt;/a&gt;Download iPic Mover&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://toolinbox.net/html/iPicMover/download.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;&amp;gt; Click to Download iPic Mover &amp;lt;&amp;lt;&amp;lt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Have a try now!&lt;/p&gt;
 &lt;p&gt;Any suggestions, welcome to &lt;a href=&quot;https://toolinbox.net/html/feedback.html?app=iPicMover&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;chat with me&lt;/a&gt;. Looks forward to your feedback.&lt;/p&gt;
@@ -77,7 +78,26 @@
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;https://oaawbohq4.qnssl.com/blog/6uid2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;What’s-iPic-Mover-Do-I-Need-it&quot;&gt;&lt;a href=&quot;#What’s-iPic-Mover-Do-
+&lt;h1 id=&quot;What’s-iPic-Mover-Do-I-Need-it&quot;&gt;&lt;a href=&quot;#What’s-iPic-Mover-Do-I-Need-it&quot; class=&quot;headerlink&quot; title=&quot;What’s iPic Mover? Do I Need it?&quot;&gt;&lt;/a&gt;What’s iPic Mover? Do I Need it?&lt;/h1&gt;&lt;p&gt;Did you ever meet these troubles?&lt;/p&gt;
+&lt;p&gt;１. &lt;strong&gt;Upload images to cloud, and then update link in Markdown&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Most Markdown editors don’t support upload images to cloud.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;２. &lt;strong&gt;Change image host&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;E.g., if you want to let your site support https, possibly you need to move images to new image host which supports https.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;３. &lt;strong&gt;Transfer images when change WordPress to Markdown&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;WordPress was very popular, even popular now. But it’s a big trouble to transfer the images in WordPress as attachment.&lt;/li&gt;
+&lt;li&gt;This feature is under development…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;４. &lt;strong&gt;Compress existing images&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You may ever uploaded very big images. But it’s very difficult to find all these images in articles, compress, upload to cloud, and then update the links.&lt;/li&gt;
+&lt;li&gt;This feature is under development…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In another side, iPic Mover could help you to easily transfer images in Markdown to new image host.&lt;/p&gt;
     
     </summary>
     
