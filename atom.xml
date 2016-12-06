@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://en.toolinbox.net/"/>
-  <updated>2016-12-04T15:46:34.000Z</updated>
+  <updated>2016-12-06T03:52:25.000Z</updated>
   <id>http://en.toolinbox.net/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://en.toolinbox.net/iPic/iPicMover.html"/>
     <id>http://en.toolinbox.net/iPic/iPicMover.html</id>
     <published>2016-12-04T15:24:32.000Z</published>
-    <updated>2016-12-04T15:46:34.000Z</updated>
+    <updated>2016-12-06T03:52:25.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://oaawbohq4.qnssl.com/blog/6uid2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5605/31412375166_5bc16137f6_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h1 id=&quot;What’s-iPic-Mover-Do-I-Need-it&quot;&gt;&lt;a href=&quot;#What’s-iPic-Mover-Do-I-Need-it&quot; class=&quot;headerlink&quot; title=&quot;What’s iPic Mover? Do I Need it?&quot;&gt;&lt;/a&gt;What’s iPic Mover? Do I Need it?&lt;/h1&gt;&lt;p&gt;Did you ever meet these troubles?&lt;/p&gt;
 &lt;p&gt;１. &lt;strong&gt;Upload images to cloud, and then update link in Markdown&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -45,7 +45,7 @@
 &lt;p&gt;In another side, iPic Mover could help you to easily transfer images in Markdown to new image host.&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h1 id=&quot;How-to-Use-iPic-Mover&quot;&gt;&lt;a href=&quot;#How-to-Use-iPic-Mover&quot; class=&quot;headerlink&quot; title=&quot;How to Use iPic Mover?&quot;&gt;&lt;/a&gt;How to Use iPic Mover?&lt;/h1&gt;&lt;p&gt;Have a look at this gif first:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/large/006tNc79gw1faf6wk04rrg30ii0b81kx.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5527/31450900705_f21b71db19_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;You only need to select the folder of Markdown files, iPic Mover could help you to:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Find all Markdown files&lt;/li&gt;
@@ -77,7 +77,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://oaawbohq4.qnssl.com/blog/6uid2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5605/31412375166_5bc16137f6_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h1 id=&quot;What’s-iPic-Mover-Do-I-Need-it&quot;&gt;&lt;a href=&quot;#What’s-iPic-Mover-Do-I-Need-it&quot; class=&quot;headerlink&quot; title=&quot;What’s iPic Mover? Do I Need it?&quot;&gt;&lt;/a&gt;What’s iPic Mover? Do I Need it?&lt;/h1&gt;&lt;p&gt;Did you ever meet these troubles?&lt;/p&gt;
 &lt;p&gt;１. &lt;strong&gt;Upload images to cloud, and then update link in Markdown&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -111,28 +111,28 @@
     <link href="http://en.toolinbox.net/iPic/iPicUploader_Typora.html"/>
     <id>http://en.toolinbox.net/iPic/iPicUploader_Typora.html</id>
     <published>2016-11-23T02:50:22.000Z</published>
-    <updated>2016-11-25T14:04:55.000Z</updated>
+    <updated>2016-12-06T02:14:38.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/65e4f1e6gw1f9yveec8a2j20rs0dw751.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5675/31078664840_e837b5e62b_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Now, &lt;a href=&quot;http://www.typora.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Typora&lt;/a&gt;‘s user could easily insert images in Markdown with iPic’s help.&lt;/p&gt;
 &lt;h1 id=&quot;Upload-Local-Images-to-Cloud-via-iPic&quot;&gt;&lt;a href=&quot;#Upload-Local-Images-to-Cloud-via-iPic&quot; class=&quot;headerlink&quot; title=&quot;Upload Local Images to Cloud via iPic&quot;&gt;&lt;/a&gt;Upload Local Images to Cloud via iPic&lt;/h1&gt;&lt;p&gt;If you already insert local images in Markdown, you could easily upload them to Cloud with one click.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/65e4f1e6gw1f9yve3ycosg20ha0c0k3l.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5608/31412408656_f5ac8b9b84_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h1 id=&quot;Automatically-Upload-Images-to-Cloud-When-Insert&quot;&gt;&lt;a href=&quot;#Automatically-Upload-Images-to-Cloud-When-Insert&quot; class=&quot;headerlink&quot; title=&quot;Automatically Upload Images to Cloud When Insert&quot;&gt;&lt;/a&gt;Automatically Upload Images to Cloud When Insert&lt;/h1&gt;&lt;p&gt;If you enable this option, when you insert local images, Typora will automatically upload them to Cloud and replace the link.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/65e4f1e6gw1f9yve97z9pg20hm0bsnbg.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5619/30641284383_9b8661751f_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h1 id=&quot;iPicUploader&quot;&gt;&lt;a href=&quot;#iPicUploader&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader&quot;&gt;&lt;/a&gt;iPicUploader&lt;/h1&gt;&lt;p&gt;iPic opens the ability to upload images. It means if your App also needs to upload images, no need to build from scratch. Just use iPicUploader, your App could also upload images to Imgur, Flickr, Amazon S3 and other image hosts.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://toolinbox.net/en/iPic/iPicUploader.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Learn more about iPicUploader&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Typora&lt;/strong&gt; is the first Markdown editor integrate with iPicUploader.&lt;/p&gt;
 &lt;p&gt;If you also want your favorite Markdown editor supports upload images by drag &amp;amp; drop via iPic, just contact me or the editor’s team. Hope all of us could easily insert images in Markdown.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/006y8lVagw1f8wihcq5mgj303k03k0sp.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5679/31449195775_ac62afd01b_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/65e4f1e6gw1f9yveec8a2j20rs0dw751.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5675/31078664840_e837b5e62b_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Now, &lt;a href=&quot;http://www.typora.io/&quot;&gt;Typora&lt;/a&gt;‘s user could easily insert images in Markdown with iPic’s help.&lt;/p&gt;
 &lt;h1 id=&quot;Upload-Local-Images-to-Cloud-via-iPic&quot;&gt;&lt;a href=&quot;#Upload-Local-Images-to-Cloud-via-iPic&quot; class=&quot;headerlink&quot; title=&quot;Upload Local Images to Cloud via iPic&quot;&gt;&lt;/a&gt;Upload Local Images to Cloud via iPic&lt;/h1&gt;&lt;p&gt;If you already insert local images in Markdown, you could easily upload them to Cloud with one click.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/65e4f1e6gw1f9yve3ycosg20ha0c0k3l.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5608/31412408656_f5ac8b9b84_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     
@@ -146,9 +146,9 @@
     <link href="http://en.toolinbox.net/iPic/iPicUploader.html"/>
     <id>http://en.toolinbox.net/iPic/iPicUploader.html</id>
     <published>2016-09-04T23:16:11.000Z</published>
-    <updated>2016-11-23T02:56:08.000Z</updated>
+    <updated>2016-12-06T04:30:23.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;iPic&quot;&gt;&lt;a href=&quot;#iPic&quot; class=&quot;headerlink&quot; title=&quot;iPic&quot;&gt;&lt;/a&gt;iPic&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7322/28018346695_f1461c7a09_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;h1 id=&quot;iPic&quot;&gt;&lt;a href=&quot;#iPic&quot; class=&quot;headerlink&quot; title=&quot;iPic&quot;&gt;&lt;/a&gt;iPic&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5599/31306139462_e0753838bf_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;iPic could automatically upload images and save Markdown links on macOS.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Upload images by drag &amp;amp; drop.&lt;/li&gt;
@@ -180,10 +180,10 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Now, let’s have a look how the example upload images.&lt;/p&gt;
-&lt;h3 id=&quot;1-Upload-Images-by-Drag-amp-Drop&quot;&gt;&lt;a href=&quot;#1-Upload-Images-by-Drag-amp-Drop&quot; class=&quot;headerlink&quot; title=&quot;1. Upload Images by Drag &amp;amp; Drop&quot;&gt;&lt;/a&gt;1. Upload Images by Drag &amp;amp; Drop&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8085/29362952261_29d4282e7d_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;1-Upload-Images-by-Drag-amp-Drop&quot;&gt;&lt;a href=&quot;#1-Upload-Images-by-Drag-amp-Drop&quot; class=&quot;headerlink&quot; title=&quot;1. Upload Images by Drag &amp;amp; Drop&quot;&gt;&lt;/a&gt;1. Upload Images by Drag &amp;amp; Drop&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5506/31414737496_4aab9bbfd8_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;As you can see, iPicUploader support uploads multi-images at a time.&lt;/p&gt;
-&lt;h3 id=&quot;2-Upload-Images-by-Select-Images-Files&quot;&gt;&lt;a href=&quot;#2-Upload-Images-by-Select-Images-Files&quot; class=&quot;headerlink&quot; title=&quot;2. Upload Images by Select Images Files&quot;&gt;&lt;/a&gt;2. Upload Images by Select Images Files&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8437/29408369616_bd961fc777_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;3-Upload-Images-by-Copy-Image-and-Paste&quot;&gt;&lt;a href=&quot;#3-Upload-Images-by-Copy-Image-and-Paste&quot; class=&quot;headerlink&quot; title=&quot;3. Upload Images by Copy Image and Paste&quot;&gt;&lt;/a&gt;3. Upload Images by Copy Image and Paste&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8533/29408372976_7b39f9898f_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2-Upload-Images-by-Select-Images-Files&quot;&gt;&lt;a href=&quot;#2-Upload-Images-by-Select-Images-Files&quot; class=&quot;headerlink&quot; title=&quot;2. Upload Images by Select Images Files&quot;&gt;&lt;/a&gt;2. Upload Images by Select Images Files&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5327/31306114252_c1dafd7632_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3-Upload-Images-by-Copy-Image-and-Paste&quot;&gt;&lt;a href=&quot;#3-Upload-Images-by-Copy-Image-and-Paste&quot; class=&quot;headerlink&quot; title=&quot;3. Upload Images by Copy Image and Paste&quot;&gt;&lt;/a&gt;3. Upload Images by Copy Image and Paste&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5612/31333335491_30d9a56377_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Beside copy image files, you can also copy the image in other Apps to upload.&lt;/p&gt;
 &lt;h2 id=&quot;Requirements&quot;&gt;&lt;a href=&quot;#Requirements&quot; class=&quot;headerlink&quot; title=&quot;Requirements&quot;&gt;&lt;/a&gt;Requirements&lt;/h2&gt;&lt;p&gt;As iPic runs on macOS 10.11 and newer version, iPicUploader also needs macOS 10.11+&lt;/p&gt;
 &lt;h2 id=&quot;Installation&quot;&gt;&lt;a href=&quot;#Installation&quot; class=&quot;headerlink&quot; title=&quot;Installation&quot;&gt;&lt;/a&gt;Installation&lt;/h2&gt;&lt;p&gt;iPicUploader is available through &lt;a href=&quot;http://cocoapods.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CocoaPods&lt;/a&gt;. To install&lt;br&gt;it, simply add the following line to your Podfile:&lt;/p&gt;
@@ -193,7 +193,7 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;iPic&quot;&gt;&lt;a href=&quot;#iPic&quot; class=&quot;headerlink&quot; title=&quot;iPic&quot;&gt;&lt;/a&gt;iPic&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7322/28018346695_f1461c7a09_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;h1 id=&quot;iPic&quot;&gt;&lt;a href=&quot;#iPic&quot; class=&quot;headerlink&quot; title=&quot;iPic&quot;&gt;&lt;/a&gt;iPic&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5599/31306139462_e0753838bf_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;iPic could automatically upload images and save Markdown links on macOS.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Upload images by drag &amp;amp; drop.&lt;/li&gt;
@@ -218,11 +218,11 @@
     <link href="http://en.toolinbox.net/iPic/AddS3.html"/>
     <id>http://en.toolinbox.net/iPic/AddS3.html</id>
     <published>2016-08-29T10:45:26.000Z</published>
-    <updated>2016-08-29T14:07:42.000Z</updated>
+    <updated>2016-12-06T02:14:38.000Z</updated>
     
     <content type="html">&lt;p&gt;Amazon Simple Storage Service (&lt;a href=&quot;https://aws.amazon.com/s3/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Amazon S3&lt;/a&gt;) is easy to use object storage, with a simple web service interface to store and retrieve any amount of data from anywhere on the web. For more introductions, please refer to &lt;a href=&quot;http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Getting Started with Amazon Simple Storage Service&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;Add-Amazon-S3-in-iPic&quot;&gt;&lt;a href=&quot;#Add-Amazon-S3-in-iPic&quot; class=&quot;headerlink&quot; title=&quot;Add Amazon S3 in iPic&quot;&gt;&lt;/a&gt;Add Amazon S3 in iPic&lt;/h1&gt;&lt;p&gt;Open iPic’s &lt;code&gt;Preferences&lt;/code&gt;, clicks &lt;code&gt;Image Host&lt;/code&gt;, and add &lt;code&gt;Amazon S3&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8353/29314951485_be334c71ed_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5720/30641250313_2fcd39ec47_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Here is the introductions for all parts:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;
@@ -241,7 +241,7 @@
 &lt;p&gt;After fill all the parts, clicks the &lt;strong&gt;Validate&lt;/strong&gt; button. If all the information above is correct, you can see the link of &lt;strong&gt;Passed&lt;/strong&gt; in the right.&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;p&gt;Beside the basic configuration above, Amazon S3 also supports several advanced ones. Click the ‘Advanced’ button in right of &lt;code&gt;Http Prefix&lt;/code&gt;, you can see the following setting page.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8414/28692212794_54c631a0b0_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5441/30641252243_a5b27a2da8_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Http Prefix&lt;/code&gt;&lt;ul&gt;
 &lt;li&gt;Same with what ever introduced.&lt;/li&gt;
@@ -271,7 +271,7 @@
     
       &lt;p&gt;Amazon Simple Storage Service (&lt;a href=&quot;https://aws.amazon.com/s3/&quot;&gt;Amazon S3&lt;/a&gt;) is easy to use object storage, with a simple web service interface to store and retrieve any amount of data from anywhere on the web. For more introductions, please refer to &lt;a href=&quot;http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html&quot;&gt;Getting Started with Amazon Simple Storage Service&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;Add-Amazon-S3-in-iPic&quot;&gt;&lt;a href=&quot;#Add-Amazon-S3-in-iPic&quot; class=&quot;headerlink&quot; title=&quot;Add Amazon S3 in iPic&quot;&gt;&lt;/a&gt;Add Amazon S3 in iPic&lt;/h1&gt;&lt;p&gt;Open iPic’s &lt;code&gt;Preferences&lt;/code&gt;, clicks &lt;code&gt;Image Host&lt;/code&gt;, and add &lt;code&gt;Amazon S3&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8353/29314951485_be334c71ed_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5720/30641250313_2fcd39ec47_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Here is the introductions for all parts:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;
@@ -413,21 +413,21 @@
     <link href="http://en.toolinbox.net/iHosts/iHostsJapaneseMedia.html"/>
     <id>http://en.toolinbox.net/iHosts/iHostsJapaneseMedia.html</id>
     <published>2016-05-11T13:42:32.000Z</published>
-    <updated>2016-05-11T13:53:40.000Z</updated>
+    <updated>2016-12-06T02:14:38.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/006ghf8igw1f3ml9cn6f2j31kw15dgwx.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5694/31412364296_1a158da195_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://ex.toolinbox.net/ga/url.html?utm_medium=ihosts&amp;amp;utm_source=blog&amp;amp;id=UA-26569268-10&amp;amp;url=https%3a%2f%2fitunes.apple.com%2fcn%2fapp%2fid1102004240%3fls%3d1%26mt%3d12&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iHosts&lt;/a&gt;, perfect for editing /etc/hosts on Mac, was recommended by many Japanese sites, e.g., &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://veadardiary.blog29.fc2.com/blog-entry-6141.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Macの手書き説明書&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://loumo.jp/wp/archive/20160511120017/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;OS X の hosts ファイルを編集、切り替えが楽になるアプリ iHosts&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Use iHosts to organise your /etc/hosts now for free now!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://ex.toolinbox.net/ga/url.html?utm_medium=ihosts&amp;amp;utm_source=blog&amp;amp;id=UA-26569268-10&amp;amp;url=https%3a%2f%2fitunes.apple.com%2fapp%2fid1102004240%3fls%3d1%26mt%3d12&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/006ghf8igw1f3n1z9i3w3j306y01pt8n.jpg&quot; alt=&quot;Mac App Store&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ex.toolinbox.net/ga/url.html?utm_medium=ihosts&amp;amp;utm_source=blog&amp;amp;id=UA-26569268-10&amp;amp;url=https%3a%2f%2fitunes.apple.com%2fapp%2fid1102004240%3fls%3d1%26mt%3d12&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5334/31412365926_2960c25596_o.jpg&quot; alt=&quot;Mac App Store&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/006ghf8igw1f3ml9cn6f2j31kw15dgwx.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5694/31412364296_1a158da195_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://ex.toolinbox.net/ga/url.html?u
     
     </summary>
@@ -442,11 +442,11 @@
     <link href="http://en.toolinbox.net/iHosts/iHostsMacAppStore.html"/>
     <id>http://en.toolinbox.net/iHosts/iHostsMacAppStore.html</id>
     <published>2016-05-07T11:09:59.000Z</published>
-    <updated>2016-05-11T13:48:48.000Z</updated>
+    <updated>2016-12-06T02:14:38.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;a href=&quot;http://ex.toolinbox.net/ga/url.html?utm_medium=ihosts&amp;amp;utm_source=blog&amp;amp;id=UA-26569268-10&amp;amp;url=https%3a%2f%2fitunes.apple.com%2fcn%2fapp%2fid1102004240%3fls%3d1%26mt%3d12&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iHosts&lt;/a&gt;, the perfect tool for editing /etc/hosts, hits the No. 2 App on Mac App Store (Category: Developer Tools, Chinese Store). Cool~&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/7853084cgw1f3jqqcrddxj21jo0u6aii.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/7853084cgw1f3jqqtqfjbj21jo0u648p.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5665/31412368276_c8222624ac_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5687/31412369966_8e93f2ddca_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Please help to &lt;a href=&quot;http://ex.toolinbox.net/ga/url.html?utm_medium=ihosts&amp;amp;utm_source=blog&amp;amp;id=UA-26569268-10&amp;amp;url=https%3a%2f%2fitunes.apple.com%2fcn%2fapp%2fid1102004240%3fls%3d1%26mt%3d12&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;give 5 stars to iHosts&lt;/a&gt; if you think it’s good. Thanks in advance.&lt;/p&gt;
 </content>
     

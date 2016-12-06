@@ -2,30 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://en.toolinbox.net/iPic/iPicMover.html</loc>
-    
-    <lastmod>2016-12-04T15:46:34.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iPic/iPicUploader_Typora.html</loc>
-    
-    <lastmod>2016-11-25T14:04:55.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://en.toolinbox.net/iPic/iPicUploader.html</loc>
     
-    <lastmod>2016-11-23T02:56:08.000Z</lastmod>
+    <lastmod>2016-12-06T04:30:23.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iPic/iPicMover.html</loc>
+    
+    <lastmod>2016-12-06T03:52:25.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iPic/AddS3.html</loc>
+    
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iHosts/iHostsMacAppStore.html</loc>
+    
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iTimer/index.html</loc>
+    
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://en.toolinbox.net/iHosts/index.html</loc>
     
-    <lastmod>2016-11-15T04:16:56.000Z</lastmod>
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iPaste/index.html</loc>
+    
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iPic/index.html</loc>
+    
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iPic/iPicUploader_Typora.html</loc>
+    
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iHosts/iHostsJapaneseMedia.html</loc>
+    
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
   </url>
   
@@ -51,27 +93,6 @@
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/iTimer/index.html</loc>
-    
-    <lastmod>2016-09-22T04:59:39.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iPic/index.html</loc>
-    
-    <lastmod>2016-09-22T04:25:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iPaste/index.html</loc>
-    
-    <lastmod>2016-09-22T04:24:28.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://en.toolinbox.net/iHosts/terms.html</loc>
     
     <lastmod>2016-08-29T14:14:55.000Z</lastmod>
@@ -86,30 +107,9 @@
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/iPic/AddS3.html</loc>
-    
-    <lastmod>2016-08-29T14:07:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://en.toolinbox.net/iHostsChangeLog.html</loc>
     
     <lastmod>2016-08-15T00:01:52.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iHosts/iHostsJapaneseMedia.html</loc>
-    
-    <lastmod>2016-05-11T13:53:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iHosts/iHostsMacAppStore.html</loc>
-    
-    <lastmod>2016-05-11T13:48:48.000Z</lastmod>
     
   </url>
   
