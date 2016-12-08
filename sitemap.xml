@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://en.toolinbox.net/iPic/iPicUploader.html</loc>
+    <loc>http://en.toolinbox.net/iPic/index.html</loc>
     
-    <lastmod>2016-12-06T04:30:23.000Z</lastmod>
+    <lastmod>2016-12-08T06:13:44.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://en.toolinbox.net/iPic/iPicMover.html</loc>
     
-    <lastmod>2016-12-06T03:52:25.000Z</lastmod>
+    <lastmod>2016-12-08T06:06:02.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/iPic/AddS3.html</loc>
+    <loc>http://en.toolinbox.net/iPic/iPicUploader.html</loc>
     
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    <lastmod>2016-12-06T04:30:23.000Z</lastmod>
     
   </url>
   
@@ -51,7 +51,7 @@
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/iPic/index.html</loc>
+    <loc>http://en.toolinbox.net/iPic/AddS3.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
