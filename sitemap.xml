@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://en.toolinbox.net/iPic/index.html</loc>
+    
+    <lastmod>2016-12-21T14:38:17.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iPic/ChangeLog.html</loc>
+    
+    <lastmod>2016-12-21T14:31:23.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://en.toolinbox.net/iPic/iPicUploader.html</loc>
     
     <lastmod>2016-12-19T00:07:47.000Z</lastmod>
@@ -12,20 +26,6 @@
     <loc>http://en.toolinbox.net/iPic/iPicMover.html</loc>
     
     <lastmod>2016-12-08T11:57:15.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iPic/index.html</loc>
-    
-    <lastmod>2016-12-08T06:17:11.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iHosts/iHostsMacAppStore.html</loc>
-    
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
   </url>
   
@@ -58,13 +58,6 @@
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/iPic/iPicUploader_Typora.html</loc>
-    
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://en.toolinbox.net/iHosts/iHostsJapaneseMedia.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
@@ -72,9 +65,16 @@
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/iPic/ChangeLog.html</loc>
+    <loc>http://en.toolinbox.net/iHosts/iHostsMacAppStore.html</loc>
     
-    <lastmod>2016-10-19T00:24:53.000Z</lastmod>
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iPic/iPicUploader_Typora.html</loc>
+    
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
   </url>
   
