@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://en.toolinbox.net/"/>
-  <updated>2016-12-08T11:57:15.000Z</updated>
+  <updated>2016-12-22T10:09:07.000Z</updated>
   <id>http://en.toolinbox.net/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://en.toolinbox.net/iPic/iPicMover.html"/>
     <id>http://en.toolinbox.net/iPic/iPicMover.html</id>
     <published>2016-12-04T15:24:32.000Z</published>
-    <updated>2016-12-08T11:57:15.000Z</updated>
+    <updated>2016-12-22T10:09:07.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5605/31412375166_5bc16137f6_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h1 id=&quot;What’s-iPic-Mover-Do-I-Need-it&quot;&gt;&lt;a href=&quot;#What’s-iPic-Mover-Do-I-Need-it&quot; class=&quot;headerlink&quot; title=&quot;What’s iPic Mover? Do I Need it?&quot;&gt;&lt;/a&gt;What’s iPic Mover? Do I Need it?&lt;/h1&gt;&lt;p&gt;Did you ever meet these troubles?&lt;/p&gt;
@@ -69,6 +69,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;iPic Mover could sort images by size. This could help you to quickly find the big images, and then replace or compress them to reduce traffic of your sites.&lt;/p&gt;
 &lt;h1 id=&quot;How-iPic-Mover-Works？&quot;&gt;&lt;a href=&quot;#How-iPic-Mover-Works？&quot; class=&quot;headerlink&quot; title=&quot;How iPic Mover Works？&quot;&gt;&lt;/a&gt;How iPic Mover Works？&lt;/h1&gt;&lt;p&gt;In fact iPic Mover calls iPic to upload images to the selected image host in iPic. Check more details about iPicUploader in this blog:&lt;br&gt;&lt;a href=&quot;https://en.toolinbox.net/iPic/iPicUploader.html&quot;&gt;iPic Opens Upload API: iPicUploader&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;Download-iPic-Mover&quot;&gt;&lt;a href=&quot;#Download-iPic-Mover&quot; class=&quot;headerlink&quot; title=&quot;Download iPic Mover&quot;&gt;&lt;/a&gt;Download iPic Mover&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1183822957?ls=1&amp;amp;mt=12&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;&amp;gt; Click to Download iPic Mover &amp;lt;&amp;lt;&amp;lt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Have a try now!&lt;/p&gt;
