@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://en.toolinbox.net/iKindle/index.html</loc>
+    
+    <lastmod>2017-02-11T03:45:13.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://en.toolinbox.net/iPaste/index.html</loc>
     
     <lastmod>2017-01-29T01:27:06.000Z</lastmod>
@@ -44,20 +51,6 @@
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/iPic/AddS3.html</loc>
-    
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iHosts/iHostsJapaneseMedia.html</loc>
-    
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://en.toolinbox.net/iHosts/iHostsMacAppStore.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
@@ -65,7 +58,14 @@
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/iTimer/index.html</loc>
+    <loc>http://en.toolinbox.net/iHosts/index.html</loc>
+    
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iPic/AddS3.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
@@ -79,7 +79,14 @@
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/iHosts/index.html</loc>
+    <loc>http://en.toolinbox.net/iTimer/index.html</loc>
+    
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iHosts/iHostsJapaneseMedia.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
