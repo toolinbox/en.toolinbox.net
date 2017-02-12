@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://en.toolinbox.net/iKindle/index.html</loc>
+    <loc>http://en.toolinbox.net/iPic/index.html</loc>
     
-    <lastmod>2017-02-11T15:02:42.000Z</lastmod>
+    <lastmod>2017-02-12T15:02:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iTimer/index.html</loc>
+    
+    <lastmod>2017-02-12T15:00:43.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iHosts/index.html</loc>
+    
+    <lastmod>2017-02-12T14:58:58.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://en.toolinbox.net/iPaste/index.html</loc>
     
-    <lastmod>2017-01-29T01:27:06.000Z</lastmod>
+    <lastmod>2017-02-12T14:58:43.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iKindle/index.html</loc>
+    
+    <lastmod>2017-02-11T15:02:42.000Z</lastmod>
     
   </url>
   
@@ -26,13 +47,6 @@
     <loc>http://en.toolinbox.net/iPic/iPicMover.html</loc>
     
     <lastmod>2016-12-22T10:09:07.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iPic/index.html</loc>
-    
-    <lastmod>2016-12-21T14:38:17.000Z</lastmod>
     
   </url>
   
@@ -58,20 +72,6 @@
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/iHosts/index.html</loc>
-    
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iPic/AddS3.html</loc>
-    
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://en.toolinbox.net/iPic/iPicUploader_Typora.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
@@ -79,7 +79,7 @@
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/iTimer/index.html</loc>
+    <loc>http://en.toolinbox.net/iPic/AddS3.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
