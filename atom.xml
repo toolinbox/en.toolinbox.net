@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://en.toolinbox.net/"/>
-  <updated>2016-12-22T10:09:07.000Z</updated>
+  <updated>2017-02-22T14:53:19.000Z</updated>
   <id>http://en.toolinbox.net/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Klib Successfully Released Mac App Store</title>
+    <link href="http://en.toolinbox.net/Klib/KlibMAS.html"/>
+    <id>http://en.toolinbox.net/Klib/KlibMAS.html</id>
+    <published>2017-02-22T14:48:01.000Z</published>
+    <updated>2017-02-22T14:53:19.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://p.ilib.io/cn/zyvsd.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Klib&lt;/strong&gt; (&lt;strong&gt;K&lt;/strong&gt;indle &lt;strong&gt;lib&lt;/strong&gt;rary) is a new way to manage Kindle highlights and notes. &lt;a href=&quot;https://en.toolinbox.net/Klib/&quot;&gt;Learn more.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;After reviewed and modified for several times, &lt;strong&gt;Klib&lt;/strong&gt; was finally released on Mac App Store, and &lt;strong&gt;becomes the first and only Kindle highlights and notes manager on Mac App Store&lt;/strong&gt;. Congratulations!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1196268448?ls=1&amp;amp;mt=12&amp;amp;at=1001lsTF&amp;amp;ct=klib_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3840/32044538343_0935546067_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you met problem or want Klib to be improved follow your ways, please feel free to contact me.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://toolinbox.net/html/feedback.html?lang=en&amp;amp;app=Klib&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Leave me a message&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://t.me/iToolinbox&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Join Telegram group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Look forward to your message.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://p.ilib.io/cn/zyvsd.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Klib&lt;/strong&gt; (&lt;strong&gt;K&lt;/strong&gt;indle &lt;strong&gt;lib&lt;/strong&gt;rary) is a ne
+    
+    </summary>
+    
+      <category term="Klib" scheme="http://en.toolinbox.net/categories/Klib/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>iPic Mover</title>
@@ -475,57 +506,6 @@
   </entry>
   
   <entry>
-    <title>iTimer Change Log</title>
-    <link href="http://en.toolinbox.net/iTimer/ChangeLog.html"/>
-    <id>http://en.toolinbox.net/iTimer/ChangeLog.html</id>
-    <published>2015-11-22T10:32:16.000Z</published>
-    <updated>2016-12-28T13:18:07.000Z</updated>
-    
-    <content type="html">&lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;2016/12/28&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Could customize timers.&lt;/li&gt;
-&lt;li&gt;Fit to Swift 3.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;2016/09/26&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Change App name to &lt;strong&gt;iTimer&lt;/strong&gt;, also update logo.&lt;/li&gt;
-&lt;li&gt;Add more timers.&lt;/li&gt;
-&lt;li&gt;Support macOS Sierra.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h1 id=&quot;v0-6-2&quot;&gt;&lt;a href=&quot;#v0-6-2&quot; class=&quot;headerlink&quot; title=&quot;v0.6.2&quot;&gt;&lt;/a&gt;v0.6.2&lt;/h1&gt;&lt;p&gt;2015/12/15&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Remind to start timer.&lt;/li&gt;
-&lt;li&gt;Support start at login.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v0-5-1&quot;&gt;&lt;a href=&quot;#v0-5-1&quot; class=&quot;headerlink&quot; title=&quot;v0.5.1&quot;&gt;&lt;/a&gt;v0.5.1&lt;/h1&gt;&lt;p&gt;2015/12/05&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Release on Mac App Store&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;2016/12/28&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Could customize timers.&lt;/li&gt;
-&lt;li&gt;Fit to Swift 3.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;2016/09/26&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Change App name to &lt;strong&gt;iTimer&lt;/strong&gt;, also update logo.&lt;/li&gt;
-&lt;li&gt;Add more timers.&lt;/li&gt;
-&lt;li&gt;Support macOS Sierra.&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="iTimer" scheme="http://en.toolinbox.net/categories/iTimer/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>iPaste Change Log</title>
     <link href="http://en.toolinbox.net/iPaste/ChangeLog.html"/>
     <id>http://en.toolinbox.net/iPaste/ChangeLog.html</id>
@@ -573,6 +553,57 @@
     </summary>
     
       <category term="iPaste" scheme="http://en.toolinbox.net/categories/iPaste/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iTimer Change Log</title>
+    <link href="http://en.toolinbox.net/iTimer/ChangeLog.html"/>
+    <id>http://en.toolinbox.net/iTimer/ChangeLog.html</id>
+    <published>2015-11-22T10:32:16.000Z</published>
+    <updated>2016-12-28T13:18:07.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;2016/12/28&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Could customize timers.&lt;/li&gt;
+&lt;li&gt;Fit to Swift 3.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;2016/09/26&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Change App name to &lt;strong&gt;iTimer&lt;/strong&gt;, also update logo.&lt;/li&gt;
+&lt;li&gt;Add more timers.&lt;/li&gt;
+&lt;li&gt;Support macOS Sierra.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;v0-6-2&quot;&gt;&lt;a href=&quot;#v0-6-2&quot; class=&quot;headerlink&quot; title=&quot;v0.6.2&quot;&gt;&lt;/a&gt;v0.6.2&lt;/h1&gt;&lt;p&gt;2015/12/15&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remind to start timer.&lt;/li&gt;
+&lt;li&gt;Support start at login.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v0-5-1&quot;&gt;&lt;a href=&quot;#v0-5-1&quot; class=&quot;headerlink&quot; title=&quot;v0.5.1&quot;&gt;&lt;/a&gt;v0.5.1&lt;/h1&gt;&lt;p&gt;2015/12/05&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Release on Mac App Store&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;2016/12/28&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Could customize timers.&lt;/li&gt;
+&lt;li&gt;Fit to Swift 3.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;2016/09/26&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Change App name to &lt;strong&gt;iTimer&lt;/strong&gt;, also update logo.&lt;/li&gt;
+&lt;li&gt;Add more timers.&lt;/li&gt;
+&lt;li&gt;Support macOS Sierra.&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="iTimer" scheme="http://en.toolinbox.net/categories/iTimer/"/>
     
     
   </entry>
