@@ -253,7 +253,7 @@
     <link href="http://en.toolinbox.net/iPic/AddS3.html"/>
     <id>http://en.toolinbox.net/iPic/AddS3.html</id>
     <published>2016-08-29T10:45:26.000Z</published>
-    <updated>2016-12-06T02:14:38.000Z</updated>
+    <updated>2017-02-26T00:49:55.000Z</updated>
     
     <content type="html">&lt;p&gt;Amazon Simple Storage Service (&lt;a href=&quot;https://aws.amazon.com/s3/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Amazon S3&lt;/a&gt;) is easy to use object storage, with a simple web service interface to store and retrieve any amount of data from anywhere on the web. For more introductions, please refer to &lt;a href=&quot;http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Getting Started with Amazon Simple Storage Service&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;Add-Amazon-S3-in-iPic&quot;&gt;&lt;a href=&quot;#Add-Amazon-S3-in-iPic&quot; class=&quot;headerlink&quot; title=&quot;Add Amazon S3 in iPic&quot;&gt;&lt;/a&gt;Add Amazon S3 in iPic&lt;/h1&gt;&lt;p&gt;Open iPic’s &lt;code&gt;Preferences&lt;/code&gt;, clicks &lt;code&gt;Image Host&lt;/code&gt;, and add &lt;code&gt;Amazon S3&lt;/code&gt;.&lt;/p&gt;
@@ -264,7 +264,7 @@
 &lt;li&gt;Same with the bucket in Amazon S3&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; and &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;
 &lt;li&gt;Refer to &lt;a href=&quot;http://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AWS Identity and Access Management (IAM) &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -313,7 +313,7 @@
 &lt;li&gt;Same with the bucket in Amazon S3&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; 与 &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; and &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;
 &lt;li&gt;Refer to &lt;a href=&quot;http://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html&quot;&gt;AWS Identity and Access Management (IAM) &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
