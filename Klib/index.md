@@ -29,29 +29,29 @@ The number of books we read is ever-increasing. If we consider all these books t
 
 ## Review Notes in Kindle for macOS
 
-When review notes, we may want to read the book of that part again. In this case, **Klib could open Kindle for macOS and jump to the exact location of the note**. Very cool and useful.
+When reviewing notes, you may want to read that part of the book again. In this case, **Klib can open Kindle for macOS and jump to the exact location**. Very cool and useful.
 
 ![][image-5]
 
-You can also press `Space` key in Klib to quickly review it. Feel familiar?
+You can also press the `Space` bar in Klib to quickly preview the selected note. Feel familiar?
 
 ![][image-6]
 
 ## Open With Amazon
 
-When review books, sometimes we want to view the table of contents, customer reviews, or other books written by same author. In this case, **Klib could open the book in Amazon with one click.**
+When reviewing books we sometimes want to view the table of contents, customer reviews, or other books written by same author. In this case, **Klib can open the book on the Amazon site with one click.**
 
 ![][image-7]
 
 ## Free to Edit
 
-You will feel free to edit book title, author, highlights, notes, etc.
+In Klib you can freely edit the book title, author, highlights, notes, etc.
 
 ![][image-8]
 
 ## Search Anything
 
-You can search any possible content:
+You can search for any of the following content in Klib:
 
 - Book title
 - Author
@@ -60,13 +60,13 @@ You can search any possible content:
   - Location
   - Date
 
-Take an example, if I want to search the note with `value` which I read in `2017`, just search `2017 value`.
+For example, if I want to search a note with the text `cat` which I read in `2017`, just search `2017 cat`.
 
 ![][image-9]
 
 
 
-# 2. Klib: Start From Import
+# 2. Klib: Start From Importing
 
 ![][image-10]
 
@@ -74,108 +74,108 @@ Take an example, if I want to search the note with `value` which I read in `2017
 
 **How to import:**
 
-- Connect your Kindle to Mac via USB.
-- Clicks menu `File > Import from Kindle…` in Klib.
-- Choose `Kindle` folder in the pop up dialog and start `Import`.
+- Connect your Kindle to your Mac via USB.
+- Click the menu `File > Import from Kindle…` in Klib.
+- Choose the `Kindle` folder in the pop up dialog and start `Import`.
 
 **Tips:**
 
-- Only need to manually import for the first time. Later **Klib will automatically import when Kindle connected.**
-- If you ever deleted books or notes, and want to restore. Just choose `Import ever deleted books or notes` during import.
+- You only need to import manually the first time. Later **Klib will automatically import your notes the next time when your Kindle connected.**
+- If you ever deleted any books or notes, and want to restore, just select `Import deleted books or notes` during import.
 
 ![][image-11]
 
-Disadvantage of this way:
+Disadvantages of Importing this way:
 
-- Need to connect Kindle via USB each time.
+- You need to connect your Kindle via USB each time.
 - Doesn't include notes made by Kindle for iPhone or other Kindle clients.
 
 ## Import From Amazon
 
-**Recommend to import from Amazon, which is very easy to use.**
+**It is recommended to import from Amazon, which is very easy to use.**
 
-- Wirelessly import, no need to connect Kindle via USB.
-- Could also import notes made by other Kindle clients.
+- You can import wirelessly, there’s no need to connect the Kindle via USB.
+- You can also import notes made using other Kindle clients.
 
 ![][image-12]
 
 **How to import:**
 
-- Clicks menu `File > Import from Amazon…` in Klib.
-- Need to authorize when import for the first time.
-	- Tips: Need to subscribe *Klib Extensions* to import from Amazon.
-- Later, **Klib will automatically import from Amazon when starts.**
+- Click the menu item `File > Import from Amazon…` in Klib.
+- You need to authorize when importing for the first time.
+	- Tip: You need to subscribe to *Klib Extensions* to import from Amazon.
+- Later, **Klib will import automatically from Amazon on startup.**
 
 # 3. Klib: Free To Export
 
-Share makes knowledge more valuable.
+Sharing knowledge is a good thing.
 
 ## Export To Evernote
 
-After exported to Evernote, you can easily review notes via Evernote clients on iPhone or any other devices.
+After exporting to Evernote, you can easily review your notes via Evernote clients on iPhone or any other device.
 
 **How to export:**
 
-- Clicks menu `File > Export to Evernote…` in Klib.
-- Need to authorize when export for the first time.
-- Later, **Klib will automatically export to Evernote when starts or import new notes.**
+- Click the menu item `File > Export to Evernote…` in Klib.
+- You need to authorize when exporting for the first time.
+- Later, **Klib will automatically export to Evernote on startup or when importing new notes.**
 
 ![][image-13]
 
 **Tips:**
 
-- A new notebook of `Klib` will be created in Evernote.
-- Klib also creates tags of `Klib`, `Book`, `Read Book` in Evernote.
+- A new `Klib` notebook will be created in Evernote.
+- Klib also creates the tags `Klib`, `Book`, `Read Book` for content exported into Evernote.
 - Klib will override notes in Evernote whenever you modify books or notes.
-	- Tips: For this reason, the notes in Evernote is read only.
+	- Tips: For this reason the notes in Evernote are read only.
 
 ## Copy as Markdown
 
-After copy notes as Markdown, you can easily share them in your blog or anywhere else.
+After copying notes as Markdown, you can easily share them on your blog or anywhere else.
 
 ![][image-14]
 
-In fact, this is why I developed Klib. After reading a book, I would like to summarize it in my blog. And the highlights and notes are important parts of the summary. So, I made Klib to copy them as Markdown.
+In fact, this is why I developed Klib. After reading a book I like to summarise it in my blog. And the highlights and notes are important parts of the summary. So, I made Klib to copy them as Markdown.
 
 ## Export Database
 
-You can easily export entire database of Klib, and then share with others, or sync among different computers.
+You can easily export Klib’s entire database, and then share it with others, or sync to different computers.
 
 **How to export:**
 
-- Clicks menu `File > Export…` in Klib.
-- You can also export only the selected books. Just select the books, press `Option` key, and then clicks menu `File > Export Selected Book…` in Klib.
+- Click the menu item `File > Export…` in Klib.
+- You can also export only the selected books. Just select the books, then press the `Option` key, and click the `File > Export Selected Book…` menu item in Klib.
 
 **Tips:**
 
-- How to import the exported database? It's the same with import from Kindle. Just choose the database files during import.
+- How to import the exported database? It's the same as with importing from Kindle. Just choose the database file during an import.
 
 # 4. Klib: Great Experience
 
-It's not enough just work, should work better.
+It's not enough that the app just works, it needs to work well.
 
 ## Native Interaction
 
-Klib works like the built-in app *Reminder*, which is very suitable for notes management.
+Klib works like the built-in app *Reminders*, which is great for notes management.
 
-So, **you're already a Klib expert.**
+So, **now you're a Klib expert.**
 
 ## Fullscreen is Cool
 
-It's hard to describe the feeling, but you will feel cool to review notes with Klib in fullscreen. 
+It's hard to describe the feeling, but you will enjoy reviewing notes in Klib with fullscreen. 
 
 Press `Command + Ctrl + F` to have a try.
 
 ## Efficiency with Shortcuts
 
-Klib support a variety of shortcuts.
+Klib supports a variety of shortcuts.
 
 Shortcut | Feature
 \---- | ---
 `Tab` | Switch among books, notes and search.
 `Space` | Quick look
 `Arrow` | Switch nearby book or note
-`J` `K` | Works as arrow key. Vimer will like it.
+`J` `K` | Works as arrow key. Vim users will like it.
 `Command + F` | Search
 `Command + I` | Get Info
 `Command + C` | Copy
@@ -196,20 +196,20 @@ Shortcut | Feature
 
 # 5. Klib: Keep on Moving
 
-Any suggestion from you, I will seriously consider.
+Please send any suggestions you may have, I will give them seriously consideration.
 
-Klib will keep on improving, e.g.,
+Klib will keep on improving, e.g. some planned improvements are:
 
-- Organize books using tags.
-- Support manually add books or notes.
-- Import experience to review notes.
+- Organizing books using tags.
+- Supporting manually added books and notes.
+- Improving the import experience for reviewing notes.
 - …
 
 # 6. Get Klib Now
 
 ## Press Kit
 
-Welcome to introduce Klib to book lover. You will help them to gain more from reading.
+Please introduce Klib to any book lovers you know!  You will help get more out of reading.
 
 [Download Press Kit][1]
 
@@ -221,16 +221,16 @@ Klib's Logo was designed by [Allen][2], thanks.
 
 [![Mac App Store][image-15]][3]
 
-Klib could manage 20 books by default, you can upgrade to Klib Pro to manage unlimited book. Need to subscribe *Klib Extensions* to import from Amazon.
+Klib can manage 20 books by default, or you can upgrade to Klib Pro to manage unlimited books. You need to subscribe to *Klib Extensions* to import from Amazon.
 
-If you think Klib is helpful, welcome to [rate Klib on Mac App Store and leave a small review][4]. You want to share Klib to your friends? Cool!
+If you think Klib is helpful, you are invited to [rate Klib on Mac App Store and leave a small review][4]. You want to share Klib with your friends? Cool!
 
-If you met problem or want Klib to be improved follow your ways, please feel free to contact me.
+If you had any problem using Klib or have any suggestions for improvements, please feel free to contact me.
 
 - [Leave me a message][5]
 - [Join Telegram group][6]
 
-Look forward to your message.
+I look forward to hearing from you!
 
 ![][image-16]
 
