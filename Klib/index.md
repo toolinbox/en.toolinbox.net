@@ -3,51 +3,51 @@ title: Klib - Kindle Highlights & Notes Manager
 layout: post
 ---
 
-![](https://farm3.staticflickr.com/2497/32113331573_1f36b457f4_o.png)
+![][image-1]
 
-**Klib** (**K**indle **lib**rary) is a new way to manage Kindle highlights and notes, help you to gain more from reading.
+**Klib** (**K**indle **lib**rary) is a new way to manage Kindle highlights and notes, to help you gain more from reading.
 
-![](https://farm3.staticflickr.com/2924/33623164335_9db207cf86_o.jpg)
+![][image-2]
 
 # 1. Klib: Live For Notes
 
 ## Focus on Now
 
-The books we ever read become more and more. If put all these books together, we will be lost.
+The number of books we read is ever-increasing. If we consider all these books together, we will be lost.
 
-![](https://farm3.staticflickr.com/2826/33623168795_bb89cd252d_o.jpg)
+![][image-3]
 
-**Klib could put read books in a group, which can be collapsed.** You can even hide the book list and only read the notes.
+**Klib is an app which groups all your read books together in one place. Your ‘read books’ group can be collapsed.** You can even hide the book list and only read the notes.
 
-![](https://farm3.staticflickr.com/2895/32780709364_9f49f6895d_o.jpg)
+![][image-4]
 
 **Tips:**
 
-- You can select multi books and mark them as read. It's very useful after import for the first time.
-- If you usually read pushed web pages in Kindle, you can merge them as one book.
-- How to distinguish highlights and notes? Easy, the notes has a ✍️ Emoji icon in the beginning.
+- You can select multiple books and mark them as read. It's very useful after doing an import for the first time.
+- If you usually read saved web pages in Kindle, with Klib you can merge them together as one book.
+- How do you distinguish between highlights and notes?  Easy, Klib notes haves an ✍️ Emoji icon at the beginning of each entry.
 
 ## Review Notes in Kindle for macOS
 
 When review notes, we may want to read the book of that part again. In this case, **Klib could open Kindle for macOS and jump to the exact location of the note**. Very cool and useful.
 
-![](https://farm3.staticflickr.com/2838/33494566581_b5ffc84216_o.gif)
+![][image-5]
 
 You can also press `Space` key in Klib to quickly review it. Feel familiar?
 
-![](https://farm4.staticflickr.com/3717/32877859715_a6eb8b9c56_o.jpg)
+![][image-6]
 
 ## Open With Amazon
 
 When review books, sometimes we want to view the table of contents, customer reviews, or other books written by same author. In this case, **Klib could open the book in Amazon with one click.**
 
-![](https://farm3.staticflickr.com/2811/33494569711_e0ca372fc9_o.gif)
+![][image-7]
 
 ## Free to Edit
 
 You will feel free to edit book title, author, highlights, notes, etc.
 
-![](https://farm3.staticflickr.com/2440/32035122294_f62b0a5683_o.jpg)
+![][image-8]
 
 ## Search Anything
 
@@ -62,13 +62,13 @@ You can search any possible content:
 
 Take an example, if I want to search the note with `value` which I read in `2017`, just search `2017 value`.
 
-![](https://farm1.staticflickr.com/294/32035124164_3cb35d7ee6_o.jpg)
+![][image-9]
 
 
 
 # 2. Klib: Start From Import
 
-![](https://farm4.staticflickr.com/3706/32780713934_3a23e27788_o.jpg)
+![][image-10]
 
 ## Import From Kindle
 
@@ -83,7 +83,7 @@ Take an example, if I want to search the note with `value` which I read in `2017
 - Only need to manually import for the first time. Later **Klib will automatically import when Kindle connected.**
 - If you ever deleted books or notes, and want to restore. Just choose `Import ever deleted books or notes` during import.
 
-![](https://farm1.staticflickr.com/717/33582392236_664b3202e5_o.jpg)
+![][image-11]
 
 Disadvantage of this way:
 
@@ -97,7 +97,7 @@ Disadvantage of this way:
 - Wirelessly import, no need to connect Kindle via USB.
 - Could also import notes made by other Kindle clients.
 
-![](https://farm4.staticflickr.com/3840/32780988834_2b8ac5ed1b_o.gif)
+![][image-12]
 
 **How to import:**
 
@@ -120,7 +120,7 @@ After exported to Evernote, you can easily review notes via Evernote clients on 
 - Need to authorize when export for the first time.
 - Later, **Klib will automatically export to Evernote when starts or import new notes.**
 
-![](https://farm4.staticflickr.com/3672/32780810504_99d02b7c93_o.jpg)
+![][image-13]
 
 **Tips:**
 
@@ -133,7 +133,7 @@ After exported to Evernote, you can easily review notes via Evernote clients on 
 
 After copy notes as Markdown, you can easily share them in your blog or anywhere else.
 
-![](https://farm3.staticflickr.com/2640/32035126304_2ba564d917_o.jpg)
+![][image-14]
 
 In fact, this is why I developed Klib. After reading a book, I would like to summarize it in my blog. And the highlights and notes are important parts of the summary. So, I made Klib to copy them as Markdown.
 
@@ -171,7 +171,7 @@ Press `Command + Ctrl + F` to have a try.
 Klib support a variety of shortcuts.
 
 Shortcut | Feature
----- | ---
+\---- | ---
 `Tab` | Switch among books, notes and search.
 `Space` | Quick look
 `Arrow` | Switch nearby book or note
@@ -211,27 +211,50 @@ Klib will keep on improving, e.g.,
 
 Welcome to introduce Klib to book lover. You will help them to gain more from reading.
 
-[Download Press Kit](https://s.toolinbox.net/Klib/PressKit_en.zip)
+[Download Press Kit][1]
 
 ## Thanks
 
-Klib's Logo was designed by [Allen](https://dribbble.com/openallen), thanks.
+Klib's Logo was designed by [Allen][2], thanks.
 
 ## Download Klib
 
-[![Mac App Store](https://farm4.staticflickr.com/3840/32044538343_0935546067_o.jpg)](https://itunes.apple.com/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home)
+[![Mac App Store][image-15]][3]
 
 Klib could manage 20 books by default, you can upgrade to Klib Pro to manage unlimited book. Need to subscribe *Klib Extensions* to import from Amazon.
 
-If you think Klib is helpful, welcome to [rate Klib on Mac App Store and leave a small review](https://itunes.apple.com/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home). You want to share Klib to your friends? Cool!
+If you think Klib is helpful, welcome to [rate Klib on Mac App Store and leave a small review][4]. You want to share Klib to your friends? Cool!
 
 If you met problem or want Klib to be improved follow your ways, please feel free to contact me.
 
-- [Leave me a message](https://toolinbox.net/html/feedback.html?lang=en&app=Klib)
-- [Join Telegram group](https://t.me/iToolinbox)
+- [Leave me a message][5]
+- [Join Telegram group][6]
 
 Look forward to your message.
 
-![](https://farm3.staticflickr.com/2497/32113331573_1f36b457f4_o.png)
+![][image-16]
 
 
+[1]:	https://s.toolinbox.net/Klib/PressKit_en.zip
+[2]:	https://dribbble.com/openallen
+[3]:	https://itunes.apple.com/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home
+[4]:	https://itunes.apple.com/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home
+[5]:	https://toolinbox.net/html/feedback.html?lang=en&app=Klib
+[6]:	https://t.me/iToolinbox
+
+[image-1]:	https://farm3.staticflickr.com/2497/32113331573_1f36b457f4_o.png
+[image-2]:	https://farm3.staticflickr.com/2924/33623164335_9db207cf86_o.jpg
+[image-3]:	https://farm3.staticflickr.com/2826/33623168795_bb89cd252d_o.jpg
+[image-4]:	https://farm3.staticflickr.com/2895/32780709364_9f49f6895d_o.jpg
+[image-5]:	https://farm3.staticflickr.com/2838/33494566581_b5ffc84216_o.gif
+[image-6]:	https://farm4.staticflickr.com/3717/32877859715_a6eb8b9c56_o.jpg
+[image-7]:	https://farm3.staticflickr.com/2811/33494569711_e0ca372fc9_o.gif
+[image-8]:	https://farm3.staticflickr.com/2440/32035122294_f62b0a5683_o.jpg
+[image-9]:	https://farm1.staticflickr.com/294/32035124164_3cb35d7ee6_o.jpg
+[image-10]:	https://farm4.staticflickr.com/3706/32780713934_3a23e27788_o.jpg
+[image-11]:	https://farm1.staticflickr.com/717/33582392236_664b3202e5_o.jpg
+[image-12]:	https://farm4.staticflickr.com/3840/32780988834_2b8ac5ed1b_o.gif
+[image-13]:	https://farm4.staticflickr.com/3672/32780810504_99d02b7c93_o.jpg
+[image-14]:	https://farm3.staticflickr.com/2640/32035126304_2ba564d917_o.jpg
+[image-15]:	https://farm4.staticflickr.com/3840/32044538343_0935546067_o.jpg
+[image-16]:	https://farm3.staticflickr.com/2497/32113331573_1f36b457f4_o.png
