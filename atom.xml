@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://en.toolinbox.net/"/>
-  <updated>2017-03-06T16:02:40.000Z</updated>
+  <updated>2017-03-31T05:56:56.000Z</updated>
   <id>http://en.toolinbox.net/</id>
   
   <author>
@@ -14,6 +14,81 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Why Klib is an essential tool for Kindle users?</title>
+    <link href="http://en.toolinbox.net/Klib/Introduction.html"/>
+    <id>http://en.toolinbox.net/Klib/Introduction.html</id>
+    <published>2017-03-31T05:56:56.000Z</published>
+    <updated>2017-03-31T05:56:56.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://klib.me&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Klib&lt;/a&gt; is a new way to manage Kindle highlights and notes. Let me tell you the story behind it.&lt;/p&gt;
+&lt;h1 id=&quot;Why-did-I-bring-Klib-to-this-world&quot;&gt;&lt;a href=&quot;#Why-did-I-bring-Klib-to-this-world&quot; class=&quot;headerlink&quot; title=&quot;Why did I bring Klib to this world?&quot;&gt;&lt;/a&gt;Why did I bring Klib to this world?&lt;/h1&gt;&lt;p&gt;I’m a Kindler, love to read on the Kindle. It has many benefits, but also some inconveniences, e.g. hard to export or organize the highlights, etc.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3674/32894417754_5fdaa47904_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;In another side, I’m an &lt;a href=&quot;https://itunes.apple.com/us/developer/id1056935451&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;independent macOS developer&lt;/a&gt;. I want to develop an App to solve my problem, and also help other Kindle users. This is why I made Klib.&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;How-can-Klib-help-Kindle-users&quot;&gt;&lt;a href=&quot;#How-can-Klib-help-Kindle-users&quot; class=&quot;headerlink&quot; title=&quot;How can Klib help Kindle users?&quot;&gt;&lt;/a&gt;How can Klib help Kindle users?&lt;/h1&gt;&lt;p&gt;Let me show you how Klib works and why it’s useful.&lt;/p&gt;
+&lt;h2 id=&quot;Safely-save-highlights&quot;&gt;&lt;a href=&quot;#Safely-save-highlights&quot; class=&quot;headerlink&quot; title=&quot;Safely save highlights&quot;&gt;&lt;/a&gt;Safely save highlights&lt;/h2&gt;&lt;p&gt;Yes, it’s easy to take highlights on the Kindle. But in fact I didn’t feel free to do it. Why? as I know &lt;strong&gt;I’m likely NOT to review the highlights again, which is in fact inconvenient to do&lt;/strong&gt;. And I’m also afraid the highlights will be lost after I deleted the books from my Kindle.&lt;/p&gt;
+&lt;p&gt;Good news is, now &lt;strong&gt;Klib could easily import highlights &amp;amp; notes from Kindle via USB, or wirelessly import from Amazon&lt;/strong&gt;. This guarantees that the highlights I take will be safely saved in my computer, &lt;strong&gt;which obviously encourages me to take more highlights&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/MgDw4wM.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Easily-export-highlights&quot;&gt;&lt;a href=&quot;#Easily-export-highlights&quot; class=&quot;headerlink&quot; title=&quot;Easily export highlights&quot;&gt;&lt;/a&gt;Easily export highlights&lt;/h2&gt;&lt;p&gt;After reading a book I have a habit to summarize it in my blog. And the highlights and notes are important parts of the summary. So, I added the feature that &lt;strong&gt;Klib copy the highlights as Markdown&lt;/strong&gt;. This saved me much time as I don’t need to copy and paste the highlights one by one any more.&lt;/p&gt;
+&lt;p&gt;Sometimes I want to review the highlights when my Kindle or Mac isn’t nearby. How to deal with it? I let &lt;strong&gt;Klib support exporting highlights to Evernote&lt;/strong&gt;, thus I can view them via Evernote’s App for iPhone anytime, anywhere.&lt;/p&gt;
+&lt;h2 id=&quot;Review-highlights-in-Kindle-for-macOS&quot;&gt;&lt;a href=&quot;#Review-highlights-in-Kindle-for-macOS&quot; class=&quot;headerlink&quot; title=&quot;Review highlights in Kindle for macOS&quot;&gt;&lt;/a&gt;Review highlights in Kindle for macOS&lt;/h2&gt;&lt;p&gt;When I review highlights, sometimes I want to read that part of the book again, as the highlights are usually too brief. For this reason, I add the feature that &lt;strong&gt;Klib can open Kindle for macOS and jump to the exact location&lt;/strong&gt;. Very cool and useful.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm3.staticflickr.com/2838/33494566581_b5ffc84216_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Klib should be the world’s first App which could do so.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Klib’s-other-great-features&quot;&gt;&lt;a href=&quot;#Klib’s-other-great-features&quot; class=&quot;headerlink&quot; title=&quot;Klib’s other great features&quot;&gt;&lt;/a&gt;Klib’s other great features&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hide Read Books&lt;ul&gt;
+&lt;li&gt;Help you to focus on now.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Quick Look Notes&lt;ul&gt;
+&lt;li&gt;Another way to review notes in Klib.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Free to Edit, Instantly Search&lt;ul&gt;
+&lt;li&gt;For the highlights, book title, author, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Export Entire Database&lt;ul&gt;
+&lt;li&gt;You can also export selected books.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.toolinbox.net/Klib/&quot;&gt;Learn More&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In the same time, Klib will keep on improving, e.g. some planned improvements are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Organizing books using tags.&lt;/li&gt;
+&lt;li&gt;Supporting manually added books and notes.&lt;/li&gt;
+&lt;li&gt;Improving the experience for reviewing notes.&lt;/li&gt;
+&lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;Why-not-try-Klib-for-Free&quot;&gt;&lt;a href=&quot;#Why-not-try-Klib-for-Free&quot; class=&quot;headerlink&quot; title=&quot;Why not try Klib for Free?&quot;&gt;&lt;/a&gt;Why not try Klib for Free?&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1196268448?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=klib_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3840/32044538343_0935546067_o.jpg&quot; alt=&quot;Mac App Store&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Klib’s free account could manage 20 books. You can upgrade to Klib Pro to manage unlimited books or subscribe “Klib Extensions” to import from Amazon.&lt;/p&gt;
+&lt;p&gt;Now new version of Klib has been submitted to Mac App Store and is in review. In another side you can try &lt;a href=&quot;http://klib.me/d&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Klib’s preview version&lt;/a&gt; ahead.&lt;/p&gt;
+&lt;p&gt;Welcome to introduce Klib to any book lovers you know. You will help them to get more out of reading. Here is the &lt;a href=&quot;https://s.toolinbox.net/Klib/PressKit.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Press Kit&lt;/a&gt; FYI.&lt;/p&gt;
+&lt;h2 id=&quot;Contact-Me&quot;&gt;&lt;a href=&quot;#Contact-Me&quot; class=&quot;headerlink&quot; title=&quot;Contact Me&quot;&gt;&lt;/a&gt;Contact Me&lt;/h2&gt;&lt;p&gt;Please send any suggestions you may have, I will give them seriously consideration.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:iToolinbox@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Email me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://toolinbox.net/html/feedback.html?lang=en&amp;amp;app=Klib&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Leave me a message&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://t.me/iToolinbox&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Join Telegram group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I look forward to hearing from you!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm3.staticflickr.com/2497/32113331573_1f36b457f4_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://klib.me&quot;&gt;Klib&lt;/a&gt; is a new way to manage Kindle highlights and notes. Let me tell you the story behind it.&lt;/p&gt;
+&lt;h1 id=&quot;Why-did-I-bring-Klib-to-this-world&quot;&gt;&lt;a href=&quot;#Why-did-I-bring-Klib-to-this-world&quot; class=&quot;headerlink&quot; title=&quot;Why did I bring Klib to this world?&quot;&gt;&lt;/a&gt;Why did I bring Klib to this world?&lt;/h1&gt;&lt;p&gt;I’m a Kindler, love to read on the Kindle. It has many benefits, but also some inconveniences, e.g. hard to export or organize the highlights, etc.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3674/32894417754_5fdaa47904_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;In another side, I’m an &lt;a href=&quot;https://itunes.apple.com/us/developer/id1056935451&quot;&gt;independent macOS developer&lt;/a&gt;. I want to develop an App to solve my problem, and also help other Kindle users. This is why I made Klib.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Klib" scheme="http://en.toolinbox.net/categories/Klib/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Klib Was Successfully Released Mac App Store</title>
