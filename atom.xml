@@ -411,9 +411,13 @@
     <link href="http://en.toolinbox.net/iPic/ChangeLog.html"/>
     <id>http://en.toolinbox.net/iPic/ChangeLog.html</id>
     <published>2016-05-22T10:32:16.000Z</published>
-    <updated>2016-12-21T14:31:23.000Z</updated>
+    <updated>2017-04-10T10:42:50.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;v1-4-0&quot;&gt;&lt;a href=&quot;#v1-4-0&quot; class=&quot;headerlink&quot; title=&quot;v1.4.0&quot;&gt;&lt;/a&gt;v1.4.0&lt;/h1&gt;&lt;p&gt;2016/12/21&lt;/p&gt;
+    <content type="html">&lt;h1 id=&quot;v1-4-5&quot;&gt;&lt;a href=&quot;#v1-4-5&quot; class=&quot;headerlink&quot; title=&quot;v1.4.5&quot;&gt;&lt;/a&gt;v1.4.5&lt;/h1&gt;&lt;p&gt;2016/04/10&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug fixes and improvements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v1-4-0&quot;&gt;&lt;a href=&quot;#v1-4-0&quot; class=&quot;headerlink&quot; title=&quot;v1.4.0&quot;&gt;&lt;/a&gt;v1.4.0&lt;/h1&gt;&lt;p&gt;2016/12/21&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Full support for https.&lt;/li&gt;
 &lt;li&gt;Compress images before upload.&lt;/li&gt;
@@ -497,7 +501,11 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;v1-4-0&quot;&gt;&lt;a href=&quot;#v1-4-0&quot; class=&quot;headerlink&quot; title=&quot;v1.4.0&quot;&gt;&lt;/a&gt;v1.4.0&lt;/h1&gt;&lt;p&gt;2016/12/21&lt;/p&gt;
+      &lt;h1 id=&quot;v1-4-5&quot;&gt;&lt;a href=&quot;#v1-4-5&quot; class=&quot;headerlink&quot; title=&quot;v1.4.5&quot;&gt;&lt;/a&gt;v1.4.5&lt;/h1&gt;&lt;p&gt;2016/04/10&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug fixes and improvements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;v1-4-0&quot;&gt;&lt;a href=&quot;#v1-4-0&quot; class=&quot;headerlink&quot; title=&quot;v1.4.0&quot;&gt;&lt;/a&gt;v1.4.0&lt;/h1&gt;&lt;p&gt;2016/12/21&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Full support for https.&lt;/li&gt;
 &lt;li&gt;Compress images before upload.&lt;/li&gt;
