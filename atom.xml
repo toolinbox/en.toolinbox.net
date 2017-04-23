@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://en.toolinbox.net/"/>
-  <updated>2017-03-31T05:56:56.000Z</updated>
+  <updated>2017-04-23T13:58:50.000Z</updated>
   <id>http://en.toolinbox.net/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Klib Was Successfully Released Mac App Store</title>
+    <link href="http://en.toolinbox.net/Klib/KlibMAS.html"/>
+    <id>http://en.toolinbox.net/Klib/KlibMAS.html</id>
+    <published>2017-04-23T13:58:50.000Z</published>
+    <updated>2017-04-23T13:58:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.imgur.com/OJVLKwE.png" alt=""></p><p><strong>Klib</strong> (<strong>K</strong>indle <strong>lib</strong>rary) is a new way to manage Kindle highlights and notes. <a href="https://en.toolinbox.net/Klib/">Learn more.</a></p><p>After reviewed and modified for several times, <strong>Klib</strong> was finally released on Mac App Store, and <strong>becomes the first and only Kindle highlights and notes manager on Mac App Store</strong>. Congratulations!</p><p><a href="https://itunes.apple.com/app/id1196268448?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=klib_home" target="_blank" rel="external"><img src="https://farm4.staticflickr.com/3840/32044538343_0935546067_o.jpg" alt=""></a></p><a id="more"></a><p>If you met problem or want Klib to be improved follow your ways, please feel free to contact me.</p><ul><li><a href="https://toolinbox.net/html/feedback.html?lang=en&amp;app=Klib" target="_blank" rel="external">Leave me a message</a></li><li><a href="https://t.me/iToolinbox" target="_blank" rel="external">Join Telegram group</a></li></ul><p>Look forward to your message.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/OJVLKwE.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Klib&lt;/strong&gt; (&lt;strong&gt;K&lt;/strong&gt;indle &lt;strong&gt;lib&lt;/strong&gt;rary) is a new way to manage Kindle highlights and notes. &lt;a href=&quot;https://en.toolinbox.net/Klib/&quot;&gt;Learn more.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;After reviewed and modified for several times, &lt;strong&gt;Klib&lt;/strong&gt; was finally released on Mac App Store, and &lt;strong&gt;becomes the first and only Kindle highlights and notes manager on Mac App Store&lt;/strong&gt;. Congratulations!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1196268448?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=klib_home&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3840/32044538343_0935546067_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Klib" scheme="http://en.toolinbox.net/categories/Klib/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Why Klib is an essential tool for Kindle users?</title>
@@ -27,26 +47,6 @@
     <summary type="html">
     
       &lt;p&gt;&lt;a href=&quot;http://klib.me&quot;&gt;Klib&lt;/a&gt; is a new way to manage Kindle highlights and notes. Let me tell you the story behind it.&lt;/p&gt;&lt;h1 id=&quot;Why-did-I-bring-Klib-to-this-world&quot;&gt;&lt;a href=&quot;#Why-did-I-bring-Klib-to-this-world&quot; class=&quot;headerlink&quot; title=&quot;Why did I bring Klib to this world?&quot;&gt;&lt;/a&gt;Why did I bring Klib to this world?&lt;/h1&gt;&lt;p&gt;I’m a Kindler, love to read on the Kindle. It has many benefits, but also some inconveniences, e.g. hard to export or organize the highlights, etc.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3674/32894417754_5fdaa47904_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;In another side, I’m an &lt;a href=&quot;https://itunes.apple.com/us/developer/id1056935451&quot;&gt;independent macOS developer&lt;/a&gt;. I want to develop an App to solve my problem, and also help other Kindle users. This is why I made Klib.&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Klib" scheme="http://en.toolinbox.net/categories/Klib/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Klib Was Successfully Released Mac App Store</title>
-    <link href="http://en.toolinbox.net/Klib/KlibMAS.html"/>
-    <id>http://en.toolinbox.net/Klib/KlibMAS.html</id>
-    <published>2017-02-22T14:48:01.000Z</published>
-    <updated>2017-04-23T13:18:26.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://i.imgur.com/OJVLKwE.png" alt=""></p><p><strong>Klib</strong> (<strong>K</strong>indle <strong>lib</strong>rary) is a new way to manage Kindle highlights and notes. <a href="https://en.toolinbox.net/Klib/">Learn more.</a></p><p>After reviewed and modified for several times, <strong>Klib</strong> was finally released on Mac App Store, and <strong>becomes the first and only Kindle highlights and notes manager on Mac App Store</strong>. Congratulations!</p><p><a href="https://itunes.apple.com/app/id1196268448?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=klib_home" target="_blank" rel="external"><img src="https://farm4.staticflickr.com/3840/32044538343_0935546067_o.jpg" alt=""></a></p><a id="more"></a><p>If you met problem or want Klib to be improved follow your ways, please feel free to contact me.</p><ul><li><a href="https://toolinbox.net/html/feedback.html?lang=en&amp;app=Klib" target="_blank" rel="external">Leave me a message</a></li><li><a href="https://t.me/iToolinbox" target="_blank" rel="external">Join Telegram group</a></li></ul><p>Look forward to your message.</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/OJVLKwE.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Klib&lt;/strong&gt; (&lt;strong&gt;K&lt;/strong&gt;indle &lt;strong&gt;lib&lt;/strong&gt;rary) is a new way to manage Kindle highlights and notes. &lt;a href=&quot;https://en.toolinbox.net/Klib/&quot;&gt;Learn more.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;After reviewed and modified for several times, &lt;strong&gt;Klib&lt;/strong&gt; was finally released on Mac App Store, and &lt;strong&gt;becomes the first and only Kindle highlights and notes manager on Mac App Store&lt;/strong&gt;. Congratulations!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1196268448?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=klib_home&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3840/32044538343_0935546067_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
