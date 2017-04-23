@@ -22,59 +22,59 @@
     <published>2017-03-31T05:56:56.000Z</published>
     <updated>2017-03-31T05:56:56.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://klib.me&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Klib&lt;/a&gt; is a new way to manage Kindle highlights and notes. Let me tell you the story behind it.&lt;/p&gt;
-&lt;h1 id=&quot;Why-did-I-bring-Klib-to-this-world&quot;&gt;&lt;a href=&quot;#Why-did-I-bring-Klib-to-this-world&quot; class=&quot;headerlink&quot; title=&quot;Why did I bring Klib to this world?&quot;&gt;&lt;/a&gt;Why did I bring Klib to this world?&lt;/h1&gt;&lt;p&gt;I’m a Kindler, love to read on the Kindle. It has many benefits, but also some inconveniences, e.g. hard to export or organize the highlights, etc.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3674/32894417754_5fdaa47904_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;In another side, I’m an &lt;a href=&quot;https://itunes.apple.com/us/developer/id1056935451&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;independent macOS developer&lt;/a&gt;. I want to develop an App to solve my problem, and also help other Kindle users. This is why I made Klib.&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h1 id=&quot;How-can-Klib-help-Kindle-users&quot;&gt;&lt;a href=&quot;#How-can-Klib-help-Kindle-users&quot; class=&quot;headerlink&quot; title=&quot;How can Klib help Kindle users?&quot;&gt;&lt;/a&gt;How can Klib help Kindle users?&lt;/h1&gt;&lt;p&gt;Let me show you how Klib works and why it’s useful.&lt;/p&gt;
-&lt;h2 id=&quot;Safely-save-highlights&quot;&gt;&lt;a href=&quot;#Safely-save-highlights&quot; class=&quot;headerlink&quot; title=&quot;Safely save highlights&quot;&gt;&lt;/a&gt;Safely save highlights&lt;/h2&gt;&lt;p&gt;Yes, it’s easy to take highlights on the Kindle. But in fact I didn’t feel free to do it. Why? as I know &lt;strong&gt;I’m likely NOT to review the highlights again, which is in fact inconvenient to do&lt;/strong&gt;. And I’m also afraid the highlights will be lost after I deleted the books from my Kindle.&lt;/p&gt;
-&lt;p&gt;Good news is, now &lt;strong&gt;Klib could easily import highlights &amp;amp; notes from Kindle via USB, or wirelessly import from Amazon&lt;/strong&gt;. This guarantees that the highlights I take will be safely saved in my computer, &lt;strong&gt;which obviously encourages me to take more highlights&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/MgDw4wM.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;Easily-export-highlights&quot;&gt;&lt;a href=&quot;#Easily-export-highlights&quot; class=&quot;headerlink&quot; title=&quot;Easily export highlights&quot;&gt;&lt;/a&gt;Easily export highlights&lt;/h2&gt;&lt;p&gt;After reading a book I have a habit to summarize it in my blog. And the highlights and notes are important parts of the summary. So, I added the feature that &lt;strong&gt;Klib copy the highlights as Markdown&lt;/strong&gt;. This saved me much time as I don’t need to copy and paste the highlights one by one any more.&lt;/p&gt;
-&lt;p&gt;Sometimes I want to review the highlights when my Kindle or Mac isn’t nearby. How to deal with it? I let &lt;strong&gt;Klib support exporting highlights to Evernote&lt;/strong&gt;, thus I can view them via Evernote’s App for iPhone anytime, anywhere.&lt;/p&gt;
-&lt;h2 id=&quot;Review-highlights-in-Kindle-for-macOS&quot;&gt;&lt;a href=&quot;#Review-highlights-in-Kindle-for-macOS&quot; class=&quot;headerlink&quot; title=&quot;Review highlights in Kindle for macOS&quot;&gt;&lt;/a&gt;Review highlights in Kindle for macOS&lt;/h2&gt;&lt;p&gt;When I review highlights, sometimes I want to read that part of the book again, as the highlights are usually too brief. For this reason, I add the feature that &lt;strong&gt;Klib can open Kindle for macOS and jump to the exact location&lt;/strong&gt;. Very cool and useful.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm3.staticflickr.com/2838/33494566581_b5ffc84216_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Klib should be the world’s first App which could do so.&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&quot;Klib’s-other-great-features&quot;&gt;&lt;a href=&quot;#Klib’s-other-great-features&quot; class=&quot;headerlink&quot; title=&quot;Klib’s other great features&quot;&gt;&lt;/a&gt;Klib’s other great features&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Hide Read Books&lt;ul&gt;
-&lt;li&gt;Help you to focus on now.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Quick Look Notes&lt;ul&gt;
-&lt;li&gt;Another way to review notes in Klib.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Free to Edit, Instantly Search&lt;ul&gt;
-&lt;li&gt;For the highlights, book title, author, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Export Entire Database&lt;ul&gt;
-&lt;li&gt;You can also export selected books.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://en.toolinbox.net/Klib/&quot;&gt;Learn More&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In the same time, Klib will keep on improving, e.g. some planned improvements are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Organizing books using tags.&lt;/li&gt;
-&lt;li&gt;Supporting manually added books and notes.&lt;/li&gt;
-&lt;li&gt;Improving the experience for reviewing notes.&lt;/li&gt;
-&lt;li&gt;…&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;Why-not-try-Klib-for-Free&quot;&gt;&lt;a href=&quot;#Why-not-try-Klib-for-Free&quot; class=&quot;headerlink&quot; title=&quot;Why not try Klib for Free?&quot;&gt;&lt;/a&gt;Why not try Klib for Free?&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1196268448?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=klib_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3840/32044538343_0935546067_o.jpg&quot; alt=&quot;Mac App Store&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Klib’s free account could manage 20 books. You can upgrade to Klib Pro to manage unlimited books or subscribe “Klib Extensions” to import from Amazon.&lt;/p&gt;
-&lt;p&gt;Now new version of Klib has been submitted to Mac App Store and is in review. In another side you can try &lt;a href=&quot;http://klib.me/d&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Klib’s preview version&lt;/a&gt; ahead.&lt;/p&gt;
-&lt;p&gt;Welcome to introduce Klib to any book lovers you know. You will help them to get more out of reading. Here is the &lt;a href=&quot;https://s.toolinbox.net/Klib/PressKit.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Press Kit&lt;/a&gt; FYI.&lt;/p&gt;
-&lt;h2 id=&quot;Contact-Me&quot;&gt;&lt;a href=&quot;#Contact-Me&quot; class=&quot;headerlink&quot; title=&quot;Contact Me&quot;&gt;&lt;/a&gt;Contact Me&lt;/h2&gt;&lt;p&gt;Please send any suggestions you may have, I will give them seriously consideration.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;mailto:iToolinbox@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Email me&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://toolinbox.net/html/feedback.html?lang=en&amp;amp;app=Klib&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Leave me a message&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://t.me/iToolinbox&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Join Telegram group&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I look forward to hearing from you!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm3.staticflickr.com/2497/32113331573_1f36b457f4_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<p><a href="http://klib.me" target="_blank" rel="external">Klib</a> is a new way to manage Kindle highlights and notes. Let me tell you the story behind it.</p>
+<h1 id="Why-did-I-bring-Klib-to-this-world"><a href="#Why-did-I-bring-Klib-to-this-world" class="headerlink" title="Why did I bring Klib to this world?"></a>Why did I bring Klib to this world?</h1><p>I’m a Kindler, love to read on the Kindle. It has many benefits, but also some inconveniences, e.g. hard to export or organize the highlights, etc.</p>
+<p><img src="https://farm4.staticflickr.com/3674/32894417754_5fdaa47904_o.png" alt=""></p>
+<p>In another side, I’m an <a href="https://itunes.apple.com/us/developer/id1056935451" target="_blank" rel="external">independent macOS developer</a>. I want to develop an App to solve my problem, and also help other Kindle users. This is why I made Klib.</p>
+<a id="more"></a>
+<h1 id="How-can-Klib-help-Kindle-users"><a href="#How-can-Klib-help-Kindle-users" class="headerlink" title="How can Klib help Kindle users?"></a>How can Klib help Kindle users?</h1><p>Let me show you how Klib works and why it’s useful.</p>
+<h2 id="Safely-save-highlights"><a href="#Safely-save-highlights" class="headerlink" title="Safely save highlights"></a>Safely save highlights</h2><p>Yes, it’s easy to take highlights on the Kindle. But in fact I didn’t feel free to do it. Why? as I know <strong>I’m likely NOT to review the highlights again, which is in fact inconvenient to do</strong>. And I’m also afraid the highlights will be lost after I deleted the books from my Kindle.</p>
+<p>Good news is, now <strong>Klib could easily import highlights &amp; notes from Kindle via USB, or wirelessly import from Amazon</strong>. This guarantees that the highlights I take will be safely saved in my computer, <strong>which obviously encourages me to take more highlights</strong>.</p>
+<p><img src="http://i.imgur.com/MgDw4wM.png" alt=""></p>
+<h2 id="Easily-export-highlights"><a href="#Easily-export-highlights" class="headerlink" title="Easily export highlights"></a>Easily export highlights</h2><p>After reading a book I have a habit to summarize it in my blog. And the highlights and notes are important parts of the summary. So, I added the feature that <strong>Klib copy the highlights as Markdown</strong>. This saved me much time as I don’t need to copy and paste the highlights one by one any more.</p>
+<p>Sometimes I want to review the highlights when my Kindle or Mac isn’t nearby. How to deal with it? I let <strong>Klib support exporting highlights to Evernote</strong>, thus I can view them via Evernote’s App for iPhone anytime, anywhere.</p>
+<h2 id="Review-highlights-in-Kindle-for-macOS"><a href="#Review-highlights-in-Kindle-for-macOS" class="headerlink" title="Review highlights in Kindle for macOS"></a>Review highlights in Kindle for macOS</h2><p>When I review highlights, sometimes I want to read that part of the book again, as the highlights are usually too brief. For this reason, I add the feature that <strong>Klib can open Kindle for macOS and jump to the exact location</strong>. Very cool and useful.</p>
+<p><img src="https://farm3.staticflickr.com/2838/33494566581_b5ffc84216_o.gif" alt=""></p>
+<p><strong>Klib should be the world’s first App which could do so.</strong></p>
+<h2 id="Klib’s-other-great-features"><a href="#Klib’s-other-great-features" class="headerlink" title="Klib’s other great features"></a>Klib’s other great features</h2><ul>
+<li>Hide Read Books<ul>
+<li>Help you to focus on now.</li>
+</ul>
+</li>
+<li>Quick Look Notes<ul>
+<li>Another way to review notes in Klib.</li>
+</ul>
+</li>
+<li>Free to Edit, Instantly Search<ul>
+<li>For the highlights, book title, author, etc.</li>
+</ul>
+</li>
+<li>Export Entire Database<ul>
+<li>You can also export selected books.</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://en.toolinbox.net/Klib/">Learn More</a></p>
+<p>In the same time, Klib will keep on improving, e.g. some planned improvements are:</p>
+<ul>
+<li>Organizing books using tags.</li>
+<li>Supporting manually added books and notes.</li>
+<li>Improving the experience for reviewing notes.</li>
+<li>…</li>
+</ul>
+<h1 id="Why-not-try-Klib-for-Free"><a href="#Why-not-try-Klib-for-Free" class="headerlink" title="Why not try Klib for Free?"></a>Why not try Klib for Free?</h1><p><a href="https://itunes.apple.com/app/id1196268448?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=klib_home" target="_blank" rel="external"><img src="https://farm4.staticflickr.com/3840/32044538343_0935546067_o.jpg" alt="Mac App Store"></a></p>
+<p>Klib’s free account could manage 20 books. You can upgrade to Klib Pro to manage unlimited books or subscribe “Klib Extensions” to import from Amazon.</p>
+<p>Now new version of Klib has been submitted to Mac App Store and is in review. In another side you can try <a href="http://klib.me/d" target="_blank" rel="external">Klib’s preview version</a> ahead.</p>
+<p>Welcome to introduce Klib to any book lovers you know. You will help them to get more out of reading. Here is the <a href="https://s.toolinbox.net/Klib/PressKit.zip" target="_blank" rel="external">Press Kit</a> FYI.</p>
+<h2 id="Contact-Me"><a href="#Contact-Me" class="headerlink" title="Contact Me"></a>Contact Me</h2><p>Please send any suggestions you may have, I will give them seriously consideration.</p>
+<ul>
+<li><a href="mailto:iToolinbox@gmail.com" target="_blank" rel="external">Email me</a></li>
+<li><a href="https://toolinbox.net/html/feedback.html?lang=en&amp;app=Klib" target="_blank" rel="external">Leave me a message</a></li>
+<li><a href="https://t.me/iToolinbox" target="_blank" rel="external">Join Telegram group</a></li>
+</ul>
+<p>I look forward to hearing from you!</p>
+<p><img src="https://farm3.staticflickr.com/2497/32113331573_1f36b457f4_o.png" alt=""></p>
+]]></content>
     
     <summary type="html">
     
@@ -97,18 +97,18 @@
     <published>2017-02-22T14:48:01.000Z</published>
     <updated>2017-03-06T16:02:40.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://p.ilib.io/cn/zyvsd.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Klib&lt;/strong&gt; (&lt;strong&gt;K&lt;/strong&gt;indle &lt;strong&gt;lib&lt;/strong&gt;rary) is a new way to manage Kindle highlights and notes. &lt;a href=&quot;https://en.toolinbox.net/Klib/&quot;&gt;Learn more.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;After reviewed and modified for several times, &lt;strong&gt;Klib&lt;/strong&gt; was finally released on Mac App Store, and &lt;strong&gt;becomes the first and only Kindle highlights and notes manager on Mac App Store&lt;/strong&gt;. Congratulations!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1196268448?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=klib_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3840/32044538343_0935546067_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;p&gt;If you met problem or want Klib to be improved follow your ways, please feel free to contact me.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://toolinbox.net/html/feedback.html?lang=en&amp;amp;app=Klib&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Leave me a message&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://t.me/iToolinbox&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Join Telegram group&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Look forward to your message.&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<p><img src="https://p.ilib.io/cn/zyvsd.png" alt=""></p>
+<p><strong>Klib</strong> (<strong>K</strong>indle <strong>lib</strong>rary) is a new way to manage Kindle highlights and notes. <a href="https://en.toolinbox.net/Klib/">Learn more.</a></p>
+<p>After reviewed and modified for several times, <strong>Klib</strong> was finally released on Mac App Store, and <strong>becomes the first and only Kindle highlights and notes manager on Mac App Store</strong>. Congratulations!</p>
+<p><a href="https://itunes.apple.com/app/id1196268448?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=klib_home" target="_blank" rel="external"><img src="https://farm4.staticflickr.com/3840/32044538343_0935546067_o.jpg" alt=""></a></p>
+<a id="more"></a>
+<p>If you met problem or want Klib to be improved follow your ways, please feel free to contact me.</p>
+<ul>
+<li><a href="https://toolinbox.net/html/feedback.html?lang=en&amp;app=Klib" target="_blank" rel="external">Leave me a message</a></li>
+<li><a href="https://t.me/iToolinbox" target="_blank" rel="external">Join Telegram group</a></li>
+</ul>
+<p>Look forward to your message.</p>
+]]></content>
     
     <summary type="html">
     
@@ -131,59 +131,59 @@
     <published>2016-12-04T15:24:32.000Z</published>
     <updated>2016-12-22T10:09:07.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5605/31412375166_5bc16137f6_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;What’s-iPic-Mover-Do-I-Need-it&quot;&gt;&lt;a href=&quot;#What’s-iPic-Mover-Do-I-Need-it&quot; class=&quot;headerlink&quot; title=&quot;What’s iPic Mover? Do I Need it?&quot;&gt;&lt;/a&gt;What’s iPic Mover? Do I Need it?&lt;/h1&gt;&lt;p&gt;Did you ever meet these troubles?&lt;/p&gt;
-&lt;p&gt;１. &lt;strong&gt;Upload images to cloud, and then update link in Markdown&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Most Markdown editors don’t support upload images to cloud.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;２. &lt;strong&gt;Change image host&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;E.g., if you want to let your site support https, possibly you need to move images to new image host which supports https.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;３. &lt;strong&gt;Transfer images when change WordPress to Markdown&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;WordPress was very popular, even popular now. But it’s a big trouble to transfer the images in WordPress as attachment.&lt;/li&gt;
-&lt;li&gt;This feature is under development…&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;４. &lt;strong&gt;Compress existing images&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;You may ever uploaded very big images. But it’s very difficult to find all these images in articles, compress, upload to cloud, and then update the links.&lt;/li&gt;
-&lt;li&gt;This feature is under development…&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In another side, iPic Mover could help you to easily transfer images in Markdown to new image host.&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h1 id=&quot;How-to-Use-iPic-Mover&quot;&gt;&lt;a href=&quot;#How-to-Use-iPic-Mover&quot; class=&quot;headerlink&quot; title=&quot;How to Use iPic Mover?&quot;&gt;&lt;/a&gt;How to Use iPic Mover?&lt;/h1&gt;&lt;p&gt;Have a look at this gif first:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/161/31462612566_8ddb823161_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;You only need to select the folder of Markdown files, iPic Mover could help you to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Find all Markdown files&lt;/li&gt;
-&lt;li&gt;Find all the images in Markdown files&lt;/li&gt;
-&lt;li&gt;Upload images&lt;/li&gt;
-&lt;li&gt;Update image links in Markdown&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;There’re some other options:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Copy folder or files before move&lt;ul&gt;
-&lt;li&gt;When selected, only update image links in copied Markdown files. The original ones will not be changed.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Note:&lt;/strong&gt; recommend to backup Markdown files before transfer images.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Only upload local images&lt;ul&gt;
-&lt;li&gt;By default, all the local images and images on cloud will be transferred to new image host. Use this option to upload only local images.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Remove local image files after upload&lt;ul&gt;
-&lt;li&gt;The local image files failed to upload will not be removed.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;iPic Mover could sort images by size. This could help you to quickly find the big images, and then replace or compress them to reduce traffic of your sites.&lt;/p&gt;
-&lt;h1 id=&quot;How-iPic-Mover-Works？&quot;&gt;&lt;a href=&quot;#How-iPic-Mover-Works？&quot; class=&quot;headerlink&quot; title=&quot;How iPic Mover Works？&quot;&gt;&lt;/a&gt;How iPic Mover Works？&lt;/h1&gt;&lt;p&gt;In fact iPic Mover calls iPic to upload images to the selected image host in iPic. Check more details about iPicUploader in this blog:&lt;br&gt;&lt;a href=&quot;https://en.toolinbox.net/iPic/iPicUploader.html&quot;&gt;iPic Opens Upload API: iPicUploader&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;Download-iPic-Mover&quot;&gt;&lt;a href=&quot;#Download-iPic-Mover&quot; class=&quot;headerlink&quot; title=&quot;Download iPic Mover&quot;&gt;&lt;/a&gt;Download iPic Mover&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1183822957?ls=1&amp;amp;mt=12&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;&amp;gt; Click to Download iPic Mover &amp;lt;&amp;lt;&amp;lt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Have a try now!&lt;/p&gt;
-&lt;p&gt;Any suggestions, welcome to &lt;a href=&quot;https://toolinbox.net/html/feedback.html?app=iPicMover&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;chat with me&lt;/a&gt;. Looks forward to your feedback.&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<p><img src="https://farm6.staticflickr.com/5605/31412375166_5bc16137f6_o.png" alt=""></p>
+<h1 id="What’s-iPic-Mover-Do-I-Need-it"><a href="#What’s-iPic-Mover-Do-I-Need-it" class="headerlink" title="What’s iPic Mover? Do I Need it?"></a>What’s iPic Mover? Do I Need it?</h1><p>Did you ever meet these troubles?</p>
+<p>１. <strong>Upload images to cloud, and then update link in Markdown</strong></p>
+<ul>
+<li>Most Markdown editors don’t support upload images to cloud.</li>
+</ul>
+<p>２. <strong>Change image host</strong></p>
+<ul>
+<li>E.g., if you want to let your site support https, possibly you need to move images to new image host which supports https.</li>
+</ul>
+<p>３. <strong>Transfer images when change WordPress to Markdown</strong></p>
+<ul>
+<li>WordPress was very popular, even popular now. But it’s a big trouble to transfer the images in WordPress as attachment.</li>
+<li>This feature is under development…</li>
+</ul>
+<p>４. <strong>Compress existing images</strong></p>
+<ul>
+<li>You may ever uploaded very big images. But it’s very difficult to find all these images in articles, compress, upload to cloud, and then update the links.</li>
+<li>This feature is under development…</li>
+</ul>
+<p>In another side, iPic Mover could help you to easily transfer images in Markdown to new image host.</p>
+<a id="more"></a>
+<h1 id="How-to-Use-iPic-Mover"><a href="#How-to-Use-iPic-Mover" class="headerlink" title="How to Use iPic Mover?"></a>How to Use iPic Mover?</h1><p>Have a look at this gif first:</p>
+<p><img src="https://farm1.staticflickr.com/161/31462612566_8ddb823161_o.gif" alt=""></p>
+<p>You only need to select the folder of Markdown files, iPic Mover could help you to:</p>
+<ul>
+<li>Find all Markdown files</li>
+<li>Find all the images in Markdown files</li>
+<li>Upload images</li>
+<li>Update image links in Markdown</li>
+</ul>
+<p>There’re some other options:</p>
+<ul>
+<li>Copy folder or files before move<ul>
+<li>When selected, only update image links in copied Markdown files. The original ones will not be changed.</li>
+<li><strong>Note:</strong> recommend to backup Markdown files before transfer images.</li>
+</ul>
+</li>
+<li>Only upload local images<ul>
+<li>By default, all the local images and images on cloud will be transferred to new image host. Use this option to upload only local images.</li>
+</ul>
+</li>
+<li>Remove local image files after upload<ul>
+<li>The local image files failed to upload will not be removed.</li>
+</ul>
+</li>
+</ul>
+<p>iPic Mover could sort images by size. This could help you to quickly find the big images, and then replace or compress them to reduce traffic of your sites.</p>
+<h1 id="How-iPic-Mover-Works？"><a href="#How-iPic-Mover-Works？" class="headerlink" title="How iPic Mover Works？"></a>How iPic Mover Works？</h1><p>In fact iPic Mover calls iPic to upload images to the selected image host in iPic. Check more details about iPicUploader in this blog:<br><a href="https://en.toolinbox.net/iPic/iPicUploader.html">iPic Opens Upload API: iPicUploader</a></p>
+<h1 id="Download-iPic-Mover"><a href="#Download-iPic-Mover" class="headerlink" title="Download iPic Mover"></a>Download iPic Mover</h1><p><a href="https://itunes.apple.com/app/id1183822957?ls=1&amp;mt=12" target="_blank" rel="external">&gt;&gt;&gt; Click to Download iPic Mover &lt;&lt;&lt;</a></p>
+<p>Have a try now!</p>
+<p>Any suggestions, welcome to <a href="https://toolinbox.net/html/feedback.html?app=iPicMover" target="_blank" rel="external">chat with me</a>. Looks forward to your feedback.</p>
+]]></content>
     
     <summary type="html">
     
@@ -223,19 +223,19 @@
     <published>2016-11-23T02:50:22.000Z</published>
     <updated>2016-12-06T02:14:38.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5675/31078664840_e837b5e62b_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Now, &lt;a href=&quot;http://www.typora.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Typora&lt;/a&gt;‘s user could easily insert images in Markdown with iPic’s help.&lt;/p&gt;
-&lt;h1 id=&quot;Upload-Local-Images-to-Cloud-via-iPic&quot;&gt;&lt;a href=&quot;#Upload-Local-Images-to-Cloud-via-iPic&quot; class=&quot;headerlink&quot; title=&quot;Upload Local Images to Cloud via iPic&quot;&gt;&lt;/a&gt;Upload Local Images to Cloud via iPic&lt;/h1&gt;&lt;p&gt;If you already insert local images in Markdown, you could easily upload them to Cloud with one click.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5608/31412408656_f5ac8b9b84_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h1 id=&quot;Automatically-Upload-Images-to-Cloud-When-Insert&quot;&gt;&lt;a href=&quot;#Automatically-Upload-Images-to-Cloud-When-Insert&quot; class=&quot;headerlink&quot; title=&quot;Automatically Upload Images to Cloud When Insert&quot;&gt;&lt;/a&gt;Automatically Upload Images to Cloud When Insert&lt;/h1&gt;&lt;p&gt;If you enable this option, when you insert local images, Typora will automatically upload them to Cloud and replace the link.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5619/30641284383_9b8661751f_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;iPicUploader&quot;&gt;&lt;a href=&quot;#iPicUploader&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader&quot;&gt;&lt;/a&gt;iPicUploader&lt;/h1&gt;&lt;p&gt;iPic opens the ability to upload images. It means if your App also needs to upload images, no need to build from scratch. Just use iPicUploader, your App could also upload images to Imgur, Flickr, Amazon S3 and other image hosts.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://toolinbox.net/en/iPic/iPicUploader.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Learn more about iPicUploader&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Typora&lt;/strong&gt; is the first Markdown editor integrate with iPicUploader.&lt;/p&gt;
-&lt;p&gt;If you also want your favorite Markdown editor supports upload images by drag &amp;amp; drop via iPic, just contact me or the editor’s team. Hope all of us could easily insert images in Markdown.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5679/31449195775_ac62afd01b_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<p><img src="https://farm6.staticflickr.com/5675/31078664840_e837b5e62b_o.jpg" alt=""></p>
+<p>Now, <a href="http://www.typora.io/" target="_blank" rel="external">Typora</a>‘s user could easily insert images in Markdown with iPic’s help.</p>
+<h1 id="Upload-Local-Images-to-Cloud-via-iPic"><a href="#Upload-Local-Images-to-Cloud-via-iPic" class="headerlink" title="Upload Local Images to Cloud via iPic"></a>Upload Local Images to Cloud via iPic</h1><p>If you already insert local images in Markdown, you could easily upload them to Cloud with one click.</p>
+<p><img src="https://farm6.staticflickr.com/5608/31412408656_f5ac8b9b84_o.gif" alt=""></p>
+<a id="more"></a>
+<h1 id="Automatically-Upload-Images-to-Cloud-When-Insert"><a href="#Automatically-Upload-Images-to-Cloud-When-Insert" class="headerlink" title="Automatically Upload Images to Cloud When Insert"></a>Automatically Upload Images to Cloud When Insert</h1><p>If you enable this option, when you insert local images, Typora will automatically upload them to Cloud and replace the link.</p>
+<p><img src="https://farm6.staticflickr.com/5619/30641284383_9b8661751f_o.gif" alt=""></p>
+<h1 id="iPicUploader"><a href="#iPicUploader" class="headerlink" title="iPicUploader"></a>iPicUploader</h1><p>iPic opens the ability to upload images. It means if your App also needs to upload images, no need to build from scratch. Just use iPicUploader, your App could also upload images to Imgur, Flickr, Amazon S3 and other image hosts.</p>
+<p><a href="http://toolinbox.net/en/iPic/iPicUploader.html" target="_blank" rel="external">Learn more about iPicUploader</a></p>
+<p><strong>Typora</strong> is the first Markdown editor integrate with iPicUploader.</p>
+<p>If you also want your favorite Markdown editor supports upload images by drag &amp; drop via iPic, just contact me or the editor’s team. Hope all of us could easily insert images in Markdown.</p>
+<p><img src="https://farm6.staticflickr.com/5679/31449195775_ac62afd01b_o.gif" alt=""></p>
+]]></content>
     
     <summary type="html">
     
@@ -258,48 +258,48 @@
     <published>2016-09-04T23:16:11.000Z</published>
     <updated>2017-03-06T15:58:53.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;iPic&quot;&gt;&lt;a href=&quot;#iPic&quot; class=&quot;headerlink&quot; title=&quot;iPic&quot;&gt;&lt;/a&gt;iPic&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5599/31306139462_e0753838bf_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;iPic could automatically upload images and save Markdown links on macOS.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Upload images by drag &amp;amp; drop.&lt;/li&gt;
-&lt;li&gt;Upload images by services with shortcut [Command + U].&lt;/li&gt;
-&lt;li&gt;Upload copied images with shortcut [Shift + Command + U].&lt;/li&gt;
-&lt;li&gt;Support Imgur, Flickr, Amazon S3 and other image hosts.&lt;/li&gt;
-&lt;li&gt;Support image link of Markdown format.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://toolinbox.net/en/iPic/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Video introduction&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1101244278?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iPic_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Download iPic&lt;/a&gt; and have a try.&lt;/p&gt;
-&lt;h1 id=&quot;iPicUploader&quot;&gt;&lt;a href=&quot;#iPicUploader&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader&quot;&gt;&lt;/a&gt;iPicUploader&lt;/h1&gt;&lt;p&gt;iPic opens the ability to upload images. It means if your App also needs to upload images, no need to build from scratch. Just use iPicUploader, your App could also upload images to Imgur, Flickr, Amazon S3 and other image hosts.&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;iPicUploader-Usage&quot;&gt;&lt;a href=&quot;#iPicUploader-Usage&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader Usage&quot;&gt;&lt;/a&gt;iPicUploader Usage&lt;/h2&gt;&lt;p&gt;Upload image file:&lt;/p&gt;
-&lt;figure class=&quot;highlight swift&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageFilePath = &lt;span class=&quot;string&quot;&gt;&quot;/Path/to/the/pic.jpg&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iPic.uploadImage(imageFilePath, handler: &amp;#123; (imageLink, error) &lt;span class=&quot;keyword&quot;&gt;in&lt;/span&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageLink = imageLink &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;comment&quot;&gt;// Image uploaded        &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	   &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125; &lt;span class=&quot;keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; error = error &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;comment&quot;&gt;// Some error happened&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;Upload image data:&lt;/p&gt;
-&lt;figure class=&quot;highlight swift&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageFilePath = &lt;span class=&quot;string&quot;&gt;&quot;/Path/to/the/pic.jpg&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageData = &lt;span class=&quot;type&quot;&gt;NSData&lt;/span&gt;(contentsOfFile: imageFilePath)!&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iPic.uploadImage(imageData, handler: &amp;#123; (imageLink, error) &lt;span class=&quot;keyword&quot;&gt;in&lt;/span&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageLink = imageLink &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;comment&quot;&gt;// Image uploaded        &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	   &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125; &lt;span class=&quot;keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; error = error &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;comment&quot;&gt;// Some error happened&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;Upload NSImage:&lt;/p&gt;
-&lt;figure class=&quot;highlight swift&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageFilePath = &lt;span class=&quot;string&quot;&gt;&quot;/Path/to/the/pic.jpg&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; image = &lt;span class=&quot;type&quot;&gt;NSImage&lt;/span&gt;(contentsOfFile: imageFilePath)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;iPic.uploadImage(image, handler: &amp;#123; (imageLink, error) &lt;span class=&quot;keyword&quot;&gt;in&lt;/span&gt;    &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; imageLink = imageLink &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;comment&quot;&gt;// Image uploaded        &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	   &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125; &lt;span class=&quot;keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; error = error &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;comment&quot;&gt;// Some error happened&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h2 id=&quot;iPicUploader-Example&quot;&gt;&lt;a href=&quot;#iPicUploader-Example&quot; class=&quot;headerlink&quot; title=&quot;iPicUploader Example&quot;&gt;&lt;/a&gt;iPicUploader Example&lt;/h2&gt;&lt;p&gt;iPicUploader also includes a full example. You will feel easy to start. To run the example project, just clone current repository and open &lt;em&gt;iPicUploader.xcworkspace&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Note: &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;As the demo needs to upload images by iPic, you need to &lt;a href=&quot;http://toolinbox.net/html/DownloadiPicWithService.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;download iPic&lt;/a&gt; at first. &lt;/li&gt;
-&lt;li&gt;No worry, you will also be guided to download iPic in the example.&lt;/li&gt;
-&lt;li&gt;The example already dealt with these cases:&lt;ul&gt;
-&lt;li&gt;If iPic wasn’t installed, guide user to download.&lt;/li&gt;
-&lt;li&gt;If iPic wasn’t running, launch iPic automatically.&lt;/li&gt;
-&lt;li&gt;If iPic is running but not compatible, guide user to download latest version.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Now, let’s have a look how the example upload images.&lt;/p&gt;
-&lt;h3 id=&quot;1-Upload-Images-by-Drag-amp-Drop&quot;&gt;&lt;a href=&quot;#1-Upload-Images-by-Drag-amp-Drop&quot; class=&quot;headerlink&quot; title=&quot;1. Upload Images by Drag &amp;amp; Drop&quot;&gt;&lt;/a&gt;1. Upload Images by Drag &amp;amp; Drop&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5506/31414737496_4aab9bbfd8_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;As you can see, iPicUploader support uploads multi-images at a time.&lt;/p&gt;
-&lt;h3 id=&quot;2-Upload-Images-by-Select-Images-Files&quot;&gt;&lt;a href=&quot;#2-Upload-Images-by-Select-Images-Files&quot; class=&quot;headerlink&quot; title=&quot;2. Upload Images by Select Images Files&quot;&gt;&lt;/a&gt;2. Upload Images by Select Images Files&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5327/31306114252_c1dafd7632_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;3-Upload-Images-by-Copy-Image-and-Paste&quot;&gt;&lt;a href=&quot;#3-Upload-Images-by-Copy-Image-and-Paste&quot; class=&quot;headerlink&quot; title=&quot;3. Upload Images by Copy Image and Paste&quot;&gt;&lt;/a&gt;3. Upload Images by Copy Image and Paste&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5612/31333335491_30d9a56377_o.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Beside copy image files, you can also copy the image in other Apps to upload.&lt;/p&gt;
-&lt;h2 id=&quot;Requirements&quot;&gt;&lt;a href=&quot;#Requirements&quot; class=&quot;headerlink&quot; title=&quot;Requirements&quot;&gt;&lt;/a&gt;Requirements&lt;/h2&gt;&lt;p&gt;As iPic runs on macOS 10.11 and newer version, iPicUploader also needs macOS 10.11+&lt;/p&gt;
-&lt;h2 id=&quot;Installation&quot;&gt;&lt;a href=&quot;#Installation&quot; class=&quot;headerlink&quot; title=&quot;Installation&quot;&gt;&lt;/a&gt;Installation&lt;/h2&gt;&lt;p&gt;iPicUploader is available through &lt;a href=&quot;https://cocoapods.org/?q=ipicuploader&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CocoaPods&lt;/a&gt;. To install&lt;br&gt;it, simply add the following line to your Podfile:&lt;/p&gt;
-&lt;figure class=&quot;highlight ruby&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;pod &lt;span class=&quot;string&quot;&gt;&quot;iPicUploader&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h2 id=&quot;License&quot;&gt;&lt;a href=&quot;#License&quot; class=&quot;headerlink&quot; title=&quot;License&quot;&gt;&lt;/a&gt;License&lt;/h2&gt;&lt;p&gt;iPicUploader is available under the MIT license.&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<h1 id="iPic"><a href="#iPic" class="headerlink" title="iPic"></a>iPic</h1><p><img src="https://farm6.staticflickr.com/5599/31306139462_e0753838bf_o.jpg" alt=""></p>
+<p>iPic could automatically upload images and save Markdown links on macOS.</p>
+<ul>
+<li>Upload images by drag &amp; drop.</li>
+<li>Upload images by services with shortcut [Command + U].</li>
+<li>Upload copied images with shortcut [Shift + Command + U].</li>
+<li>Support Imgur, Flickr, Amazon S3 and other image hosts.</li>
+<li>Support image link of Markdown format.</li>
+<li><a href="http://toolinbox.net/en/iPic/" target="_blank" rel="external">Video introduction</a></li>
+</ul>
+<p><a href="https://itunes.apple.com/app/id1101244278?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPic_home" target="_blank" rel="external">Download iPic</a> and have a try.</p>
+<h1 id="iPicUploader"><a href="#iPicUploader" class="headerlink" title="iPicUploader"></a>iPicUploader</h1><p>iPic opens the ability to upload images. It means if your App also needs to upload images, no need to build from scratch. Just use iPicUploader, your App could also upload images to Imgur, Flickr, Amazon S3 and other image hosts.</p>
+<a id="more"></a>
+<h2 id="iPicUploader-Usage"><a href="#iPicUploader-Usage" class="headerlink" title="iPicUploader Usage"></a>iPicUploader Usage</h2><p>Upload image file:</p>
+<figure class="highlight swift"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">let</span> imageFilePath = <span class="string">"/Path/to/the/pic.jpg"</span></span><br><span class="line"></span><br><span class="line">iPic.uploadImage(imageFilePath, handler: &#123; (imageLink, error) <span class="keyword">in</span>    </span><br><span class="line">	<span class="keyword">if</span> <span class="keyword">let</span> imageLink = imageLink &#123;</span><br><span class="line">		<span class="comment">// Image uploaded        </span></span><br><span class="line">	   </span><br><span class="line">	&#125; <span class="keyword">else</span> <span class="keyword">if</span> <span class="keyword">let</span> error = error &#123;</span><br><span class="line">		<span class="comment">// Some error happened</span></span><br><span class="line">	&#125;</span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure>
+<p>Upload image data:</p>
+<figure class="highlight swift"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">let</span> imageFilePath = <span class="string">"/Path/to/the/pic.jpg"</span></span><br><span class="line"><span class="keyword">let</span> imageData = <span class="type">NSData</span>(contentsOfFile: imageFilePath)!</span><br><span class="line"></span><br><span class="line">iPic.uploadImage(imageData, handler: &#123; (imageLink, error) <span class="keyword">in</span>    </span><br><span class="line">	<span class="keyword">if</span> <span class="keyword">let</span> imageLink = imageLink &#123;</span><br><span class="line">		<span class="comment">// Image uploaded        </span></span><br><span class="line">	   </span><br><span class="line">	&#125; <span class="keyword">else</span> <span class="keyword">if</span> <span class="keyword">let</span> error = error &#123;</span><br><span class="line">		<span class="comment">// Some error happened</span></span><br><span class="line">	&#125;</span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure>
+<p>Upload NSImage:</p>
+<figure class="highlight swift"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">let</span> imageFilePath = <span class="string">"/Path/to/the/pic.jpg"</span></span><br><span class="line"><span class="keyword">let</span> image = <span class="type">NSImage</span>(contentsOfFile: imageFilePath)</span><br><span class="line"></span><br><span class="line">iPic.uploadImage(image, handler: &#123; (imageLink, error) <span class="keyword">in</span>    </span><br><span class="line">	<span class="keyword">if</span> <span class="keyword">let</span> imageLink = imageLink &#123;</span><br><span class="line">		<span class="comment">// Image uploaded        </span></span><br><span class="line">	   </span><br><span class="line">	&#125; <span class="keyword">else</span> <span class="keyword">if</span> <span class="keyword">let</span> error = error &#123;</span><br><span class="line">		<span class="comment">// Some error happened</span></span><br><span class="line">	&#125;</span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure>
+<h2 id="iPicUploader-Example"><a href="#iPicUploader-Example" class="headerlink" title="iPicUploader Example"></a>iPicUploader Example</h2><p>iPicUploader also includes a full example. You will feel easy to start. To run the example project, just clone current repository and open <em>iPicUploader.xcworkspace</em>.</p>
+<p>Note: </p>
+<ul>
+<li>As the demo needs to upload images by iPic, you need to <a href="http://toolinbox.net/html/DownloadiPicWithService.html" target="_blank" rel="external">download iPic</a> at first. </li>
+<li>No worry, you will also be guided to download iPic in the example.</li>
+<li>The example already dealt with these cases:<ul>
+<li>If iPic wasn’t installed, guide user to download.</li>
+<li>If iPic wasn’t running, launch iPic automatically.</li>
+<li>If iPic is running but not compatible, guide user to download latest version.</li>
+</ul>
+</li>
+</ul>
+<p>Now, let’s have a look how the example upload images.</p>
+<h3 id="1-Upload-Images-by-Drag-amp-Drop"><a href="#1-Upload-Images-by-Drag-amp-Drop" class="headerlink" title="1. Upload Images by Drag &amp; Drop"></a>1. Upload Images by Drag &amp; Drop</h3><p><img src="https://farm6.staticflickr.com/5506/31414737496_4aab9bbfd8_o.gif" alt=""></p>
+<p>As you can see, iPicUploader support uploads multi-images at a time.</p>
+<h3 id="2-Upload-Images-by-Select-Images-Files"><a href="#2-Upload-Images-by-Select-Images-Files" class="headerlink" title="2. Upload Images by Select Images Files"></a>2. Upload Images by Select Images Files</h3><p><img src="https://farm6.staticflickr.com/5327/31306114252_c1dafd7632_o.gif" alt=""></p>
+<h3 id="3-Upload-Images-by-Copy-Image-and-Paste"><a href="#3-Upload-Images-by-Copy-Image-and-Paste" class="headerlink" title="3. Upload Images by Copy Image and Paste"></a>3. Upload Images by Copy Image and Paste</h3><p><img src="https://farm6.staticflickr.com/5612/31333335491_30d9a56377_o.gif" alt=""></p>
+<p>Beside copy image files, you can also copy the image in other Apps to upload.</p>
+<h2 id="Requirements"><a href="#Requirements" class="headerlink" title="Requirements"></a>Requirements</h2><p>As iPic runs on macOS 10.11 and newer version, iPicUploader also needs macOS 10.11+</p>
+<h2 id="Installation"><a href="#Installation" class="headerlink" title="Installation"></a>Installation</h2><p>iPicUploader is available through <a href="https://cocoapods.org/?q=ipicuploader" target="_blank" rel="external">CocoaPods</a>. To install<br>it, simply add the following line to your Podfile:</p>
+<figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pod <span class="string">"iPicUploader"</span></span><br></pre></td></tr></table></figure>
+<h2 id="License"><a href="#License" class="headerlink" title="License"></a>License</h2><p>iPicUploader is available under the MIT license.</p>
+]]></content>
     
     <summary type="html">
     
@@ -330,52 +330,52 @@
     <published>2016-08-29T10:45:26.000Z</published>
     <updated>2017-02-26T00:49:55.000Z</updated>
     
-    <content type="html">&lt;p&gt;Amazon Simple Storage Service (&lt;a href=&quot;https://aws.amazon.com/s3/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Amazon S3&lt;/a&gt;) is easy to use object storage, with a simple web service interface to store and retrieve any amount of data from anywhere on the web. For more introductions, please refer to &lt;a href=&quot;http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Getting Started with Amazon Simple Storage Service&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;Add-Amazon-S3-in-iPic&quot;&gt;&lt;a href=&quot;#Add-Amazon-S3-in-iPic&quot; class=&quot;headerlink&quot; title=&quot;Add Amazon S3 in iPic&quot;&gt;&lt;/a&gt;Add Amazon S3 in iPic&lt;/h1&gt;&lt;p&gt;Open iPic’s &lt;code&gt;Preferences&lt;/code&gt;, clicks &lt;code&gt;Image Host&lt;/code&gt;, and add &lt;code&gt;Amazon S3&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5720/30641250313_2fcd39ec47_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Here is the introductions for all parts:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;
-&lt;li&gt;Same with the bucket in Amazon S3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; and &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;
-&lt;li&gt;Refer to &lt;a href=&quot;http://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AWS Identity and Access Management (IAM) &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Http Prefix&lt;/code&gt;&lt;ul&gt;
-&lt;li&gt;The endpoint for Amazon S3 bucket, e.g., &lt;em&gt;&lt;a href=&quot;https://ipic-test.s3.amazonaws.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://ipic-test.s3.amazonaws.com&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;After fill all the parts, clicks the &lt;strong&gt;Validate&lt;/strong&gt; button. If all the information above is correct, you can see the link of &lt;strong&gt;Passed&lt;/strong&gt; in the right.&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;p&gt;Beside the basic configuration above, Amazon S3 also supports several advanced ones. Click the ‘Advanced’ button in right of &lt;code&gt;Http Prefix&lt;/code&gt;, you can see the following setting page.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5441/30641252243_a5b27a2da8_o.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Http Prefix&lt;/code&gt;&lt;ul&gt;
-&lt;li&gt;Same with what ever introduced.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Filename Prefix&lt;/code&gt;&lt;ul&gt;
-&lt;li&gt;Could understand as the folder in Amazon S3&lt;/li&gt;
-&lt;li&gt;For example, if you want iPic upload all images in &lt;code&gt;blog&lt;/code&gt; folder, just input &lt;code&gt;blog&lt;/code&gt; here. The image link will like &lt;em&gt;&lt;a href=&quot;https://ipic-test.s3.amazonaws.com/blog/pic.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://ipic-test.s3.amazonaws.com/blog/pic.jpg&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Filename&lt;/code&gt;&lt;ul&gt;
-&lt;li&gt;The filename saved in Amazon S3. Now iPic supports these 3 kinds of filename.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Only Filename&lt;/code&gt; e.g.,  &lt;code&gt;pic.jpg&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Date-Filename&lt;/code&gt; e.g., &lt;code&gt;2016-06-16-pic.jpg&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Random&lt;/code&gt; e.g., &lt;code&gt;jk8l1.jpg&lt;/code&gt;, could help to shorten the link.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Http Suffix&lt;/code&gt;&lt;ul&gt;
-&lt;li&gt;Any characters in the end of the link.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;After all, clicks &lt;strong&gt;Apply&lt;/strong&gt; to save.&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<p>Amazon Simple Storage Service (<a href="https://aws.amazon.com/s3/" target="_blank" rel="external">Amazon S3</a>) is easy to use object storage, with a simple web service interface to store and retrieve any amount of data from anywhere on the web. For more introductions, please refer to <a href="http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html" target="_blank" rel="external">Getting Started with Amazon Simple Storage Service</a></p>
+<h1 id="Add-Amazon-S3-in-iPic"><a href="#Add-Amazon-S3-in-iPic" class="headerlink" title="Add Amazon S3 in iPic"></a>Add Amazon S3 in iPic</h1><p>Open iPic’s <code>Preferences</code>, clicks <code>Image Host</code>, and add <code>Amazon S3</code>.</p>
+<p><img src="https://farm6.staticflickr.com/5720/30641250313_2fcd39ec47_o.png" alt=""></p>
+<p>Here is the introductions for all parts:</p>
+<ul>
+<li><code>Bucket</code><ul>
+<li>Same with the bucket in Amazon S3</li>
+</ul>
+</li>
+<li><code>Access Key</code> and <code>Secret Key</code><ul>
+<li>Refer to <a href="http://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html" target="_blank" rel="external">AWS Identity and Access Management (IAM) </a></li>
+</ul>
+</li>
+<li><code>Http Prefix</code><ul>
+<li>The endpoint for Amazon S3 bucket, e.g., <em><a href="https://ipic-test.s3.amazonaws.com" target="_blank" rel="external">https://ipic-test.s3.amazonaws.com</a></em></li>
+</ul>
+</li>
+</ul>
+<p>After fill all the parts, clicks the <strong>Validate</strong> button. If all the information above is correct, you can see the link of <strong>Passed</strong> in the right.</p>
+<a id="more"></a>
+<p>Beside the basic configuration above, Amazon S3 also supports several advanced ones. Click the ‘Advanced’ button in right of <code>Http Prefix</code>, you can see the following setting page.</p>
+<p><img src="https://farm6.staticflickr.com/5441/30641252243_a5b27a2da8_o.png" alt=""></p>
+<ul>
+<li><code>Http Prefix</code><ul>
+<li>Same with what ever introduced.</li>
+</ul>
+</li>
+<li><code>Filename Prefix</code><ul>
+<li>Could understand as the folder in Amazon S3</li>
+<li>For example, if you want iPic upload all images in <code>blog</code> folder, just input <code>blog</code> here. The image link will like <em><a href="https://ipic-test.s3.amazonaws.com/blog/pic.jpg" target="_blank" rel="external">https://ipic-test.s3.amazonaws.com/blog/pic.jpg</a></em></li>
+</ul>
+</li>
+<li><code>Filename</code><ul>
+<li>The filename saved in Amazon S3. Now iPic supports these 3 kinds of filename.</li>
+<li><code>Only Filename</code> e.g.,  <code>pic.jpg</code></li>
+<li><code>Date-Filename</code> e.g., <code>2016-06-16-pic.jpg</code></li>
+<li><code>Random</code> e.g., <code>jk8l1.jpg</code>, could help to shorten the link.</li>
+</ul>
+</li>
+<li><code>Http Suffix</code><ul>
+<li>Any characters in the end of the link.</li>
+</ul>
+</li>
+</ul>
+<p>After all, clicks <strong>Apply</strong> to save.</p>
+]]></content>
     
     <summary type="html">
     
@@ -413,91 +413,91 @@
     <published>2016-05-22T10:32:16.000Z</published>
     <updated>2017-04-11T09:17:39.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;v1-4-6&quot;&gt;&lt;a href=&quot;#v1-4-6&quot; class=&quot;headerlink&quot; title=&quot;v1.4.6&quot;&gt;&lt;/a&gt;v1.4.6&lt;/h1&gt;&lt;p&gt;2016/04/11&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bug fixes and improvements.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-4-0&quot;&gt;&lt;a href=&quot;#v1-4-0&quot; class=&quot;headerlink&quot; title=&quot;v1.4.0&quot;&gt;&lt;/a&gt;v1.4.0&lt;/h1&gt;&lt;p&gt;2016/12/21&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Full support for https.&lt;/li&gt;
-&lt;li&gt;Compress images before upload.&lt;/li&gt;
-&lt;li&gt;Support &lt;a href=&quot;https://en.toolinbox.net/iPic/iPicMover.html&quot;&gt;iPic Mover&lt;/a&gt;, which could easily move images in Markdown.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-3-1&quot;&gt;&lt;a href=&quot;#v1-3-1&quot; class=&quot;headerlink&quot; title=&quot;v1.3.1&quot;&gt;&lt;/a&gt;v1.3.1&lt;/h1&gt;&lt;p&gt;2016/10/18&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Could duplicate image host.&lt;/li&gt;
-&lt;li&gt;Includ &lt;a href=&quot;https://github.com/toolinbox/iPicUploader&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iPicUploader&lt;/a&gt; service.&lt;/li&gt;
-&lt;li&gt;Fit to Swift 3.0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-2-0&quot;&gt;&lt;a href=&quot;#v1-2-0&quot; class=&quot;headerlink&quot; title=&quot;v1.2.0&quot;&gt;&lt;/a&gt;v1.2.0&lt;/h1&gt;&lt;p&gt;2016/08/29&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support &lt;a href=&quot;https://aws.amazon.com/s3/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Amazon S3&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;Fixed Bugs&lt;ul&gt;
-&lt;li&gt;When upload multi-files, the order of links keep the same with files.&lt;/li&gt;
-&lt;li&gt;Sometimes no response when drag images from Dock to upload.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-1-2&quot;&gt;&lt;a href=&quot;#v1-1-2&quot; class=&quot;headerlink&quot; title=&quot;v1.1.2&quot;&gt;&lt;/a&gt;v1.1.2&lt;/h1&gt;&lt;p&gt;2016/08/21&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support &lt;a href=&quot;https://intl.aliyun.com/product/oss&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Alibaba Cloud Object Storage Service (OSS)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h1 id=&quot;v1-1-1&quot;&gt;&lt;a href=&quot;#v1-1-1&quot; class=&quot;headerlink&quot; title=&quot;v1.1.1&quot;&gt;&lt;/a&gt;v1.1.1&lt;/h1&gt;&lt;p&gt;2016/08/01&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support macOS Sierra.&lt;/li&gt;
-&lt;li&gt;Support multi Imgur or Flickr accounts.&lt;/li&gt;
-&lt;li&gt;Support upload copied images by shortcut.&lt;/li&gt;
-&lt;li&gt;Support change image link format in main menu.&lt;/li&gt;
-&lt;li&gt;Save all images’ link when upload multi-images.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-1-0&quot;&gt;&lt;a href=&quot;#v1-1-0&quot; class=&quot;headerlink&quot; title=&quot;v1.1.0&quot;&gt;&lt;/a&gt;v1.1.0&lt;/h1&gt;&lt;p&gt;2016/07/01&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Release on Mac App Store&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-0-7&quot;&gt;&lt;a href=&quot;#v1-0-7&quot; class=&quot;headerlink&quot; title=&quot;v1.0.7&quot;&gt;&lt;/a&gt;v1.0.7&lt;/h1&gt;&lt;p&gt;2016/07/01&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support upload to your Imgur account.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-0-6&quot;&gt;&lt;a href=&quot;#v1-0-6&quot; class=&quot;headerlink&quot; title=&quot;v1.0.6&quot;&gt;&lt;/a&gt;v1.0.6&lt;/h1&gt;&lt;p&gt;2016/06/29&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Add image type in link when upload to Weibo.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-0-5&quot;&gt;&lt;a href=&quot;#v1-0-5&quot; class=&quot;headerlink&quot; title=&quot;v1.0.5&quot;&gt;&lt;/a&gt;v1.0.5&lt;/h1&gt;&lt;p&gt;2016/06/27&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support sandbox mode.&lt;/li&gt;
-&lt;li&gt;Adjust menu bar icon.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v0-8-0&quot;&gt;&lt;a href=&quot;#v0-8-0&quot; class=&quot;headerlink&quot; title=&quot;v0.8.0&quot;&gt;&lt;/a&gt;v0.8.0&lt;/h1&gt;&lt;p&gt;2016/06/22&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support upload image to &lt;a href=&quot;https://www.flickr.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Flickr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support upload by services in Finder.&lt;/li&gt;
-&lt;li&gt;Support upload by dragging image to iPic in menu bar.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v0-7-6&quot;&gt;&lt;a href=&quot;#v0-7-6&quot; class=&quot;headerlink&quot; title=&quot;v0.7.6&quot;&gt;&lt;/a&gt;v0.7.6&lt;/h1&gt;&lt;p&gt;2016/06/11&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support upload image to &lt;a href=&quot;https://www.upyun.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;UpYun&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v0-7-1&quot;&gt;&lt;a href=&quot;#v0-7-1&quot; class=&quot;headerlink&quot; title=&quot;v0.7.1&quot;&gt;&lt;/a&gt;v0.7.1&lt;/h1&gt;&lt;p&gt;2016/05/31&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support upload image to &lt;a href=&quot;https://imgur.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Imgur&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support key prefix for &lt;a href=&quot;https://qiniu.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Qiniu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Record more upload history. Save when quit iPic.&lt;/li&gt;
-&lt;li&gt;Support start at login.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v0-6-0&quot;&gt;&lt;a href=&quot;#v0-6-0&quot; class=&quot;headerlink&quot; title=&quot;v0.6.0&quot;&gt;&lt;/a&gt;v0.6.0&lt;/h1&gt;&lt;p&gt;2016/05/25&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support upload to &lt;a href=&quot;https://qiniu.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Qiniu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Show auto upload status in menu bar.&lt;/li&gt;
-&lt;li&gt;Show upload progress in menu bar.&lt;/li&gt;
-&lt;li&gt;Support open menu by shortcut.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v0-5-1&quot;&gt;&lt;a href=&quot;#v0-5-1&quot; class=&quot;headerlink&quot; title=&quot;v0.5.1&quot;&gt;&lt;/a&gt;v0.5.1&lt;/h1&gt;&lt;p&gt;2016/05/17&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;First trial version.&lt;/li&gt;
-&lt;li&gt;Support auto upload to Weibo.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+    <content type="html"><![CDATA[<h1 id="v1-4-6"><a href="#v1-4-6" class="headerlink" title="v1.4.6"></a>v1.4.6</h1><p>2016/04/11</p>
+<ul>
+<li>Bug fixes and improvements.</li>
+</ul>
+<h1 id="v1-4-0"><a href="#v1-4-0" class="headerlink" title="v1.4.0"></a>v1.4.0</h1><p>2016/12/21</p>
+<ul>
+<li>Full support for https.</li>
+<li>Compress images before upload.</li>
+<li>Support <a href="https://en.toolinbox.net/iPic/iPicMover.html">iPic Mover</a>, which could easily move images in Markdown.</li>
+</ul>
+<h1 id="v1-3-1"><a href="#v1-3-1" class="headerlink" title="v1.3.1"></a>v1.3.1</h1><p>2016/10/18</p>
+<ul>
+<li>Could duplicate image host.</li>
+<li>Includ <a href="https://github.com/toolinbox/iPicUploader" target="_blank" rel="external">iPicUploader</a> service.</li>
+<li>Fit to Swift 3.0</li>
+</ul>
+<h1 id="v1-2-0"><a href="#v1-2-0" class="headerlink" title="v1.2.0"></a>v1.2.0</h1><p>2016/08/29</p>
+<ul>
+<li>Support <a href="https://aws.amazon.com/s3/" target="_blank" rel="external">Amazon S3</a> </li>
+<li>Fixed Bugs<ul>
+<li>When upload multi-files, the order of links keep the same with files.</li>
+<li>Sometimes no response when drag images from Dock to upload.</li>
+</ul>
+</li>
+</ul>
+<h1 id="v1-1-2"><a href="#v1-1-2" class="headerlink" title="v1.1.2"></a>v1.1.2</h1><p>2016/08/21</p>
+<ul>
+<li>Support <a href="https://intl.aliyun.com/product/oss" target="_blank" rel="external">Alibaba Cloud Object Storage Service (OSS)</a></li>
+</ul>
+<a id="more"></a>
+<h1 id="v1-1-1"><a href="#v1-1-1" class="headerlink" title="v1.1.1"></a>v1.1.1</h1><p>2016/08/01</p>
+<ul>
+<li>Support macOS Sierra.</li>
+<li>Support multi Imgur or Flickr accounts.</li>
+<li>Support upload copied images by shortcut.</li>
+<li>Support change image link format in main menu.</li>
+<li>Save all images’ link when upload multi-images.</li>
+</ul>
+<h1 id="v1-1-0"><a href="#v1-1-0" class="headerlink" title="v1.1.0"></a>v1.1.0</h1><p>2016/07/01</p>
+<ul>
+<li>Release on Mac App Store</li>
+</ul>
+<h1 id="v1-0-7"><a href="#v1-0-7" class="headerlink" title="v1.0.7"></a>v1.0.7</h1><p>2016/07/01</p>
+<ul>
+<li>Support upload to your Imgur account.</li>
+</ul>
+<h1 id="v1-0-6"><a href="#v1-0-6" class="headerlink" title="v1.0.6"></a>v1.0.6</h1><p>2016/06/29</p>
+<ul>
+<li>Add image type in link when upload to Weibo.</li>
+</ul>
+<h1 id="v1-0-5"><a href="#v1-0-5" class="headerlink" title="v1.0.5"></a>v1.0.5</h1><p>2016/06/27</p>
+<ul>
+<li>Support sandbox mode.</li>
+<li>Adjust menu bar icon.</li>
+</ul>
+<h1 id="v0-8-0"><a href="#v0-8-0" class="headerlink" title="v0.8.0"></a>v0.8.0</h1><p>2016/06/22</p>
+<ul>
+<li>Support upload image to <a href="https://www.flickr.com" target="_blank" rel="external">Flickr</a></li>
+<li>Support upload by services in Finder.</li>
+<li>Support upload by dragging image to iPic in menu bar.</li>
+</ul>
+<h1 id="v0-7-6"><a href="#v0-7-6" class="headerlink" title="v0.7.6"></a>v0.7.6</h1><p>2016/06/11</p>
+<ul>
+<li>Support upload image to <a href="https://www.upyun.com" target="_blank" rel="external">UpYun</a></li>
+</ul>
+<h1 id="v0-7-1"><a href="#v0-7-1" class="headerlink" title="v0.7.1"></a>v0.7.1</h1><p>2016/05/31</p>
+<ul>
+<li>Support upload image to <a href="https://imgur.com" target="_blank" rel="external">Imgur</a></li>
+<li>Support key prefix for <a href="https://qiniu.com" target="_blank" rel="external">Qiniu</a></li>
+<li>Record more upload history. Save when quit iPic.</li>
+<li>Support start at login.</li>
+</ul>
+<h1 id="v0-6-0"><a href="#v0-6-0" class="headerlink" title="v0.6.0"></a>v0.6.0</h1><p>2016/05/25</p>
+<ul>
+<li>Support upload to <a href="https://qiniu.com" target="_blank" rel="external">Qiniu</a></li>
+<li>Show auto upload status in menu bar.</li>
+<li>Show upload progress in menu bar.</li>
+<li>Support open menu by shortcut.</li>
+</ul>
+<h1 id="v0-5-1"><a href="#v0-5-1" class="headerlink" title="v0.5.1"></a>v0.5.1</h1><p>2016/05/17</p>
+<ul>
+<li>First trial version.</li>
+<li>Support auto upload to Weibo.</li>
+</ul>
+]]></content>
     
     <summary type="html">
     
@@ -545,15 +545,15 @@
     <published>2016-05-11T13:42:32.000Z</published>
     <updated>2017-03-06T15:54:01.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5694/31412364296_1a158da195_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1102004240?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iHosts_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iHosts&lt;/a&gt;, perfect for editing /etc/hosts on Mac, was recommended by many Japanese sites, e.g., &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://veadardiary.blog29.fc2.com/blog-entry-6141.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Macの手書き説明書&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://loumo.jp/wp/archive/20160511120017/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;OS X の hosts ファイルを編集、切り替えが楽になるアプリ iHosts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Use iHosts to organise your /etc/hosts now for free now!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1102004240?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iHosts_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5334/31412365926_2960c25596_o.jpg&quot; alt=&quot;Mac App Store&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<p><img src="https://farm6.staticflickr.com/5694/31412364296_1a158da195_o.jpg" alt=""></p>
+<p><a href="https://itunes.apple.com/app/id1102004240?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iHosts_home" target="_blank" rel="external">iHosts</a>, perfect for editing /etc/hosts on Mac, was recommended by many Japanese sites, e.g., </p>
+<ul>
+<li><a href="http://veadardiary.blog29.fc2.com/blog-entry-6141.html" target="_blank" rel="external">Macの手書き説明書</a></li>
+<li><a href="http://loumo.jp/wp/archive/20160511120017/" target="_blank" rel="external">OS X の hosts ファイルを編集、切り替えが楽になるアプリ iHosts</a></li>
+</ul>
+<p>Use iHosts to organise your /etc/hosts now for free now!</p>
+<p><a href="https://itunes.apple.com/app/id1102004240?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iHosts_home" target="_blank" rel="external"><img src="https://farm6.staticflickr.com/5334/31412365926_2960c25596_o.jpg" alt="Mac App Store"></a></p>
+]]></content>
     
     <summary type="html">
     
@@ -574,11 +574,11 @@
     <published>2016-05-07T11:09:59.000Z</published>
     <updated>2017-03-06T15:53:24.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1102004240?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iHosts_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iHosts&lt;/a&gt;, the perfect tool for editing /etc/hosts, hits the No. 2 App on Mac App Store (Category: Developer Tools, Chinese Store). Cool~&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5665/31412368276_c8222624ac_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5687/31412369966_8e93f2ddca_o.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Please help to &lt;a href=&quot;https://itunes.apple.com/app/id1102004240?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iHosts_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;give 5 stars to iHosts&lt;/a&gt; if you think it’s good. Thanks in advance.&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1102004240?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iHosts_home" target="_blank" rel="external">iHosts</a>, the perfect tool for editing /etc/hosts, hits the No. 2 App on Mac App Store (Category: Developer Tools, Chinese Store). Cool~</p>
+<p><img src="https://farm6.staticflickr.com/5665/31412368276_c8222624ac_o.jpg" alt=""></p>
+<p><img src="https://farm6.staticflickr.com/5687/31412369966_8e93f2ddca_o.jpg" alt=""></p>
+<p>Please help to <a href="https://itunes.apple.com/app/id1102004240?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iHosts_home" target="_blank" rel="external">give 5 stars to iHosts</a> if you think it’s good. Thanks in advance.</p>
+]]></content>
     
     <summary type="html">
     
@@ -598,28 +598,28 @@
     <published>2015-11-22T10:32:16.000Z</published>
     <updated>2016-09-26T01:31:48.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;v1-2-6&quot;&gt;&lt;a href=&quot;#v1-2-6&quot; class=&quot;headerlink&quot; title=&quot;v1.2.6&quot;&gt;&lt;/a&gt;v1.2.6&lt;/h1&gt;&lt;p&gt;2016/09/27&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Change App name to &lt;strong&gt;iPaste&lt;/strong&gt;, also update logo.&lt;/li&gt;
-&lt;li&gt;Increase clipboard history count.&lt;/li&gt;
-&lt;li&gt;Save clipboard history before quit.&lt;/li&gt;
-&lt;li&gt;Filter duplicated clipboard history.&lt;/li&gt;
-&lt;li&gt;Could hide menu bar icon.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v0-8-2&quot;&gt;&lt;a href=&quot;#v0-8-2&quot; class=&quot;headerlink&quot; title=&quot;v0.8.2&quot;&gt;&lt;/a&gt;v0.8.2&lt;/h1&gt;&lt;p&gt;2015/12/18&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Pin the history you frequently use.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h1 id=&quot;v0-7-0&quot;&gt;&lt;a href=&quot;#v0-7-0&quot; class=&quot;headerlink&quot; title=&quot;v0.7.0&quot;&gt;&lt;/a&gt;v0.7.0&lt;/h1&gt;&lt;p&gt;2015/12/07&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bug fixing and feature improvement.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v0-6-1&quot;&gt;&lt;a href=&quot;#v0-6-1&quot; class=&quot;headerlink&quot; title=&quot;v0.6.1&quot;&gt;&lt;/a&gt;v0.6.1&lt;/h1&gt;&lt;p&gt;2015/11/28&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Release on Mac App Store&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+    <content type="html"><![CDATA[<h1 id="v1-2-6"><a href="#v1-2-6" class="headerlink" title="v1.2.6"></a>v1.2.6</h1><p>2016/09/27</p>
+<ul>
+<li>Change App name to <strong>iPaste</strong>, also update logo.</li>
+<li>Increase clipboard history count.</li>
+<li>Save clipboard history before quit.</li>
+<li>Filter duplicated clipboard history.</li>
+<li>Could hide menu bar icon.</li>
+</ul>
+<h1 id="v0-8-2"><a href="#v0-8-2" class="headerlink" title="v0.8.2"></a>v0.8.2</h1><p>2015/12/18</p>
+<ul>
+<li>Pin the history you frequently use.</li>
+</ul>
+<a id="more"></a>
+<h1 id="v0-7-0"><a href="#v0-7-0" class="headerlink" title="v0.7.0"></a>v0.7.0</h1><p>2015/12/07</p>
+<ul>
+<li>Bug fixing and feature improvement.</li>
+</ul>
+<h1 id="v0-6-1"><a href="#v0-6-1" class="headerlink" title="v0.6.1"></a>v0.6.1</h1><p>2015/11/28</p>
+<ul>
+<li>Release on Mac App Store</li>
+</ul>
+]]></content>
     
     <summary type="html">
     
@@ -650,28 +650,28 @@
     <published>2015-11-22T10:32:16.000Z</published>
     <updated>2016-12-28T13:18:07.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;2016/12/28&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Could customize timers.&lt;/li&gt;
-&lt;li&gt;Fit to Swift 3.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;2016/09/26&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Change App name to &lt;strong&gt;iTimer&lt;/strong&gt;, also update logo.&lt;/li&gt;
-&lt;li&gt;Add more timers.&lt;/li&gt;
-&lt;li&gt;Support macOS Sierra.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h1 id=&quot;v0-6-2&quot;&gt;&lt;a href=&quot;#v0-6-2&quot; class=&quot;headerlink&quot; title=&quot;v0.6.2&quot;&gt;&lt;/a&gt;v0.6.2&lt;/h1&gt;&lt;p&gt;2015/12/15&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Remind to start timer.&lt;/li&gt;
-&lt;li&gt;Support start at login.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v0-5-1&quot;&gt;&lt;a href=&quot;#v0-5-1&quot; class=&quot;headerlink&quot; title=&quot;v0.5.1&quot;&gt;&lt;/a&gt;v0.5.1&lt;/h1&gt;&lt;p&gt;2015/12/05&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Release on Mac App Store&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+    <content type="html"><![CDATA[<h1 id="v1-3-0"><a href="#v1-3-0" class="headerlink" title="v1.3.0"></a>v1.3.0</h1><p>2016/12/28</p>
+<ul>
+<li>Could customize timers.</li>
+<li>Fit to Swift 3.</li>
+</ul>
+<h1 id="v1-2-3"><a href="#v1-2-3" class="headerlink" title="v1.2.3"></a>v1.2.3</h1><p>2016/09/26</p>
+<ul>
+<li>Change App name to <strong>iTimer</strong>, also update logo.</li>
+<li>Add more timers.</li>
+<li>Support macOS Sierra.</li>
+</ul>
+<a id="more"></a>
+<h1 id="v0-6-2"><a href="#v0-6-2" class="headerlink" title="v0.6.2"></a>v0.6.2</h1><p>2015/12/15</p>
+<ul>
+<li>Remind to start timer.</li>
+<li>Support start at login.</li>
+</ul>
+<h1 id="v0-5-1"><a href="#v0-5-1" class="headerlink" title="v0.5.1"></a>v0.5.1</h1><p>2015/12/05</p>
+<ul>
+<li>Release on Mac App Store</li>
+</ul>
+]]></content>
     
     <summary type="html">
     
@@ -701,22 +701,22 @@
     <published>2015-05-03T10:32:16.000Z</published>
     <updated>2016-08-15T00:01:52.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Aug 14th, 2016&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support macOS Sierra.&lt;/li&gt;
-&lt;li&gt;Pro users could add unlimited hosts nodes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;&lt;em&gt;May 22nd, 2016&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Open Hosts menu by shortcut.&lt;/li&gt;
-&lt;li&gt;Support syntax highlight for Hosts.&lt;/li&gt;
-&lt;li&gt;Quick look when mouse over Hosts menu.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-0-10&quot;&gt;&lt;a href=&quot;#v1-0-10&quot; class=&quot;headerlink&quot; title=&quot;v1.0.10&quot;&gt;&lt;/a&gt;v1.0.10&lt;/h1&gt;&lt;p&gt;&lt;em&gt;May 2nd, 2016&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Release on Mac App Store&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+    <content type="html"><![CDATA[<h1 id="v1-3-0"><a href="#v1-3-0" class="headerlink" title="v1.3.0"></a>v1.3.0</h1><p><em>Aug 14th, 2016</em></p>
+<ul>
+<li>Support macOS Sierra.</li>
+<li>Pro users could add unlimited hosts nodes.</li>
+</ul>
+<h1 id="v1-2-3"><a href="#v1-2-3" class="headerlink" title="v1.2.3"></a>v1.2.3</h1><p><em>May 22nd, 2016</em></p>
+<ul>
+<li>Open Hosts menu by shortcut.</li>
+<li>Support syntax highlight for Hosts.</li>
+<li>Quick look when mouse over Hosts menu.</li>
+</ul>
+<h1 id="v1-0-10"><a href="#v1-0-10" class="headerlink" title="v1.0.10"></a>v1.0.10</h1><p><em>May 2nd, 2016</em></p>
+<ul>
+<li>Release on Mac App Store</li>
+</ul>
+]]></content>
     
     <summary type="html">
     
@@ -738,15 +738,15 @@
     <published>2011-10-29T12:50:28.000Z</published>
     <updated>2016-08-29T14:14:55.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;Terms-and-Conditions-“Terms”&quot;&gt;&lt;a href=&quot;#Terms-and-Conditions-“Terms”&quot; class=&quot;headerlink&quot; title=&quot;Terms and Conditions (“Terms”)&quot;&gt;&lt;/a&gt;Terms and Conditions (“Terms”)&lt;/h1&gt;&lt;p&gt;Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the &lt;a href=&quot;http://toolinbox.net&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://toolinbox.net&lt;/a&gt; website or the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”) operated by Toolinbox (“us”, “we”, or “our”).&lt;br&gt;Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.&lt;br&gt;By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;Accounts&quot;&gt;&lt;a href=&quot;#Accounts&quot; class=&quot;headerlink&quot; title=&quot;Accounts&quot;&gt;&lt;/a&gt;Accounts&lt;/h2&gt;&lt;p&gt;When you create an account with us, you must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.&lt;br&gt;You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.&lt;br&gt;You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.&lt;/p&gt;
-&lt;h2 id=&quot;Links-To-Other-Web-Sites&quot;&gt;&lt;a href=&quot;#Links-To-Other-Web-Sites&quot; class=&quot;headerlink&quot; title=&quot;Links To Other Web Sites&quot;&gt;&lt;/a&gt;Links To Other Web Sites&lt;/h2&gt;&lt;p&gt;Our Service may contain links to third-party web sites or services that are not owned or controlled by Toolinbox.&lt;br&gt;Toolinbox has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Toolinbox shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.&lt;br&gt;We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.&lt;/p&gt;
-&lt;h2 id=&quot;Termination&quot;&gt;&lt;a href=&quot;#Termination&quot; class=&quot;headerlink&quot; title=&quot;Termination&quot;&gt;&lt;/a&gt;Termination&lt;/h2&gt;&lt;p&gt;We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.&lt;br&gt;All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.&lt;br&gt;We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.&lt;br&gt;Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service.&lt;br&gt;All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.&lt;/p&gt;
-&lt;h2 id=&quot;Governing-Law&quot;&gt;&lt;a href=&quot;#Governing-Law&quot; class=&quot;headerlink&quot; title=&quot;Governing Law&quot;&gt;&lt;/a&gt;Governing Law&lt;/h2&gt;&lt;p&gt;These Terms shall be governed and construed in accordance with the laws of United States, without regard to its conflict of law provisions.&lt;br&gt;Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.&lt;/p&gt;
-&lt;h2 id=&quot;Changes&quot;&gt;&lt;a href=&quot;#Changes&quot; class=&quot;headerlink&quot; title=&quot;Changes&quot;&gt;&lt;/a&gt;Changes&lt;/h2&gt;&lt;p&gt;We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.&lt;br&gt;By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.&lt;/p&gt;
-&lt;h2 id=&quot;Contact-Us&quot;&gt;&lt;a href=&quot;#Contact-Us&quot; class=&quot;headerlink&quot; title=&quot;Contact Us&quot;&gt;&lt;/a&gt;Contact Us&lt;/h2&gt;&lt;p&gt;If you have any questions about these Terms, please contact us.&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<h1 id="Terms-and-Conditions-“Terms”"><a href="#Terms-and-Conditions-“Terms”" class="headerlink" title="Terms and Conditions (“Terms”)"></a>Terms and Conditions (“Terms”)</h1><p>Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the <a href="http://toolinbox.net" target="_blank" rel="external">http://toolinbox.net</a> website or the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”) operated by Toolinbox (“us”, “we”, or “our”).<br>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.<br>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.</p>
+<a id="more"></a>
+<h2 id="Accounts"><a href="#Accounts" class="headerlink" title="Accounts"></a>Accounts</h2><p>When you create an account with us, you must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.<br>You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.<br>You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.</p>
+<h2 id="Links-To-Other-Web-Sites"><a href="#Links-To-Other-Web-Sites" class="headerlink" title="Links To Other Web Sites"></a>Links To Other Web Sites</h2><p>Our Service may contain links to third-party web sites or services that are not owned or controlled by Toolinbox.<br>Toolinbox has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Toolinbox shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.<br>We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.</p>
+<h2 id="Termination"><a href="#Termination" class="headerlink" title="Termination"></a>Termination</h2><p>We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.<br>All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.<br>We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.<br>Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service.<br>All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</p>
+<h2 id="Governing-Law"><a href="#Governing-Law" class="headerlink" title="Governing Law"></a>Governing Law</h2><p>These Terms shall be governed and construed in accordance with the laws of United States, without regard to its conflict of law provisions.<br>Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.</p>
+<h2 id="Changes"><a href="#Changes" class="headerlink" title="Changes"></a>Changes</h2><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.<br>By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.</p>
+<h2 id="Contact-Us"><a href="#Contact-Us" class="headerlink" title="Contact Us"></a>Contact Us</h2><p>If you have any questions about these Terms, please contact us.</p>
+]]></content>
     
     <summary type="html">
     
@@ -764,18 +764,18 @@
     <published>2011-10-29T12:50:28.000Z</published>
     <updated>2016-08-29T14:14:52.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;Privacy-Policy&quot;&gt;&lt;a href=&quot;#Privacy-Policy&quot; class=&quot;headerlink&quot; title=&quot;Privacy Policy&quot;&gt;&lt;/a&gt;Privacy Policy&lt;/h1&gt;&lt;p&gt;Toolinbox (“us”, “we”, or “our”) operates the &lt;a href=&quot;http://toolinbox.net&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://toolinbox.net&lt;/a&gt; website and the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”).&lt;br&gt;This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.&lt;br&gt;We will not use or share your information with anyone except as described in this Privacy Policy.&lt;br&gt;We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at &lt;a href=&quot;http://toolinbox.net&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://toolinbox.net&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;Information-Collection-And-Use&quot;&gt;&lt;a href=&quot;#Information-Collection-And-Use&quot; class=&quot;headerlink&quot; title=&quot;Information Collection And Use&quot;&gt;&lt;/a&gt;Information Collection And Use&lt;/h2&gt;&lt;p&gt;While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you.&lt;/p&gt;
-&lt;h2 id=&quot;Log-Data&quot;&gt;&lt;a href=&quot;#Log-Data&quot; class=&quot;headerlink&quot; title=&quot;Log Data&quot;&gt;&lt;/a&gt;Log Data&lt;/h2&gt;&lt;p&gt;We collect information that your browser or app sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your browser type, browser version, the macOS version, the time and date of your use, the time spent on those pages and other statistics.&lt;/p&gt;
-&lt;h2 id=&quot;Cookies&quot;&gt;&lt;a href=&quot;#Cookies&quot; class=&quot;headerlink&quot; title=&quot;Cookies&quot;&gt;&lt;/a&gt;Cookies&lt;/h2&gt;&lt;p&gt;Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.&lt;br&gt;We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.&lt;/p&gt;
-&lt;h2 id=&quot;Service-Providers&quot;&gt;&lt;a href=&quot;#Service-Providers&quot; class=&quot;headerlink&quot; title=&quot;Service Providers&quot;&gt;&lt;/a&gt;Service Providers&lt;/h2&gt;&lt;p&gt;We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.&lt;br&gt;These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.&lt;/p&gt;
-&lt;h2 id=&quot;Security&quot;&gt;&lt;a href=&quot;#Security&quot; class=&quot;headerlink&quot; title=&quot;Security&quot;&gt;&lt;/a&gt;Security&lt;/h2&gt;&lt;p&gt;The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.&lt;/p&gt;
-&lt;h2 id=&quot;Links-To-Other-Sites&quot;&gt;&lt;a href=&quot;#Links-To-Other-Sites&quot; class=&quot;headerlink&quot; title=&quot;Links To Other Sites&quot;&gt;&lt;/a&gt;Links To Other Sites&lt;/h2&gt;&lt;p&gt;Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.&lt;br&gt;We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.&lt;/p&gt;
-&lt;h2 id=&quot;Children’s-Privacy&quot;&gt;&lt;a href=&quot;#Children’s-Privacy&quot; class=&quot;headerlink&quot; title=&quot;Children’s Privacy&quot;&gt;&lt;/a&gt;Children’s Privacy&lt;/h2&gt;&lt;p&gt;Our Service does not address anyone under the age of 13 (“Children”).&lt;br&gt;We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.&lt;/p&gt;
-&lt;h2 id=&quot;Changes-To-This-Privacy-Policy&quot;&gt;&lt;a href=&quot;#Changes-To-This-Privacy-Policy&quot; class=&quot;headerlink&quot; title=&quot;Changes To This Privacy Policy&quot;&gt;&lt;/a&gt;Changes To This Privacy Policy&lt;/h2&gt;&lt;p&gt;We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.&lt;br&gt;You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.&lt;/p&gt;
-&lt;h2 id=&quot;Contact-Us&quot;&gt;&lt;a href=&quot;#Contact-Us&quot; class=&quot;headerlink&quot; title=&quot;Contact Us&quot;&gt;&lt;/a&gt;Contact Us&lt;/h2&gt;&lt;p&gt;If you have any questions about this Privacy Policy, please contact us.&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<h1 id="Privacy-Policy"><a href="#Privacy-Policy" class="headerlink" title="Privacy Policy"></a>Privacy Policy</h1><p>Toolinbox (“us”, “we”, or “our”) operates the <a href="http://toolinbox.net" target="_blank" rel="external">http://toolinbox.net</a> website and the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”).<br>This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.<br>We will not use or share your information with anyone except as described in this Privacy Policy.<br>We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at <a href="http://toolinbox.net" target="_blank" rel="external">http://toolinbox.net</a></p>
+<a id="more"></a>
+<h2 id="Information-Collection-And-Use"><a href="#Information-Collection-And-Use" class="headerlink" title="Information Collection And Use"></a>Information Collection And Use</h2><p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you.</p>
+<h2 id="Log-Data"><a href="#Log-Data" class="headerlink" title="Log Data"></a>Log Data</h2><p>We collect information that your browser or app sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your browser type, browser version, the macOS version, the time and date of your use, the time spent on those pages and other statistics.</p>
+<h2 id="Cookies"><a href="#Cookies" class="headerlink" title="Cookies"></a>Cookies</h2><p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.<br>We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
+<h2 id="Service-Providers"><a href="#Service-Providers" class="headerlink" title="Service Providers"></a>Service Providers</h2><p>We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.<br>These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
+<h2 id="Security"><a href="#Security" class="headerlink" title="Security"></a>Security</h2><p>The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.</p>
+<h2 id="Links-To-Other-Sites"><a href="#Links-To-Other-Sites" class="headerlink" title="Links To Other Sites"></a>Links To Other Sites</h2><p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.<br>We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
+<h2 id="Children’s-Privacy"><a href="#Children’s-Privacy" class="headerlink" title="Children’s Privacy"></a>Children’s Privacy</h2><p>Our Service does not address anyone under the age of 13 (“Children”).<br>We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.</p>
+<h2 id="Changes-To-This-Privacy-Policy"><a href="#Changes-To-This-Privacy-Policy" class="headerlink" title="Changes To This Privacy Policy"></a>Changes To This Privacy Policy</h2><p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.<br>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+<h2 id="Contact-Us"><a href="#Contact-Us" class="headerlink" title="Contact Us"></a>Contact Us</h2><p>If you have any questions about this Privacy Policy, please contact us.</p>
+]]></content>
     
     <summary type="html">
     
