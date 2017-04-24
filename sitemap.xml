@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://en.toolinbox.net/iHosts/iHosts.html</loc>
+    <loc>http://en.toolinbox.net/Klib/Klib.html</loc>
     
-    <lastmod>2017-04-24T08:23:32.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iPaste/iPaste.html</loc>
-    
-    <lastmod>2017-04-24T08:23:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iPic/iPic.html</loc>
-    
-    <lastmod>2017-04-24T08:23:17.000Z</lastmod>
+    <lastmod>2017-04-24T08:47:45.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://en.toolinbox.net/iTimer/iTimer.html</loc>
     
-    <lastmod>2017-04-24T08:23:08.000Z</lastmod>
+    <lastmod>2017-04-24T08:47:41.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/Klib/Klib.html</loc>
+    <loc>http://en.toolinbox.net/iPic/iPic.html</loc>
     
-    <lastmod>2017-04-24T08:22:58.000Z</lastmod>
+    <lastmod>2017-04-24T08:47:37.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iPaste/iPaste.html</loc>
+    
+    <lastmod>2017-04-24T08:47:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iHosts/iHosts.html</loc>
+    
+    <lastmod>2017-04-24T08:47:27.000Z</lastmod>
     
   </url>
   
@@ -135,21 +135,7 @@
   </url>
   
   <url>
-    <loc>http://en.toolinbox.net/iPic/iPicUploader_Typora.html</loc>
-    
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://en.toolinbox.net/iHosts/privacy.html</loc>
-    
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://en.toolinbox.net/iHosts/terms.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
@@ -164,6 +150,20 @@
   
   <url>
     <loc>http://en.toolinbox.net/iPaste/ChangeLog.html</loc>
+    
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iPic/iPicUploader_Typora.html</loc>
+    
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://en.toolinbox.net/iHosts/terms.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
