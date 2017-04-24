@@ -4,62 +4,8 @@
 
     
   <url>
-    <loc>http://en.toolinbox.net/iHosts/iHosts.html</loc>
-    <lastmod>2017-04-24T08:51:01.000Z</lastmod>
-    <data>
-        <display>
-        <title>iHosts - /etc/hosts Editor</title>
-        <pubTime>2017-04-22T00:06:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iHosts" url="http://en.toolinbox.net/categories/iHosts/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://en.toolinbox.net/iPaste/iPaste.html</loc>
-    <lastmod>2017-04-24T08:50:58.000Z</lastmod>
-    <data>
-        <display>
-        <title>iPaste - Lightweight and Efficient Clipboard Tool</title>
-        <pubTime>2017-04-22T00:05:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iPaste" url="http://en.toolinbox.net/categories/iPaste/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://en.toolinbox.net/iPic/iPic.html</loc>
-    <lastmod>2017-04-24T08:50:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>iPic - Easily Upload Pictures</title>
-        <pubTime>2017-04-22T00:07:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iPic" url="http://en.toolinbox.net/categories/iPic/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://en.toolinbox.net/Klib/Klib.html</loc>
-    <lastmod>2017-04-24T08:50:30.000Z</lastmod>
+    <lastmod>2017-04-24T09:53:05.000Z</lastmod>
     <data>
         <display>
         <title>Klib - Kindle Highlights & Notes Manager</title>
@@ -77,7 +23,7 @@
     
   <url>
     <loc>http://en.toolinbox.net/iTimer/iTimer.html</loc>
-    <lastmod>2017-04-24T08:47:41.000Z</lastmod>
+    <lastmod>2017-04-24T09:52:58.000Z</lastmod>
     <data>
         <display>
         <title>iTimer - Pomodoro Timer</title>
@@ -87,6 +33,60 @@
            
              
               <breadCrumb title="iTimer" url="http://en.toolinbox.net/categories/iTimer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://en.toolinbox.net/iPic/iPic.html</loc>
+    <lastmod>2017-04-24T09:52:54.000Z</lastmod>
+    <data>
+        <display>
+        <title>iPic - Easily Upload Pictures</title>
+        <pubTime>2017-04-22T00:07:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iPic" url="http://en.toolinbox.net/categories/iPic/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://en.toolinbox.net/iPaste/iPaste.html</loc>
+    <lastmod>2017-04-24T09:52:50.000Z</lastmod>
+    <data>
+        <display>
+        <title>iPaste - Lightweight and Efficient Clipboard Tool</title>
+        <pubTime>2017-04-22T00:05:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iPaste" url="http://en.toolinbox.net/categories/iPaste/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://en.toolinbox.net/iHosts/iHosts.html</loc>
+    <lastmod>2017-04-24T09:52:44.000Z</lastmod>
+    <data>
+        <display>
+        <title>iHosts - /etc/hosts Editor</title>
+        <pubTime>2017-04-22T00:06:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iHosts" url="http://en.toolinbox.net/categories/iHosts/"/>
           
         </display>
     </data>
@@ -294,21 +294,6 @@
 
     
   <url>
-    <loc>http://en.toolinbox.net/iHosts/privacy.html</loc>
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
-    <data>
-        <display>
-        <title>Privacy Policy</title>
-        <pubTime>2011-10-29T12:50:28.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://en.toolinbox.net/iPaste/ChangeLog.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
@@ -321,6 +306,21 @@
              
               <breadCrumb title="iPaste" url="http://en.toolinbox.net/categories/iPaste/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://en.toolinbox.net/iHosts/privacy.html</loc>
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    <data>
+        <display>
+        <title>Privacy Policy</title>
+        <pubTime>2011-10-29T12:50:28.000Z</pubTime>
+        
+         
+           
         </display>
     </data>
     </url>
