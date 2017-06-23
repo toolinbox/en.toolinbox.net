@@ -296,26 +296,6 @@
   </entry>
   
   <entry>
-    <title>iTimer Change Log</title>
-    <link href="https://en.toolinbox.net/iTimer/ChangeLog.html"/>
-    <id>https://en.toolinbox.net/iTimer/ChangeLog.html</id>
-    <published>2015-11-22T10:32:16.000Z</published>
-    <updated>2016-12-28T13:18:07.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="v1-3-0"><a href="#v1-3-0" class="headerlink" title="v1.3.0"></a>v1.3.0</h1><p>2016/12/28</p><ul><li>Could customize timers.</li><li>Fit to Swift 3.</li></ul><h1 id="v1-2-3"><a href="#v1-2-3" class="headerlink" title="v1.2.3"></a>v1.2.3</h1><p>2016/09/26</p><ul><li>Change App name to <strong>iTimer</strong>, also update logo.</li><li>Add more timers.</li><li>Support macOS Sierra.</li></ul><a id="more"></a><h1 id="v0-6-2"><a href="#v0-6-2" class="headerlink" title="v0.6.2"></a>v0.6.2</h1><p>2015/12/15</p><ul><li>Remind to start timer.</li><li>Support start at login.</li></ul><h1 id="v0-5-1"><a href="#v0-5-1" class="headerlink" title="v0.5.1"></a>v0.5.1</h1><p>2015/12/05</p><ul><li>Release on Mac App Store</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;2016/12/28&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Could customize timers.&lt;/li&gt;&lt;li&gt;Fit to Swift 3.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;2016/09/26&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Change App name to &lt;strong&gt;iTimer&lt;/strong&gt;, also update logo.&lt;/li&gt;&lt;li&gt;Add more timers.&lt;/li&gt;&lt;li&gt;Support macOS Sierra.&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="iTimer" scheme="https://en.toolinbox.net/categories/iTimer/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>iPaste Change Log</title>
     <link href="https://en.toolinbox.net/iPaste/ChangeLog.html"/>
     <id>https://en.toolinbox.net/iPaste/ChangeLog.html</id>
@@ -331,6 +311,26 @@
     </summary>
     
       <category term="iPaste" scheme="https://en.toolinbox.net/categories/iPaste/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iTimer Change Log</title>
+    <link href="https://en.toolinbox.net/iTimer/ChangeLog.html"/>
+    <id>https://en.toolinbox.net/iTimer/ChangeLog.html</id>
+    <published>2015-11-22T10:32:16.000Z</published>
+    <updated>2016-12-28T13:18:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="v1-3-0"><a href="#v1-3-0" class="headerlink" title="v1.3.0"></a>v1.3.0</h1><p>2016/12/28</p><ul><li>Could customize timers.</li><li>Fit to Swift 3.</li></ul><h1 id="v1-2-3"><a href="#v1-2-3" class="headerlink" title="v1.2.3"></a>v1.2.3</h1><p>2016/09/26</p><ul><li>Change App name to <strong>iTimer</strong>, also update logo.</li><li>Add more timers.</li><li>Support macOS Sierra.</li></ul><a id="more"></a><h1 id="v0-6-2"><a href="#v0-6-2" class="headerlink" title="v0.6.2"></a>v0.6.2</h1><p>2015/12/15</p><ul><li>Remind to start timer.</li><li>Support start at login.</li></ul><h1 id="v0-5-1"><a href="#v0-5-1" class="headerlink" title="v0.5.1"></a>v0.5.1</h1><p>2015/12/05</p><ul><li>Release on Mac App Store</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;2016/12/28&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Could customize timers.&lt;/li&gt;&lt;li&gt;Fit to Swift 3.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;2016/09/26&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Change App name to &lt;strong&gt;iTimer&lt;/strong&gt;, also update logo.&lt;/li&gt;&lt;li&gt;Add more timers.&lt;/li&gt;&lt;li&gt;Support macOS Sierra.&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="iTimer" scheme="https://en.toolinbox.net/categories/iTimer/"/>
     
     
   </entry>
