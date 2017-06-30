@@ -296,26 +296,6 @@
   </entry>
   
   <entry>
-    <title>iPaste Change Log</title>
-    <link href="https://en.toolinbox.net/iPaste/ChangeLog.html"/>
-    <id>https://en.toolinbox.net/iPaste/ChangeLog.html</id>
-    <published>2015-11-22T10:32:16.000Z</published>
-    <updated>2016-12-06T02:14:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="v1-2-6"><a href="#v1-2-6" class="headerlink" title="v1.2.6"></a>v1.2.6</h1><p>2016/09/27</p><ul><li>Change App name to <strong>iPaste</strong>, also update logo.</li><li>Increase clipboard history count.</li><li>Save clipboard history before quit.</li><li>Filter duplicated clipboard history.</li><li>Could hide menu bar icon.</li></ul><h1 id="v0-8-2"><a href="#v0-8-2" class="headerlink" title="v0.8.2"></a>v0.8.2</h1><p>2015/12/18</p><ul><li>Pin the history you frequently use.</li></ul><a id="more"></a><h1 id="v0-7-0"><a href="#v0-7-0" class="headerlink" title="v0.7.0"></a>v0.7.0</h1><p>2015/12/07</p><ul><li>Bug fixing and feature improvement.</li></ul><h1 id="v0-6-1"><a href="#v0-6-1" class="headerlink" title="v0.6.1"></a>v0.6.1</h1><p>2015/11/28</p><ul><li>Release on Mac App Store</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;v1-2-6&quot;&gt;&lt;a href=&quot;#v1-2-6&quot; class=&quot;headerlink&quot; title=&quot;v1.2.6&quot;&gt;&lt;/a&gt;v1.2.6&lt;/h1&gt;&lt;p&gt;2016/09/27&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Change App name to &lt;strong&gt;iPaste&lt;/strong&gt;, also update logo.&lt;/li&gt;&lt;li&gt;Increase clipboard history count.&lt;/li&gt;&lt;li&gt;Save clipboard history before quit.&lt;/li&gt;&lt;li&gt;Filter duplicated clipboard history.&lt;/li&gt;&lt;li&gt;Could hide menu bar icon.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v0-8-2&quot;&gt;&lt;a href=&quot;#v0-8-2&quot; class=&quot;headerlink&quot; title=&quot;v0.8.2&quot;&gt;&lt;/a&gt;v0.8.2&lt;/h1&gt;&lt;p&gt;2015/12/18&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pin the history you frequently use.&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="iPaste" scheme="https://en.toolinbox.net/categories/iPaste/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>iTimer Change Log</title>
     <link href="https://en.toolinbox.net/iTimer/ChangeLog.html"/>
     <id>https://en.toolinbox.net/iTimer/ChangeLog.html</id>
@@ -331,6 +311,26 @@
     </summary>
     
       <category term="iTimer" scheme="https://en.toolinbox.net/categories/iTimer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iPaste Change Log</title>
+    <link href="https://en.toolinbox.net/iPaste/ChangeLog.html"/>
+    <id>https://en.toolinbox.net/iPaste/ChangeLog.html</id>
+    <published>2015-11-22T10:32:16.000Z</published>
+    <updated>2016-12-06T02:14:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="v1-2-6"><a href="#v1-2-6" class="headerlink" title="v1.2.6"></a>v1.2.6</h1><p>2016/09/27</p><ul><li>Change App name to <strong>iPaste</strong>, also update logo.</li><li>Increase clipboard history count.</li><li>Save clipboard history before quit.</li><li>Filter duplicated clipboard history.</li><li>Could hide menu bar icon.</li></ul><h1 id="v0-8-2"><a href="#v0-8-2" class="headerlink" title="v0.8.2"></a>v0.8.2</h1><p>2015/12/18</p><ul><li>Pin the history you frequently use.</li></ul><a id="more"></a><h1 id="v0-7-0"><a href="#v0-7-0" class="headerlink" title="v0.7.0"></a>v0.7.0</h1><p>2015/12/07</p><ul><li>Bug fixing and feature improvement.</li></ul><h1 id="v0-6-1"><a href="#v0-6-1" class="headerlink" title="v0.6.1"></a>v0.6.1</h1><p>2015/11/28</p><ul><li>Release on Mac App Store</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;v1-2-6&quot;&gt;&lt;a href=&quot;#v1-2-6&quot; class=&quot;headerlink&quot; title=&quot;v1.2.6&quot;&gt;&lt;/a&gt;v1.2.6&lt;/h1&gt;&lt;p&gt;2016/09/27&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Change App name to &lt;strong&gt;iPaste&lt;/strong&gt;, also update logo.&lt;/li&gt;&lt;li&gt;Increase clipboard history count.&lt;/li&gt;&lt;li&gt;Save clipboard history before quit.&lt;/li&gt;&lt;li&gt;Filter duplicated clipboard history.&lt;/li&gt;&lt;li&gt;Could hide menu bar icon.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v0-8-2&quot;&gt;&lt;a href=&quot;#v0-8-2&quot; class=&quot;headerlink&quot; title=&quot;v0.8.2&quot;&gt;&lt;/a&gt;v0.8.2&lt;/h1&gt;&lt;p&gt;2015/12/18&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pin the history you frequently use.&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="iPaste" scheme="https://en.toolinbox.net/categories/iPaste/"/>
     
     
   </entry>
@@ -356,24 +356,6 @@
   </entry>
   
   <entry>
-    <title>Privacy Policy</title>
-    <link href="https://en.toolinbox.net/iHosts/privacy.html"/>
-    <id>https://en.toolinbox.net/iHosts/privacy.html</id>
-    <published>2011-10-29T12:50:28.000Z</published>
-    <updated>2016-12-06T02:14:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Privacy-Policy"><a href="#Privacy-Policy" class="headerlink" title="Privacy Policy"></a>Privacy Policy</h1><p>Toolinbox (“us”, “we”, or “our”) operates the <a href="http://toolinbox.net" target="_blank" rel="external">http://toolinbox.net</a> website and the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”).<br>This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.<br>We will not use or share your information with anyone except as described in this Privacy Policy.<br>We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at <a href="http://toolinbox.net" target="_blank" rel="external">http://toolinbox.net</a></p><a id="more"></a><h2 id="Information-Collection-And-Use"><a href="#Information-Collection-And-Use" class="headerlink" title="Information Collection And Use"></a>Information Collection And Use</h2><p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you.</p><h2 id="Log-Data"><a href="#Log-Data" class="headerlink" title="Log Data"></a>Log Data</h2><p>We collect information that your browser or app sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your browser type, browser version, the macOS version, the time and date of your use, the time spent on those pages and other statistics.</p><h2 id="Cookies"><a href="#Cookies" class="headerlink" title="Cookies"></a>Cookies</h2><p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.<br>We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p><h2 id="Service-Providers"><a href="#Service-Providers" class="headerlink" title="Service Providers"></a>Service Providers</h2><p>We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.<br>These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p><h2 id="Security"><a href="#Security" class="headerlink" title="Security"></a>Security</h2><p>The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.</p><h2 id="Links-To-Other-Sites"><a href="#Links-To-Other-Sites" class="headerlink" title="Links To Other Sites"></a>Links To Other Sites</h2><p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.<br>We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p><h2 id="Children’s-Privacy"><a href="#Children’s-Privacy" class="headerlink" title="Children’s Privacy"></a>Children’s Privacy</h2><p>Our Service does not address anyone under the age of 13 (“Children”).<br>We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.</p><h2 id="Changes-To-This-Privacy-Policy"><a href="#Changes-To-This-Privacy-Policy" class="headerlink" title="Changes To This Privacy Policy"></a>Changes To This Privacy Policy</h2><p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.<br>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p><h2 id="Contact-Us"><a href="#Contact-Us" class="headerlink" title="Contact Us"></a>Contact Us</h2><p>If you have any questions about this Privacy Policy, please contact us.</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;Privacy-Policy&quot;&gt;&lt;a href=&quot;#Privacy-Policy&quot; class=&quot;headerlink&quot; title=&quot;Privacy Policy&quot;&gt;&lt;/a&gt;Privacy Policy&lt;/h1&gt;&lt;p&gt;Toolinbox (“us”, “we”, or “our”) operates the &lt;a href=&quot;http://toolinbox.net&quot;&gt;http://toolinbox.net&lt;/a&gt; website and the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”).&lt;br&gt;This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.&lt;br&gt;We will not use or share your information with anyone except as described in this Privacy Policy.&lt;br&gt;We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at &lt;a href=&quot;http://toolinbox.net&quot;&gt;http://toolinbox.net&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Terms and Conditions</title>
     <link href="https://en.toolinbox.net/iHosts/terms.html"/>
     <id>https://en.toolinbox.net/iHosts/terms.html</id>
@@ -385,6 +367,24 @@
     <summary type="html">
     
       &lt;h1 id=&quot;Terms-and-Conditions-“Terms”&quot;&gt;&lt;a href=&quot;#Terms-and-Conditions-“Terms”&quot; class=&quot;headerlink&quot; title=&quot;Terms and Conditions (“Terms”)&quot;&gt;&lt;/a&gt;Terms and Conditions (“Terms”)&lt;/h1&gt;&lt;p&gt;Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the &lt;a href=&quot;http://toolinbox.net&quot;&gt;http://toolinbox.net&lt;/a&gt; website or the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”) operated by Toolinbox (“us”, “we”, or “our”).&lt;br&gt;Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.&lt;br&gt;By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Privacy Policy</title>
+    <link href="https://en.toolinbox.net/iHosts/privacy.html"/>
+    <id>https://en.toolinbox.net/iHosts/privacy.html</id>
+    <published>2011-10-29T12:50:28.000Z</published>
+    <updated>2016-12-06T02:14:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Privacy-Policy"><a href="#Privacy-Policy" class="headerlink" title="Privacy Policy"></a>Privacy Policy</h1><p>Toolinbox (“us”, “we”, or “our”) operates the <a href="http://toolinbox.net" target="_blank" rel="external">http://toolinbox.net</a> website and the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”).<br>This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.<br>We will not use or share your information with anyone except as described in this Privacy Policy.<br>We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at <a href="http://toolinbox.net" target="_blank" rel="external">http://toolinbox.net</a></p><a id="more"></a><h2 id="Information-Collection-And-Use"><a href="#Information-Collection-And-Use" class="headerlink" title="Information Collection And Use"></a>Information Collection And Use</h2><p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you.</p><h2 id="Log-Data"><a href="#Log-Data" class="headerlink" title="Log Data"></a>Log Data</h2><p>We collect information that your browser or app sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your browser type, browser version, the macOS version, the time and date of your use, the time spent on those pages and other statistics.</p><h2 id="Cookies"><a href="#Cookies" class="headerlink" title="Cookies"></a>Cookies</h2><p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.<br>We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p><h2 id="Service-Providers"><a href="#Service-Providers" class="headerlink" title="Service Providers"></a>Service Providers</h2><p>We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.<br>These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p><h2 id="Security"><a href="#Security" class="headerlink" title="Security"></a>Security</h2><p>The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.</p><h2 id="Links-To-Other-Sites"><a href="#Links-To-Other-Sites" class="headerlink" title="Links To Other Sites"></a>Links To Other Sites</h2><p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.<br>We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p><h2 id="Children’s-Privacy"><a href="#Children’s-Privacy" class="headerlink" title="Children’s Privacy"></a>Children’s Privacy</h2><p>Our Service does not address anyone under the age of 13 (“Children”).<br>We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.</p><h2 id="Changes-To-This-Privacy-Policy"><a href="#Changes-To-This-Privacy-Policy" class="headerlink" title="Changes To This Privacy Policy"></a>Changes To This Privacy Policy</h2><p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.<br>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p><h2 id="Contact-Us"><a href="#Contact-Us" class="headerlink" title="Contact Us"></a>Contact Us</h2><p>If you have any questions about this Privacy Policy, please contact us.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Privacy-Policy&quot;&gt;&lt;a href=&quot;#Privacy-Policy&quot; class=&quot;headerlink&quot; title=&quot;Privacy Policy&quot;&gt;&lt;/a&gt;Privacy Policy&lt;/h1&gt;&lt;p&gt;Toolinbox (“us”, “we”, or “our”) operates the &lt;a href=&quot;http://toolinbox.net&quot;&gt;http://toolinbox.net&lt;/a&gt; website and the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”).&lt;br&gt;This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.&lt;br&gt;We will not use or share your information with anyone except as described in this Privacy Policy.&lt;br&gt;We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at &lt;a href=&quot;http://toolinbox.net&quot;&gt;http://toolinbox.net&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
