@@ -200,20 +200,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[iPaste Change Log]]></title>
-      <url>https://en.toolinbox.net/iPaste/ChangeLog.html</url>
-      <content type="html"><![CDATA[<h1 id="v2-0-2"><a href="#v2-0-2" class="headerlink" title="v2.0.2"></a>v2.0.2</h1><p>2017/09/19</p><ul><li>Could sync with iPaste for iPhone/iPad.</li><li>Could set title when edit clipboard history.</li></ul><h1 id="v1-5-1"><a href="#v1-5-1" class="headerlink" title="v1.5.1"></a>v1.5.1</h1><p>2017/07/25</p><ul><li>Support groups for pinned clipboard history.</li><li>Could flexibly edit clipboard history.</li><li>Clipboard history count is increased to 30 for Pro.</li></ul><h1 id="v1-2-6"><a href="#v1-2-6" class="headerlink" title="v1.2.6"></a>v1.2.6</h1><p>2016/09/27</p><ul><li>Change App name to <strong>iPaste</strong>, also update logo.</li><li>Increase clipboard history count.</li><li>Save clipboard history before quit.</li><li>Filter duplicated clipboard history.</li><li>Could hide menu bar icon.</li></ul><h1 id="v0-8-2"><a href="#v0-8-2" class="headerlink" title="v0.8.2"></a>v0.8.2</h1><p>2015/12/18</p><ul><li>Pin the history you frequently use.</li></ul><a id="more"></a><h1 id="v0-7-0"><a href="#v0-7-0" class="headerlink" title="v0.7.0"></a>v0.7.0</h1><p>2015/12/07</p><ul><li>Bug fixing and feature improvement.</li></ul><h1 id="v0-6-1"><a href="#v0-6-1" class="headerlink" title="v0.6.1"></a>v0.6.1</h1><p>2015/11/28</p><ul><li>Release on Mac App Store</li></ul>]]></content>
-      
-        <categories>
-            
-            <category> iPaste </category>
-            
-        </categories>
-        
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[iTimer Change Log]]></title>
       <url>https://en.toolinbox.net/iTimer/ChangeLog.html</url>
       <content type="html"><![CDATA[<h1 id="v1-3-0"><a href="#v1-3-0" class="headerlink" title="v1.3.0"></a>v1.3.0</h1><p>2016/12/28</p><ul><li>Could customize timers.</li><li>Fit to Swift 3.</li></ul><h1 id="v1-2-3"><a href="#v1-2-3" class="headerlink" title="v1.2.3"></a>v1.2.3</h1><p>2016/09/26</p><ul><li>Change App name to <strong>iTimer</strong>, also update logo.</li><li>Add more timers.</li><li>Support macOS Sierra.</li></ul><a id="more"></a><h1 id="v0-6-2"><a href="#v0-6-2" class="headerlink" title="v0.6.2"></a>v0.6.2</h1><p>2015/12/15</p><ul><li>Remind to start timer.</li><li>Support start at login.</li></ul><h1 id="v0-5-1"><a href="#v0-5-1" class="headerlink" title="v0.5.1"></a>v0.5.1</h1><p>2015/12/05</p><ul><li>Release on Mac App Store</li></ul>]]></content>
@@ -221,6 +207,20 @@
         <categories>
             
             <category> iTimer </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[iPaste Change Log]]></title>
+      <url>https://en.toolinbox.net/iPaste/ChangeLog.html</url>
+      <content type="html"><![CDATA[<h1 id="v2-0-2"><a href="#v2-0-2" class="headerlink" title="v2.0.2"></a>v2.0.2</h1><p>2017/09/19</p><ul><li>Could sync with iPaste for iPhone/iPad.</li><li>Could set title when edit clipboard history.</li></ul><h1 id="v1-5-1"><a href="#v1-5-1" class="headerlink" title="v1.5.1"></a>v1.5.1</h1><p>2017/07/25</p><ul><li>Support groups for pinned clipboard history.</li><li>Could flexibly edit clipboard history.</li><li>Clipboard history count is increased to 30 for Pro.</li></ul><h1 id="v1-2-6"><a href="#v1-2-6" class="headerlink" title="v1.2.6"></a>v1.2.6</h1><p>2016/09/27</p><ul><li>Change App name to <strong>iPaste</strong>, also update logo.</li><li>Increase clipboard history count.</li><li>Save clipboard history before quit.</li><li>Filter duplicated clipboard history.</li><li>Could hide menu bar icon.</li></ul><h1 id="v0-8-2"><a href="#v0-8-2" class="headerlink" title="v0.8.2"></a>v0.8.2</h1><p>2015/12/18</p><ul><li>Pin the history you frequently use.</li></ul><a id="more"></a><h1 id="v0-7-0"><a href="#v0-7-0" class="headerlink" title="v0.7.0"></a>v0.7.0</h1><p>2015/12/07</p><ul><li>Bug fixing and feature improvement.</li></ul><h1 id="v0-6-1"><a href="#v0-6-1" class="headerlink" title="v0.6.1"></a>v0.6.1</h1><p>2015/11/28</p><ul><li>Release on Mac App Store</li></ul>]]></content>
+      
+        <categories>
+            
+            <category> iPaste </category>
             
         </categories>
         
