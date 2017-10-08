@@ -4,6 +4,24 @@
 
     
   <url>
+    <loc>https://en.toolinbox.net/iHosts/iHosts.html</loc>
+    <lastmod>2017-10-08T08:00:09.814Z</lastmod>
+    <data>
+        <display>
+        <title>iHosts - /etc/hosts Editor</title>
+        <pubTime>2017-04-22T00:03:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iHosts" url="https://en.toolinbox.net/categories/iHosts/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://en.toolinbox.net/iPaste/iPaste.html</loc>
     <lastmod>2017-10-08T07:58:26.511Z</lastmod>
     <data>
@@ -15,24 +33,6 @@
            
              
               <breadCrumb title="iPaste" url="https://en.toolinbox.net/categories/iPaste/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://en.toolinbox.net/iHosts/iHosts.html</loc>
-    <lastmod>2017-10-08T07:58:00.855Z</lastmod>
-    <data>
-        <display>
-        <title>iHosts - /etc/hosts Editor</title>
-        <pubTime>2017-04-22T00:09:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iHosts" url="https://en.toolinbox.net/categories/iHosts/"/>
           
         </display>
     </data>
@@ -312,6 +312,21 @@
 
     
   <url>
+    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    <data>
+        <display>
+        <title>Privacy Policy</title>
+        <pubTime>2011-10-29T12:50:28.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://en.toolinbox.net/iHostsChangeLog.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
@@ -324,21 +339,6 @@
              
               <breadCrumb title="iHosts" url="https://en.toolinbox.net/categories/iHosts/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
-    <data>
-        <display>
-        <title>Privacy Policy</title>
-        <pubTime>2011-10-29T12:50:28.000Z</pubTime>
-        
-         
-           
         </display>
     </data>
     </url>
