@@ -3,6 +3,25 @@
 
 
     
+    
+  <url>
+    <loc>https://en.toolinbox.net/iPaste/ChangeLog.html</loc>
+    <lastmod>2017-10-17T14:27:28.723Z</lastmod>
+    <data>
+        <display>
+        <title>iPaste Change Log</title>
+        <pubTime>2015-11-22T10:32:16.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iPaste" url="https://en.toolinbox.net/categories/iPaste/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
   <url>
     <loc>https://en.toolinbox.net/iHosts/iHosts.html</loc>
     <lastmod>2017-10-08T08:00:09.814Z</lastmod>
@@ -28,25 +47,6 @@
         <display>
         <title>iPaste - Lightweight and Efficient Clipboard Tool</title>
         <pubTime>2017-04-22T00:09:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iPaste" url="https://en.toolinbox.net/categories/iPaste/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-  <url>
-    <loc>https://en.toolinbox.net/iPaste/ChangeLog.html</loc>
-    <lastmod>2017-09-18T07:14:54.000Z</lastmod>
-    <data>
-        <display>
-        <title>iPaste Change Log</title>
-        <pubTime>2015-11-22T10:32:16.000Z</pubTime>
         
          
            
@@ -297,11 +297,11 @@
 
     
   <url>
-    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
         <display>
-        <title>Terms and Conditions</title>
+        <title>Privacy Policy</title>
         <pubTime>2011-10-29T12:50:28.000Z</pubTime>
         
          
@@ -312,11 +312,11 @@
 
     
   <url>
-    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
         <display>
-        <title>Privacy Policy</title>
+        <title>Terms and Conditions</title>
         <pubTime>2011-10-29T12:50:28.000Z</pubTime>
         
          
