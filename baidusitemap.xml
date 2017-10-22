@@ -3,6 +3,7 @@
 
 
     
+    
   <url>
     <loc>https://en.toolinbox.net/iPic/ChangeLog.html</loc>
     <lastmod>2017-10-21T16:13:40.445Z</lastmod>
@@ -187,7 +188,6 @@
     
     
     
-    
   <url>
     <loc>https://en.toolinbox.net/iPic/iPicUploader.html</loc>
     <lastmod>2017-03-06T15:58:53.000Z</lastmod>
@@ -297,11 +297,11 @@
 
     
   <url>
-    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
         <display>
-        <title>Terms and Conditions</title>
+        <title>Privacy Policy</title>
         <pubTime>2011-10-29T12:50:28.000Z</pubTime>
         
          
@@ -330,11 +330,11 @@
 
     
   <url>
-    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
         <display>
-        <title>Privacy Policy</title>
+        <title>Terms and Conditions</title>
         <pubTime>2011-10-29T12:50:28.000Z</pubTime>
         
          
