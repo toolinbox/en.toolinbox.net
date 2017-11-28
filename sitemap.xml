@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://en.toolinbox.net/Klib/index.html</loc>
+    
+    <lastmod>2017-11-28T08:55:07.866Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iHosts/index.html</loc>
+    
+    <lastmod>2017-11-28T08:55:05.088Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iPaste/index.html</loc>
+    
+    <lastmod>2017-11-28T08:55:01.337Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iTimer/index.html</loc>
+    
+    <lastmod>2017-11-28T08:54:54.743Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iPic/index.html</loc>
+    
+    <lastmod>2017-11-28T08:54:52.200Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iText/index.html</loc>
+    
+    <lastmod>2017-11-28T08:54:49.003Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://en.toolinbox.net/Klib/Klib.html</loc>
     
     <lastmod>2017-11-28T08:50:32.685Z</lastmod>
@@ -40,48 +82,6 @@
     <loc>https://en.toolinbox.net/iTimer/iTimer.html</loc>
     
     <lastmod>2017-11-28T08:50:12.994Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iTimer/index.html</loc>
-    
-    <lastmod>2017-11-28T08:49:58.164Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iHosts/index.html</loc>
-    
-    <lastmod>2017-11-28T08:49:26.678Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iPaste/index.html</loc>
-    
-    <lastmod>2017-11-28T08:49:03.463Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iPic/index.html</loc>
-    
-    <lastmod>2017-11-28T08:48:24.645Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/Klib/index.html</loc>
-    
-    <lastmod>2017-11-28T08:47:57.146Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iText/index.html</loc>
-    
-    <lastmod>2017-11-28T08:31:37.580Z</lastmod>
     
   </url>
   
@@ -163,14 +163,14 @@
   </url>
   
   <url>
-    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
