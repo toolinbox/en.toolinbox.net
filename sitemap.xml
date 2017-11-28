@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://en.toolinbox.net/iText/index.html</loc>
+    
+    <lastmod>2017-11-28T12:33:40.456Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://en.toolinbox.net/Klib/index.html</loc>
     
     <lastmod>2017-11-28T08:55:07.866Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://en.toolinbox.net/iPic/index.html</loc>
     
     <lastmod>2017-11-28T08:54:52.200Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iText/index.html</loc>
-    
-    <lastmod>2017-11-28T08:54:49.003Z</lastmod>
     
   </url>
   
