@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://en.toolinbox.net/"/>
-  <updated>2017-11-28T08:34:45.679Z</updated>
+  <updated>2017-11-28T08:50:32.685Z</updated>
   <id>https://en.toolinbox.net/</id>
   
   <author>
@@ -20,13 +20,13 @@
     <link href="https://en.toolinbox.net/Klib/Klib.html"/>
     <id>https://en.toolinbox.net/Klib/Klib.html</id>
     <published>2017-11-28T02:00:00.000Z</published>
-    <updated>2017-11-28T08:34:45.679Z</updated>
+    <updated>2017-11-28T08:50:32.685Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1196268448?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=klib_home" target="_blank" rel="external"><img src="https://i.imgur.com/evrns9w.png" alt=""></a></p><p><strong>Klib</strong> (<strong>K</strong>indle <strong>lib</strong>rary) is a new way to manage Kindle highlights and notes.</p><ul><li>Import highlights from Kindle, iBooks or Amazon.</li><li>Review highlights in Kindle for macOS.</li><li>Copy highlights in <strong>Markdown</strong> format.</li><li>Export Kindle highlights to <strong>Evernote</strong>.</li></ul><p><strong><a href="/Klib/">Learn more about Klib</a></strong></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home" target="_blank"><img src="https://i.imgur.com/JmEyTVx.png" width="200"></a></p><p><strong>Klib</strong> (<strong>K</strong>indle <strong>lib</strong>rary) is a new way to manage Kindle highlights and notes.</p><ul><li>Import highlights from Kindle, iBooks or Amazon.</li><li>Review highlights in Kindle for macOS.</li><li>Copy highlights in <strong>Markdown</strong> format.</li><li>Export Kindle highlights to <strong>Evernote</strong>.</li></ul><p><strong><a href="/Klib/">Learn more about Klib</a></strong></p><hr>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1196268448?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=klib_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img s
+      &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1196268448?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=klib_home&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/JmE
     
     </summary>
     
@@ -40,13 +40,13 @@
     <link href="https://en.toolinbox.net/iPic/iPic.html"/>
     <id>https://en.toolinbox.net/iPic/iPic.html</id>
     <published>2017-11-28T01:00:00.000Z</published>
-    <updated>2017-11-28T08:34:54.238Z</updated>
+    <updated>2017-11-28T08:50:16.850Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1101244278?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPic_home" target="_blank" rel="external"><img src="https://i.imgur.com/AVLj0q8.png" alt=""></a></p><p><strong>iPic</strong> could automatically upload images and save <strong>Markdown</strong> links on macOS. Support <strong>Imgur, Flickr, Amazon S3</strong> and other image hosts. Could compress images before upload.</p><p><strong><a href="/iPic/">Learn more about iPic</a></strong></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_home" target="_blank"><img src="https://i.imgur.com/cH3MRPq.png" width="200"></a></p><p><strong>iPic</strong> could automatically upload images and save <strong>Markdown</strong> links on macOS. Support <strong>Imgur, Flickr, Amazon S3</strong> and other image hosts. Could compress images before upload.</p><p><strong><a href="/iPic/">Learn more about iPic</a></strong></p><hr>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1101244278?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iPic_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img s
+      &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1101244278?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPic_home&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/cH3
     
     </summary>
     
@@ -60,9 +60,9 @@
     <link href="https://en.toolinbox.net/iText/iText.html"/>
     <id>https://en.toolinbox.net/iText/iText.html</id>
     <published>2017-11-28T00:00:00.000Z</published>
-    <updated>2017-11-28T08:34:56.808Z</updated>
+    <updated>2017-11-28T08:50:20.003Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1314980676?ls=1&mt=12&at=1000lv4R&ct=iText_me" target="_blank"><img src="https://i.imgur.com/ERtHcTo.png" width="256"></a></p><p><strong>iText</strong> is an OCR tool which could <strong>recognize text from any image</strong>. You just need to capture screen or select image file, <strong>Google</strong> will extract the text inside. The recognition result is amazingly accurate, even up to 100%.</p><p><strong><a href="/iText/">Learn more about iText</a></strong></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1314980676?ls=1&mt=12&at=1000lv4R&ct=iText_me" target="_blank"><img src="https://i.imgur.com/ERtHcTo.png" width="200"></a></p><p><strong>iText</strong> is an OCR tool which could <strong>recognize text from any image</strong>. You just need to capture screen or select image file, <strong>Google</strong> will extract the text inside. The recognition result is amazingly accurate, even up to 100%.</p><p><strong><a href="/iText/">Learn more about iText</a></strong></p><hr>]]></content>
     
     <summary type="html">
     
@@ -80,13 +80,13 @@
     <link href="https://en.toolinbox.net/iPaste/iPaste.html"/>
     <id>https://en.toolinbox.net/iPaste/iPaste.html</id>
     <published>2017-11-27T23:00:00.000Z</published>
-    <updated>2017-11-28T08:35:05.690Z</updated>
+    <updated>2017-11-28T08:50:24.430Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1056935452?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPaste_home" target="_blank" rel="external"><img src="https://i.imgur.com/j4BPQTn.png" alt=""></a></p><p><strong>iPaste</strong> is a lightweight and efficient pasteboard tool on iOS and macOS. Support text, image, file and any other formats. Could pin the history. Support multiple shortcuts.</p><p><strong><a href="/iPaste/">Learn more about iPaste</a></strong></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_home" target="_blank"><img src="https://i.imgur.com/KAIJxM1.png" width="200"></a></p><p><strong>iPaste</strong> is a lightweight and efficient pasteboard tool on iOS and macOS. Support text, image, file and any other formats. Could pin the history. Support multiple shortcuts.</p><p><strong><a href="/iPaste/">Learn more about iPaste</a></strong></p><hr>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1056935452?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iPaste_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img
+      &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1056935452?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPaste_home&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/K
     
     </summary>
     
@@ -100,13 +100,13 @@
     <link href="https://en.toolinbox.net/iHosts/iHosts.html"/>
     <id>https://en.toolinbox.net/iHosts/iHosts.html</id>
     <published>2017-11-27T22:00:00.000Z</published>
-    <updated>2017-11-28T08:35:11.674Z</updated>
+    <updated>2017-11-28T08:50:27.908Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1102004240?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iHosts_home" target="_blank" rel="external"><img src="https://i.imgur.com/YKCuE3V.png" alt=""></a></p><p><strong>iHosts</strong> is the <strong>only</strong> /etc/hosts editor on Mac App Store. Organize hosts by groups, switch by one click. View hosts in real time.</p><p><strong><a href="/iHosts/">Learn more about iHosts</a></strong></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1102004240?ls=1&mt=12&at=1000lv4R&ct=iHosts_home" target="_blank"><img src="https://i.imgur.com/Q7rMC3n.png" width="200"></a></p><p><strong>iHosts</strong> is the <strong>only</strong> /etc/hosts editor on Mac App Store. Organize hosts by groups, switch by one click. View hosts in real time.</p><p><strong><a href="/iHosts/">Learn more about iHosts</a></strong></p><hr>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1102004240?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iHosts_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img
+      &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1102004240?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iHosts_home&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/Q
     
     </summary>
     
@@ -120,13 +120,13 @@
     <link href="https://en.toolinbox.net/iTimer/iTimer.html"/>
     <id>https://en.toolinbox.net/iTimer/iTimer.html</id>
     <published>2017-11-27T21:00:00.000Z</published>
-    <updated>2017-11-28T08:35:17.734Z</updated>
+    <updated>2017-11-28T08:50:12.994Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1062139745?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iTimer_home" target="_blank" rel="external"><img src="https://i.imgur.com/YREdGAN.png" alt=""></a></p><p><strong>iTimer</strong> could help you to focus on now. Use pie to show the remaining time. Could quickly start timer or restart. You can use it as Pomodoro timer.</p><p><strong><a href="/iTimer/">Learn more about iTimer</a></strong></p>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1062139745?ls=1&mt=12&at=1000lv4R&ct=iTimer_home" target="_blank"><img src="https://i.imgur.com/kgfFy8a.png" width="200"></a></p><p><strong>iTimer</strong> could help you to focus on now. Use pie to show the remaining time. Could quickly start timer or restart. You can use it as Pomodoro timer.</p><p><strong><a href="/iTimer/">Learn more about iTimer</a></strong></p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1062139745?ls=1&amp;amp;mt=12&amp;amp;at=1000lv4R&amp;amp;ct=iTimer_home&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img
+      &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1062139745?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iTimer_home&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/k
     
     </summary>
     
@@ -316,26 +316,6 @@
   </entry>
   
   <entry>
-    <title>iPaste Change Log</title>
-    <link href="https://en.toolinbox.net/iPaste/ChangeLog.html"/>
-    <id>https://en.toolinbox.net/iPaste/ChangeLog.html</id>
-    <published>2015-11-22T10:32:16.000Z</published>
-    <updated>2017-10-17T14:27:28.723Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="v2-1-0"><a href="#v2-1-0" class="headerlink" title="v2.1.0"></a>v2.1.0</h1><p>2017/10/19</p><ul><li>Use the shortcut of “Control-Command-A|B|C…” to open the corresponding group.</li></ul><h1 id="v2-0-2"><a href="#v2-0-2" class="headerlink" title="v2.0.2"></a>v2.0.2</h1><p>2017/09/19</p><ul><li>Could sync with iPaste for iPhone/iPad.</li><li>Could set title when edit clipboard history.</li></ul><h1 id="v1-5-1"><a href="#v1-5-1" class="headerlink" title="v1.5.1"></a>v1.5.1</h1><p>2017/07/25</p><ul><li>Support groups for pinned clipboard history.</li><li>Could flexibly edit clipboard history.</li><li>Clipboard history count is increased to 30 for Pro.</li></ul><h1 id="v1-2-6"><a href="#v1-2-6" class="headerlink" title="v1.2.6"></a>v1.2.6</h1><p>2016/09/27</p><ul><li>Change App name to <strong>iPaste</strong>, also update logo.</li><li>Increase clipboard history count.</li><li>Save clipboard history before quit.</li><li>Filter duplicated clipboard history.</li><li>Could hide menu bar icon.</li></ul><h1 id="v0-8-2"><a href="#v0-8-2" class="headerlink" title="v0.8.2"></a>v0.8.2</h1><p>2015/12/18</p><ul><li>Pin the history you frequently use.</li></ul><a id="more"></a><h1 id="v0-7-0"><a href="#v0-7-0" class="headerlink" title="v0.7.0"></a>v0.7.0</h1><p>2015/12/07</p><ul><li>Bug fixing and feature improvement.</li></ul><h1 id="v0-6-1"><a href="#v0-6-1" class="headerlink" title="v0.6.1"></a>v0.6.1</h1><p>2015/11/28</p><ul><li>Release on Mac App Store</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;v2-1-0&quot;&gt;&lt;a href=&quot;#v2-1-0&quot; class=&quot;headerlink&quot; title=&quot;v2.1.0&quot;&gt;&lt;/a&gt;v2.1.0&lt;/h1&gt;&lt;p&gt;2017/10/19&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use the shortcut of “Control-Command-A|B|C…” to open the corresponding group.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v2-0-2&quot;&gt;&lt;a href=&quot;#v2-0-2&quot; class=&quot;headerlink&quot; title=&quot;v2.0.2&quot;&gt;&lt;/a&gt;v2.0.2&lt;/h1&gt;&lt;p&gt;2017/09/19&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Could sync with iPaste for iPhone/iPad.&lt;/li&gt;&lt;li&gt;Could set title when edit clipboard history.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v1-5-1&quot;&gt;&lt;a href=&quot;#v1-5-1&quot; class=&quot;headerlink&quot; title=&quot;v1.5.1&quot;&gt;&lt;/a&gt;v1.5.1&lt;/h1&gt;&lt;p&gt;2017/07/25&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Support groups for pinned clipboard history.&lt;/li&gt;&lt;li&gt;Could flexibly edit clipboard history.&lt;/li&gt;&lt;li&gt;Clipboard history count is increased to 30 for Pro.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v1-2-6&quot;&gt;&lt;a href=&quot;#v1-2-6&quot; class=&quot;headerlink&quot; title=&quot;v1.2.6&quot;&gt;&lt;/a&gt;v1.2.6&lt;/h1&gt;&lt;p&gt;2016/09/27&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Change App name to &lt;strong&gt;iPaste&lt;/strong&gt;, also update logo.&lt;/li&gt;&lt;li&gt;Increase clipboard history count.&lt;/li&gt;&lt;li&gt;Save clipboard history before quit.&lt;/li&gt;&lt;li&gt;Filter duplicated clipboard history.&lt;/li&gt;&lt;li&gt;Could hide menu bar icon.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v0-8-2&quot;&gt;&lt;a href=&quot;#v0-8-2&quot; class=&quot;headerlink&quot; title=&quot;v0.8.2&quot;&gt;&lt;/a&gt;v0.8.2&lt;/h1&gt;&lt;p&gt;2015/12/18&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pin the history you frequently use.&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="iPaste" scheme="https://en.toolinbox.net/categories/iPaste/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>iTimer Change Log</title>
     <link href="https://en.toolinbox.net/iTimer/ChangeLog.html"/>
     <id>https://en.toolinbox.net/iTimer/ChangeLog.html</id>
@@ -351,6 +331,26 @@
     </summary>
     
       <category term="iTimer" scheme="https://en.toolinbox.net/categories/iTimer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iPaste Change Log</title>
+    <link href="https://en.toolinbox.net/iPaste/ChangeLog.html"/>
+    <id>https://en.toolinbox.net/iPaste/ChangeLog.html</id>
+    <published>2015-11-22T10:32:16.000Z</published>
+    <updated>2017-10-17T14:27:28.723Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="v2-1-0"><a href="#v2-1-0" class="headerlink" title="v2.1.0"></a>v2.1.0</h1><p>2017/10/19</p><ul><li>Use the shortcut of “Control-Command-A|B|C…” to open the corresponding group.</li></ul><h1 id="v2-0-2"><a href="#v2-0-2" class="headerlink" title="v2.0.2"></a>v2.0.2</h1><p>2017/09/19</p><ul><li>Could sync with iPaste for iPhone/iPad.</li><li>Could set title when edit clipboard history.</li></ul><h1 id="v1-5-1"><a href="#v1-5-1" class="headerlink" title="v1.5.1"></a>v1.5.1</h1><p>2017/07/25</p><ul><li>Support groups for pinned clipboard history.</li><li>Could flexibly edit clipboard history.</li><li>Clipboard history count is increased to 30 for Pro.</li></ul><h1 id="v1-2-6"><a href="#v1-2-6" class="headerlink" title="v1.2.6"></a>v1.2.6</h1><p>2016/09/27</p><ul><li>Change App name to <strong>iPaste</strong>, also update logo.</li><li>Increase clipboard history count.</li><li>Save clipboard history before quit.</li><li>Filter duplicated clipboard history.</li><li>Could hide menu bar icon.</li></ul><h1 id="v0-8-2"><a href="#v0-8-2" class="headerlink" title="v0.8.2"></a>v0.8.2</h1><p>2015/12/18</p><ul><li>Pin the history you frequently use.</li></ul><a id="more"></a><h1 id="v0-7-0"><a href="#v0-7-0" class="headerlink" title="v0.7.0"></a>v0.7.0</h1><p>2015/12/07</p><ul><li>Bug fixing and feature improvement.</li></ul><h1 id="v0-6-1"><a href="#v0-6-1" class="headerlink" title="v0.6.1"></a>v0.6.1</h1><p>2015/11/28</p><ul><li>Release on Mac App Store</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;v2-1-0&quot;&gt;&lt;a href=&quot;#v2-1-0&quot; class=&quot;headerlink&quot; title=&quot;v2.1.0&quot;&gt;&lt;/a&gt;v2.1.0&lt;/h1&gt;&lt;p&gt;2017/10/19&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use the shortcut of “Control-Command-A|B|C…” to open the corresponding group.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v2-0-2&quot;&gt;&lt;a href=&quot;#v2-0-2&quot; class=&quot;headerlink&quot; title=&quot;v2.0.2&quot;&gt;&lt;/a&gt;v2.0.2&lt;/h1&gt;&lt;p&gt;2017/09/19&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Could sync with iPaste for iPhone/iPad.&lt;/li&gt;&lt;li&gt;Could set title when edit clipboard history.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v1-5-1&quot;&gt;&lt;a href=&quot;#v1-5-1&quot; class=&quot;headerlink&quot; title=&quot;v1.5.1&quot;&gt;&lt;/a&gt;v1.5.1&lt;/h1&gt;&lt;p&gt;2017/07/25&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Support groups for pinned clipboard history.&lt;/li&gt;&lt;li&gt;Could flexibly edit clipboard history.&lt;/li&gt;&lt;li&gt;Clipboard history count is increased to 30 for Pro.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v1-2-6&quot;&gt;&lt;a href=&quot;#v1-2-6&quot; class=&quot;headerlink&quot; title=&quot;v1.2.6&quot;&gt;&lt;/a&gt;v1.2.6&lt;/h1&gt;&lt;p&gt;2016/09/27&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Change App name to &lt;strong&gt;iPaste&lt;/strong&gt;, also update logo.&lt;/li&gt;&lt;li&gt;Increase clipboard history count.&lt;/li&gt;&lt;li&gt;Save clipboard history before quit.&lt;/li&gt;&lt;li&gt;Filter duplicated clipboard history.&lt;/li&gt;&lt;li&gt;Could hide menu bar icon.&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;v0-8-2&quot;&gt;&lt;a href=&quot;#v0-8-2&quot; class=&quot;headerlink&quot; title=&quot;v0.8.2&quot;&gt;&lt;/a&gt;v0.8.2&lt;/h1&gt;&lt;p&gt;2015/12/18&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pin the history you frequently use.&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="iPaste" scheme="https://en.toolinbox.net/categories/iPaste/"/>
     
     
   </entry>
