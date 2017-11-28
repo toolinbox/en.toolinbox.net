@@ -4,20 +4,6 @@
   
     
     <entry>
-      <title><![CDATA[iPaste - Lightweight and Efficient Clipboard Tool]]></title>
-      <url>https://en.toolinbox.net/iPaste/iPaste.html</url>
-      <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1056935452?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPaste_home" target="_blank" rel="external"><img src="https://i.imgur.com/j4BPQTn.png" alt=""></a></p><p><strong>iPaste</strong> is a lightweight and efficient pasteboard tool on iOS and macOS. Support text, image, file and any other formats. Could pin the history. Support multiple shortcuts.</p><p><strong><a href="/iPaste/">Learn more about iPaste</a></strong></p><hr>]]></content>
-      
-        <categories>
-            
-            <category> iPaste </category>
-            
-        </categories>
-        
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[Klib - Kindle Highlights & Notes Manager]]></title>
       <url>https://en.toolinbox.net/Klib/Klib.html</url>
       <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1196268448?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=klib_home" target="_blank" rel="external"><img src="https://i.imgur.com/evrns9w.png" alt=""></a></p><p><strong>Klib</strong> (<strong>K</strong>indle <strong>lib</strong>rary) is a new way to manage Kindle highlights and notes.</p><ul><li>Import highlights from Kindle, iBooks or Amazon.</li><li>Review highlights in Kindle for macOS.</li><li>Copy highlights in <strong>Markdown</strong> format.</li><li>Export Kindle highlights to <strong>Evernote</strong>.</li></ul><p><strong><a href="/Klib/">Learn more about Klib</a></strong></p><hr>]]></content>
@@ -46,13 +32,27 @@
     </entry>
     
     <entry>
-      <title><![CDATA[iTimer - Pomodoro Timer]]></title>
-      <url>https://en.toolinbox.net/iTimer/iTimer.html</url>
-      <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1062139745?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iTimer_home" target="_blank" rel="external"><img src="https://i.imgur.com/YREdGAN.png" alt=""></a></p><p><strong>iTimer</strong> could help you to focus on now. Use pie to show the remaining time. Could quickly start timer or restart. You can use it as Pomodoro timer.</p><p><strong><a href="/iTimer/">Learn more about iTimer</a></strong></p>]]></content>
+      <title><![CDATA[iText - OCR Tool]]></title>
+      <url>https://en.toolinbox.net/iText/iText.html</url>
+      <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1314980676?ls=1&mt=12&at=1000lv4R&ct=iText_me" target="_blank"><img src="https://i.imgur.com/ERtHcTo.png" width="256"></a></p><p><strong>iText</strong> is an OCR tool which could <strong>recognize text from any image</strong>. You just need to capture screen or select image file, <strong>Google</strong> will extract the text inside. The recognition result is amazingly accurate, even up to 100%.</p><p><strong><a href="/iText/">Learn more about iText</a></strong></p><hr>]]></content>
       
         <categories>
             
-            <category> iTimer </category>
+            <category> iText </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[iPaste - Lightweight and Efficient Clipboard Tool]]></title>
+      <url>https://en.toolinbox.net/iPaste/iPaste.html</url>
+      <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1056935452?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPaste_home" target="_blank" rel="external"><img src="https://i.imgur.com/j4BPQTn.png" alt=""></a></p><p><strong>iPaste</strong> is a lightweight and efficient pasteboard tool on iOS and macOS. Support text, image, file and any other formats. Could pin the history. Support multiple shortcuts.</p><p><strong><a href="/iPaste/">Learn more about iPaste</a></strong></p><hr>]]></content>
+      
+        <categories>
+            
+            <category> iPaste </category>
             
         </categories>
         
@@ -67,6 +67,20 @@
         <categories>
             
             <category> iHosts </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[iTimer - Pomodoro Timer]]></title>
+      <url>https://en.toolinbox.net/iTimer/iTimer.html</url>
+      <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1062139745?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iTimer_home" target="_blank" rel="external"><img src="https://i.imgur.com/YREdGAN.png" alt=""></a></p><p><strong>iTimer</strong> could help you to focus on now. Use pie to show the remaining time. Could quickly start timer or restart. You can use it as Pomodoro timer.</p><p><strong><a href="/iTimer/">Learn more about iTimer</a></strong></p>]]></content>
+      
+        <categories>
+            
+            <category> iTimer </category>
             
         </categories>
         
