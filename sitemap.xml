@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://en.toolinbox.net/Klib/Klib.html</loc>
+    
+    <lastmod>2018-01-11T07:07:18.956Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://en.toolinbox.net/Klib/index.html</loc>
     
-    <lastmod>2018-01-09T04:36:56.523Z</lastmod>
+    <lastmod>2018-01-11T07:06:18.627Z</lastmod>
     
   </url>
   
@@ -40,13 +47,6 @@
     <loc>https://en.toolinbox.net/iPic/index.html</loc>
     
     <lastmod>2017-11-28T08:54:52.200Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/Klib/Klib.html</loc>
-    
-    <lastmod>2017-11-28T08:50:32.685Z</lastmod>
     
   </url>
   
