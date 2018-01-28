@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://en.toolinbox.net/"/>
-  <updated>2018-01-11T07:07:18.956Z</updated>
+  <updated>2018-01-11T07:07:18.957Z</updated>
   <id>https://en.toolinbox.net/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://en.toolinbox.net/Klib/Klib.html"/>
     <id>https://en.toolinbox.net/Klib/Klib.html</id>
     <published>2017-11-28T02:00:00.000Z</published>
-    <updated>2018-01-11T07:07:18.956Z</updated>
+    <updated>2018-01-11T07:07:18.957Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home" target="_blank"><img src="https://i.imgur.com/JmEyTVx.png" width="200"></a></p><p><strong>Klib</strong> is a new way to manage highlights and notes for <strong>Kindle &amp; iBooks</strong>.</p><ul><li>Import highlights from Kindle, iBooks or Amazon.</li><li>Review highlights in Kindle for macOS.</li><li>Copy highlights in <strong>Markdown</strong> format.</li><li>Export Kindle highlights to <strong>Evernote</strong>.</li></ul><p><strong><a href="/Klib/">Learn more about Klib</a></strong></p><hr>]]></content>
     
@@ -60,7 +60,7 @@
     <link href="https://en.toolinbox.net/iText/iText.html"/>
     <id>https://en.toolinbox.net/iText/iText.html</id>
     <published>2017-11-28T00:00:00.000Z</published>
-    <updated>2017-11-28T08:50:20.003Z</updated>
+    <updated>2017-11-28T08:50:20.004Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1314980676?ls=1&mt=12&at=1000lv4R&ct=iText_me" target="_blank"><img src="https://i.imgur.com/ERtHcTo.png" width="200"></a></p><p><strong>iText</strong> is an OCR tool which could <strong>recognize text from any image</strong>. You just need to capture screen or select image file, <strong>Google</strong> will extract the text inside. The recognition result is amazingly accurate, even up to 100%.</p><p><strong><a href="/iText/">Learn more about iText</a></strong></p><hr>]]></content>
     
@@ -120,7 +120,7 @@
     <link href="https://en.toolinbox.net/iTimer/iTimer.html"/>
     <id>https://en.toolinbox.net/iTimer/iTimer.html</id>
     <published>2017-11-27T21:00:00.000Z</published>
-    <updated>2017-11-28T08:50:12.994Z</updated>
+    <updated>2017-11-28T08:50:12.995Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1062139745?ls=1&mt=12&at=1000lv4R&ct=iTimer_home" target="_blank"><img src="https://i.imgur.com/kgfFy8a.png" width="200"></a></p><p><strong>iTimer</strong> could help you to focus on now. Use pie to show the remaining time. Could quickly start timer or restart. You can use it as Pomodoro timer.</p><p><strong><a href="/iTimer/">Learn more about iTimer</a></strong></p>]]></content>
     
@@ -320,7 +320,7 @@
     <link href="https://en.toolinbox.net/iPaste/ChangeLog.html"/>
     <id>https://en.toolinbox.net/iPaste/ChangeLog.html</id>
     <published>2015-11-22T10:32:16.000Z</published>
-    <updated>2017-10-17T14:27:28.723Z</updated>
+    <updated>2017-10-17T14:27:28.724Z</updated>
     
     <content type="html"><![CDATA[<h1 id="v2-1-0"><a href="#v2-1-0" class="headerlink" title="v2.1.0"></a>v2.1.0</h1><p>2017/10/19</p><ul><li>Use the shortcut of “Control-Command-A|B|C…” to open the corresponding group.</li></ul><h1 id="v2-0-2"><a href="#v2-0-2" class="headerlink" title="v2.0.2"></a>v2.0.2</h1><p>2017/09/19</p><ul><li>Could sync with iPaste for iPhone/iPad.</li><li>Could set title when edit clipboard history.</li></ul><h1 id="v1-5-1"><a href="#v1-5-1" class="headerlink" title="v1.5.1"></a>v1.5.1</h1><p>2017/07/25</p><ul><li>Support groups for pinned clipboard history.</li><li>Could flexibly edit clipboard history.</li><li>Clipboard history count is increased to 30 for Pro.</li></ul><h1 id="v1-2-6"><a href="#v1-2-6" class="headerlink" title="v1.2.6"></a>v1.2.6</h1><p>2016/09/27</p><ul><li>Change App name to <strong>iPaste</strong>, also update logo.</li><li>Increase clipboard history count.</li><li>Save clipboard history before quit.</li><li>Filter duplicated clipboard history.</li><li>Could hide menu bar icon.</li></ul><h1 id="v0-8-2"><a href="#v0-8-2" class="headerlink" title="v0.8.2"></a>v0.8.2</h1><p>2015/12/18</p><ul><li>Pin the history you frequently use.</li></ul><a id="more"></a><h1 id="v0-7-0"><a href="#v0-7-0" class="headerlink" title="v0.7.0"></a>v0.7.0</h1><p>2015/12/07</p><ul><li>Bug fixing and feature improvement.</li></ul><h1 id="v0-6-1"><a href="#v0-6-1" class="headerlink" title="v0.6.1"></a>v0.6.1</h1><p>2015/11/28</p><ul><li>Release on Mac App Store</li></ul>]]></content>
     
