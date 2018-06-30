@@ -316,6 +316,24 @@
 
     
   <url>
+    <loc>https://en.toolinbox.net/iHostsChangeLog.html</loc>
+    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    <data>
+        <display>
+        <title>iHosts Change Log</title>
+        <pubTime>2015-05-03T10:32:16.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iHosts" url="https://en.toolinbox.net/categories/iHosts/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
@@ -340,24 +358,6 @@
         
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://en.toolinbox.net/iHostsChangeLog.html</loc>
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
-    <data>
-        <display>
-        <title>iHosts Change Log</title>
-        <pubTime>2015-05-03T10:32:16.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iHosts" url="https://en.toolinbox.net/categories/iHosts/"/>
-          
         </display>
     </data>
     </url>
