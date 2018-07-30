@@ -316,18 +316,15 @@
 
     
   <url>
-    <loc>https://en.toolinbox.net/iHostsChangeLog.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
         <display>
-        <title>iHosts Change Log</title>
-        <pubTime>2015-05-03T10:32:16.000Z</pubTime>
+        <title>Terms and Conditions</title>
+        <pubTime>2011-10-29T12:50:28.000Z</pubTime>
         
          
            
-             
-              <breadCrumb title="iHosts" url="https://en.toolinbox.net/categories/iHosts/"/>
-          
         </display>
     </data>
     </url>
@@ -349,15 +346,18 @@
 
     
   <url>
-    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
+    <loc>https://en.toolinbox.net/iHostsChangeLog.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
         <display>
-        <title>Terms and Conditions</title>
-        <pubTime>2011-10-29T12:50:28.000Z</pubTime>
+        <title>iHosts Change Log</title>
+        <pubTime>2015-05-03T10:32:16.000Z</pubTime>
         
          
            
+             
+              <breadCrumb title="iHosts" url="https://en.toolinbox.net/categories/iHosts/"/>
+          
         </display>
     </data>
     </url>
