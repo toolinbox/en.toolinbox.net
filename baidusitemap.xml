@@ -5,6 +5,25 @@
     
     
   <url>
+    <loc>https://en.toolinbox.net/iPic/iPic.html</loc>
+    <lastmod>2018-11-07T12:16:14.060Z</lastmod>
+    <data>
+        <display>
+        <title>iPic - Image & File Upload Tool</title>
+        <pubTime>2017-11-28T01:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iPic" url="https://en.toolinbox.net/categories/iPic/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
     <loc>https://en.toolinbox.net/Klib/Klib.html</loc>
     <lastmod>2018-11-05T13:30:10.618Z</lastmod>
     <data>
@@ -40,7 +59,6 @@
     </data>
     </url>
 
-    
     
     
     
@@ -93,24 +111,6 @@
            
              
               <breadCrumb title="iText" url="https://en.toolinbox.net/categories/iText/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://en.toolinbox.net/iPic/iPic.html</loc>
-    <lastmod>2017-11-28T08:50:16.850Z</lastmod>
-    <data>
-        <display>
-        <title>iPic - Easily Upload Pictures</title>
-        <pubTime>2017-11-28T01:00:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iPic" url="https://en.toolinbox.net/categories/iPic/"/>
           
         </display>
     </data>
@@ -316,11 +316,11 @@
 
     
   <url>
-    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
         <display>
-        <title>Terms and Conditions</title>
+        <title>Privacy Policy</title>
         <pubTime>2011-10-29T12:50:28.000Z</pubTime>
         
          
@@ -331,11 +331,11 @@
 
     
   <url>
-    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
         <display>
-        <title>Privacy Policy</title>
+        <title>Terms and Conditions</title>
         <pubTime>2011-10-29T12:50:28.000Z</pubTime>
         
          
