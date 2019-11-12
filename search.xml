@@ -82,6 +82,23 @@
     </entry>
     
     <entry>
+      <title><![CDATA[iTimer - Pomodoro Timer]]></title>
+      <url>https://en.toolinbox.net/iTimer/iTimer.html</url>
+      <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1062139745?ls=1&mt=12&at=1000lv4R&ct=iTimer_home" target="_blank"><img src="https://i.imgur.com/kgfFy8a.png" width="200"></a></p>
+<p><strong>iTimer</strong> could help you to focus on now. Use pie to show the remaining time. Could quickly start timer or restart. You can use it as Pomodoro timer.</p>
+<p><strong><a href="/iTimer/">Learn more about iTimer</a></strong></p>
+]]></content>
+      
+        <categories>
+            
+            <category> iTimer </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[iHosts - /etc/hosts Editor]]></title>
       <url>https://en.toolinbox.net/iHosts/iHosts.html</url>
       <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1102004240?ls=1&mt=12&at=1000lv4R&ct=iHosts_home" target="_blank"><img src="https://i.imgur.com/Q7rMC3n.png" width="200"></a></p>
@@ -93,23 +110,6 @@
         <categories>
             
             <category> iHosts </category>
-            
-        </categories>
-        
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[iTimer - Pomodoro Timer]]></title>
-      <url>https://en.toolinbox.net/iTimer/iTimer.html</url>
-      <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1062139745?ls=1&mt=12&at=1000lv4R&ct=iTimer_home" target="_blank"><img src="https://i.imgur.com/kgfFy8a.png" width="200"></a></p>
-<p><strong>iTimer</strong> could help you to focus on now. Use pie to show the remaining time. Could quickly start timer or restart. You can use it as Pomodoro timer.</p>
-<p><strong><a href="/iTimer/">Learn more about iTimer</a></strong></p>
-]]></content>
-      
-        <categories>
-            
-            <category> iTimer </category>
             
         </categories>
         
@@ -612,6 +612,41 @@
     </entry>
     
     <entry>
+      <title><![CDATA[iTimer Change Log]]></title>
+      <url>https://en.toolinbox.net/iTimer/ChangeLog.html</url>
+      <content type="html"><![CDATA[<h1 id="v1-3-0"><a href="#v1-3-0" class="headerlink" title="v1.3.0"></a>v1.3.0</h1><p>2016/12/28</p>
+<ul>
+<li>Could customize timers.</li>
+<li>Fit to Swift 3.</li>
+</ul>
+<h1 id="v1-2-3"><a href="#v1-2-3" class="headerlink" title="v1.2.3"></a>v1.2.3</h1><p>2016/09/26</p>
+<ul>
+<li>Change App name to <strong>iTimer</strong>, also update logo.</li>
+<li>Add more timers.</li>
+<li>Support macOS Sierra.</li>
+</ul>
+<a id="more"></a>
+<h1 id="v0-6-2"><a href="#v0-6-2" class="headerlink" title="v0.6.2"></a>v0.6.2</h1><p>2015/12/15</p>
+<ul>
+<li>Remind to start timer.</li>
+<li>Support start at login.</li>
+</ul>
+<h1 id="v0-5-1"><a href="#v0-5-1" class="headerlink" title="v0.5.1"></a>v0.5.1</h1><p>2015/12/05</p>
+<ul>
+<li>Release on Mac App Store</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> iTimer </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[iPaste Change Log]]></title>
       <url>https://en.toolinbox.net/iPaste/ChangeLog.html</url>
       <content type="html"><![CDATA[<h1 id="v2-1-0"><a href="#v2-1-0" class="headerlink" title="v2.1.0"></a>v2.1.0</h1><p>2017/10/19</p>
@@ -662,41 +697,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[iTimer Change Log]]></title>
-      <url>https://en.toolinbox.net/iTimer/ChangeLog.html</url>
-      <content type="html"><![CDATA[<h1 id="v1-3-0"><a href="#v1-3-0" class="headerlink" title="v1.3.0"></a>v1.3.0</h1><p>2016/12/28</p>
-<ul>
-<li>Could customize timers.</li>
-<li>Fit to Swift 3.</li>
-</ul>
-<h1 id="v1-2-3"><a href="#v1-2-3" class="headerlink" title="v1.2.3"></a>v1.2.3</h1><p>2016/09/26</p>
-<ul>
-<li>Change App name to <strong>iTimer</strong>, also update logo.</li>
-<li>Add more timers.</li>
-<li>Support macOS Sierra.</li>
-</ul>
-<a id="more"></a>
-<h1 id="v0-6-2"><a href="#v0-6-2" class="headerlink" title="v0.6.2"></a>v0.6.2</h1><p>2015/12/15</p>
-<ul>
-<li>Remind to start timer.</li>
-<li>Support start at login.</li>
-</ul>
-<h1 id="v0-5-1"><a href="#v0-5-1" class="headerlink" title="v0.5.1"></a>v0.5.1</h1><p>2015/12/05</p>
-<ul>
-<li>Release on Mac App Store</li>
-</ul>
-]]></content>
-      
-        <categories>
-            
-            <category> iTimer </category>
-            
-        </categories>
-        
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[iHosts Change Log]]></title>
       <url>https://en.toolinbox.net/iHostsChangeLog.html</url>
       <content type="html"><![CDATA[<h1 id="v1-3-0"><a href="#v1-3-0" class="headerlink" title="v1.3.0"></a>v1.3.0</h1><p><em>Aug 14th, 2016</em></p>
@@ -726,22 +726,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[Terms and Conditions]]></title>
-      <url>https://en.toolinbox.net/iHosts/terms.html</url>
-      <content type="html"><![CDATA[<h1 id="Terms-and-Conditions-“Terms”"><a href="#Terms-and-Conditions-“Terms”" class="headerlink" title="Terms and Conditions (“Terms”)"></a>Terms and Conditions (“Terms”)</h1><p>Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the <a href="http://toolinbox.net" target="_blank" rel="external">http://toolinbox.net</a> website or the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”) operated by Toolinbox (“us”, “we”, or “our”).<br>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.<br>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.</p>
-<a id="more"></a>
-<h2 id="Accounts"><a href="#Accounts" class="headerlink" title="Accounts"></a>Accounts</h2><p>When you create an account with us, you must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.<br>You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.<br>You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.</p>
-<h2 id="Links-To-Other-Web-Sites"><a href="#Links-To-Other-Web-Sites" class="headerlink" title="Links To Other Web Sites"></a>Links To Other Web Sites</h2><p>Our Service may contain links to third-party web sites or services that are not owned or controlled by Toolinbox.<br>Toolinbox has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Toolinbox shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.<br>We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.</p>
-<h2 id="Termination"><a href="#Termination" class="headerlink" title="Termination"></a>Termination</h2><p>We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.<br>All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.<br>We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.<br>Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service.<br>All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</p>
-<h2 id="Governing-Law"><a href="#Governing-Law" class="headerlink" title="Governing Law"></a>Governing Law</h2><p>These Terms shall be governed and construed in accordance with the laws of United States, without regard to its conflict of law provisions.<br>Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.</p>
-<h2 id="Changes"><a href="#Changes" class="headerlink" title="Changes"></a>Changes</h2><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.<br>By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.</p>
-<h2 id="Contact-Us"><a href="#Contact-Us" class="headerlink" title="Contact Us"></a>Contact Us</h2><p>If you have any questions about these Terms, please contact us.</p>
-]]></content>
-      
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[Privacy Policy]]></title>
       <url>https://en.toolinbox.net/iHosts/privacy.html</url>
       <content type="html"><![CDATA[<h1 id="Privacy-Policy"><a href="#Privacy-Policy" class="headerlink" title="Privacy Policy"></a>Privacy Policy</h1><p>Toolinbox (“us”, “we”, or “our”) operates the <a href="http://toolinbox.net" target="_blank" rel="external">http://toolinbox.net</a> website and the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”).<br>This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.<br>We will not use or share your information with anyone except as described in this Privacy Policy.<br>We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at <a href="http://toolinbox.net" target="_blank" rel="external">http://toolinbox.net</a></p>
@@ -755,6 +739,22 @@
 <h2 id="Children’s-Privacy"><a href="#Children’s-Privacy" class="headerlink" title="Children’s Privacy"></a>Children’s Privacy</h2><p>Our Service does not address anyone under the age of 13 (“Children”).<br>We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.</p>
 <h2 id="Changes-To-This-Privacy-Policy"><a href="#Changes-To-This-Privacy-Policy" class="headerlink" title="Changes To This Privacy Policy"></a>Changes To This Privacy Policy</h2><p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.<br>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
 <h2 id="Contact-Us"><a href="#Contact-Us" class="headerlink" title="Contact Us"></a>Contact Us</h2><p>If you have any questions about this Privacy Policy, please contact us.</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Terms and Conditions]]></title>
+      <url>https://en.toolinbox.net/iHosts/terms.html</url>
+      <content type="html"><![CDATA[<h1 id="Terms-and-Conditions-“Terms”"><a href="#Terms-and-Conditions-“Terms”" class="headerlink" title="Terms and Conditions (“Terms”)"></a>Terms and Conditions (“Terms”)</h1><p>Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the <a href="http://toolinbox.net" target="_blank" rel="external">http://toolinbox.net</a> website or the app belong to it such as iPic, iHosts, Daily Clipboard and Attention Timer (the “Service”) operated by Toolinbox (“us”, “we”, or “our”).<br>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.<br>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.</p>
+<a id="more"></a>
+<h2 id="Accounts"><a href="#Accounts" class="headerlink" title="Accounts"></a>Accounts</h2><p>When you create an account with us, you must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.<br>You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.<br>You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.</p>
+<h2 id="Links-To-Other-Web-Sites"><a href="#Links-To-Other-Web-Sites" class="headerlink" title="Links To Other Web Sites"></a>Links To Other Web Sites</h2><p>Our Service may contain links to third-party web sites or services that are not owned or controlled by Toolinbox.<br>Toolinbox has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Toolinbox shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.<br>We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.</p>
+<h2 id="Termination"><a href="#Termination" class="headerlink" title="Termination"></a>Termination</h2><p>We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.<br>All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.<br>We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.<br>Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service.<br>All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</p>
+<h2 id="Governing-Law"><a href="#Governing-Law" class="headerlink" title="Governing Law"></a>Governing Law</h2><p>These Terms shall be governed and construed in accordance with the laws of United States, without regard to its conflict of law provisions.<br>Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.</p>
+<h2 id="Changes"><a href="#Changes" class="headerlink" title="Changes"></a>Changes</h2><p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.<br>By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.</p>
+<h2 id="Contact-Us"><a href="#Contact-Us" class="headerlink" title="Contact Us"></a>Contact Us</h2><p>If you have any questions about these Terms, please contact us.</p>
 ]]></content>
       
         

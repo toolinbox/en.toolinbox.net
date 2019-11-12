@@ -4,12 +4,30 @@
 
     
   <url>
+    <loc>https://en.toolinbox.net/iHosts/iHosts.html</loc>
+    <lastmod>2019-11-12T10:05:00.289Z</lastmod>
+    <data>
+        <display>
+        <title>iHosts - /etc/hosts Editor</title>
+        <pubTime>2019-11-10T21:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="iHosts" url="https://en.toolinbox.net/categories/iHosts/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://en.toolinbox.net/iTimer/iTimer.html</loc>
-    <lastmod>2019-11-12T10:03:24.588Z</lastmod>
+    <lastmod>2019-11-12T10:04:55.498Z</lastmod>
     <data>
         <display>
         <title>iTimer - Pomodoro Timer</title>
-        <pubTime>2019-11-10T21:00:00.000Z</pubTime>
+        <pubTime>2019-11-10T22:00:00.000Z</pubTime>
         
          
            
@@ -33,24 +51,6 @@
            
              
               <breadCrumb title="iPaste" url="https://en.toolinbox.net/categories/iPaste/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://en.toolinbox.net/iHosts/iHosts.html</loc>
-    <lastmod>2019-11-12T10:03:08.109Z</lastmod>
-    <data>
-        <display>
-        <title>iHosts - /etc/hosts Editor</title>
-        <pubTime>2019-11-10T22:00:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="iHosts" url="https://en.toolinbox.net/categories/iHosts/"/>
           
         </display>
     </data>
@@ -352,11 +352,11 @@
 
     
   <url>
-    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
         <display>
-        <title>Privacy Policy</title>
+        <title>Terms and Conditions</title>
         <pubTime>2011-10-29T12:50:28.000Z</pubTime>
         
          
@@ -367,11 +367,11 @@
 
     
   <url>
-    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
         <display>
-        <title>Terms and Conditions</title>
+        <title>Privacy Policy</title>
         <pubTime>2011-10-29T12:50:28.000Z</pubTime>
         
          
