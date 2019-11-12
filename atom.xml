@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://en.toolinbox.net/"/>
-  <updated>2019-10-24T12:45:32.711Z</updated>
+  <updated>2019-11-12T10:02:42.001Z</updated>
   <id>https://en.toolinbox.net/</id>
   
   <author>
@@ -16,37 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>iText works with macOS Catalina</title>
-    <link href="https://en.toolinbox.net/iText/macOS_Catalina.html"/>
-    <id>https://en.toolinbox.net/iText/macOS_Catalina.html</id>
-    <published>2019-04-06T02:00:00.000Z</published>
-    <updated>2019-10-24T12:45:32.711Z</updated>
-    
-    <content type="html"><![CDATA[<p>macOS Catalina (10.15) adjusted the privacy &amp; permissions. In this case, need to enable “Screen Recording” permission for iText to let it capture screen to recognize the text in it.</p>
-<p>Specifically, when using iText to capture screen for the first time in macOS Catalina, the following dialog will pop up:</p>
-<p><img src="https://i.imgur.com/w8YmpzL.png" alt=""></p>
-<p>At this point, you can click “Open System Preferences”. If you ever clicked “Deny”, you can manually open the “System Preferences” app, select “Security &amp; Privacy”, and then in the “Privacy” column, select “Screen Recording” on the left.</p>
-<p><img src="https://i.imgur.com/lKfVHWJ.png" alt=""></p>
-<p>In this page, enable iText. After restart iText, it will work correctly.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;macOS Catalina (10.15) adjusted the privacy &amp;amp; permissions. In this case, need to enable “Screen Recording” permission for iText to le
-    
-    </summary>
-    
-      <category term="iText" scheme="https://en.toolinbox.net/categories/iText/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Klib - Kindle &amp; Apple Books Highlights Manager</title>
     <link href="https://en.toolinbox.net/Klib/Klib.html"/>
     <id>https://en.toolinbox.net/Klib/Klib.html</id>
-    <published>2017-11-28T02:00:00.000Z</published>
-    <updated>2018-11-05T13:30:10.618Z</updated>
+    <published>2019-11-11T02:00:00.000Z</published>
+    <updated>2019-11-12T10:02:42.001Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1196268448?ls=1&mt=12&at=1000lv4R&ct=klib_home" target="_blank"><img src="https://i.imgur.com/JmEyTVx.png" width="200"></a></p>
 <p><strong>Klib</strong> is a new way to manage highlights and notes for <strong>Kindle &amp; Apple Books</strong>.</p>
@@ -72,35 +46,11 @@
   </entry>
   
   <entry>
-    <title>iPic - Image &amp; File Upload Tool</title>
-    <link href="https://en.toolinbox.net/iPic/iPic.html"/>
-    <id>https://en.toolinbox.net/iPic/iPic.html</id>
-    <published>2017-11-28T01:00:00.000Z</published>
-    <updated>2018-11-07T12:16:14.060Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_home" target="_blank"><img src="https://i.imgur.com/cH3MRPq.png" width="200"></a></p>
-<p><strong>iPic</strong> could automatically upload images &amp; files, and then save <strong>Markdown</strong> links on macOS. Support <strong>Imgur, Flickr, Amazon S3</strong> and other cloud storage. Could compress images before upload.</p>
-<p><strong><a href="/iPic/">Learn more about iPic</a></strong></p>
-<hr>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1101244278?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPic_home&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/cH3
-    
-    </summary>
-    
-      <category term="iPic" scheme="https://en.toolinbox.net/categories/iPic/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>iText - OCR Tool</title>
     <link href="https://en.toolinbox.net/iText/iText.html"/>
     <id>https://en.toolinbox.net/iText/iText.html</id>
-    <published>2017-11-28T00:00:00.000Z</published>
-    <updated>2017-11-28T08:50:20.004Z</updated>
+    <published>2019-11-11T01:00:00.000Z</published>
+    <updated>2019-11-12T10:02:59.012Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1314980676?ls=1&mt=12&at=1000lv4R&ct=iText_me" target="_blank"><img src="https://i.imgur.com/ERtHcTo.png" width="200"></a></p>
 <p><strong>iText</strong> is an OCR tool which could <strong>recognize text from any image</strong>. You just need to capture screen or select image file, <strong>Google</strong> will extract the text inside. The recognition result is amazingly accurate, even up to 100%.</p>
@@ -120,11 +70,35 @@
   </entry>
   
   <entry>
+    <title>iPic - Image &amp; File Upload Tool</title>
+    <link href="https://en.toolinbox.net/iPic/iPic.html"/>
+    <id>https://en.toolinbox.net/iPic/iPic.html</id>
+    <published>2019-11-11T00:00:00.000Z</published>
+    <updated>2019-11-12T10:02:53.523Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_home" target="_blank"><img src="https://i.imgur.com/cH3MRPq.png" width="200"></a></p>
+<p><strong>iPic</strong> could automatically upload images &amp; files, and then save <strong>Markdown</strong> links on macOS. Support <strong>Imgur, Flickr, Amazon S3</strong> and other cloud storage. Could compress images before upload.</p>
+<p><strong><a href="/iPic/">Learn more about iPic</a></strong></p>
+<hr>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/id1101244278?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPic_home&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/cH3
+    
+    </summary>
+    
+      <category term="iPic" scheme="https://en.toolinbox.net/categories/iPic/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>iPaste - Lightweight and Efficient Clipboard Tool</title>
     <link href="https://en.toolinbox.net/iPaste/iPaste.html"/>
     <id>https://en.toolinbox.net/iPaste/iPaste.html</id>
-    <published>2017-11-27T23:00:00.000Z</published>
-    <updated>2017-11-28T08:50:24.430Z</updated>
+    <published>2019-11-10T23:00:00.000Z</published>
+    <updated>2019-11-12T10:03:15.629Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_home" target="_blank"><img src="https://i.imgur.com/KAIJxM1.png" width="200"></a></p>
 <p><strong>iPaste</strong> is a lightweight and efficient pasteboard tool on iOS and macOS. Support text, image, file and any other formats. Could pin the history. Support multiple shortcuts.</p>
@@ -147,8 +121,8 @@
     <title>iHosts - /etc/hosts Editor</title>
     <link href="https://en.toolinbox.net/iHosts/iHosts.html"/>
     <id>https://en.toolinbox.net/iHosts/iHosts.html</id>
-    <published>2017-11-27T22:00:00.000Z</published>
-    <updated>2017-11-28T08:50:27.908Z</updated>
+    <published>2019-11-10T22:00:00.000Z</published>
+    <updated>2019-11-12T10:03:08.109Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1102004240?ls=1&mt=12&at=1000lv4R&ct=iHosts_home" target="_blank"><img src="https://i.imgur.com/Q7rMC3n.png" width="200"></a></p>
 <p><strong>iHosts</strong> is the <strong>only</strong> /etc/hosts editor on Mac App Store. Organize hosts by groups, switch by one click. View hosts in real time.</p>
@@ -171,8 +145,8 @@
     <title>iTimer - Pomodoro Timer</title>
     <link href="https://en.toolinbox.net/iTimer/iTimer.html"/>
     <id>https://en.toolinbox.net/iTimer/iTimer.html</id>
-    <published>2017-11-27T21:00:00.000Z</published>
-    <updated>2017-11-28T08:50:12.995Z</updated>
+    <published>2019-11-10T21:00:00.000Z</published>
+    <updated>2019-11-12T10:03:24.588Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/app/id1062139745?ls=1&mt=12&at=1000lv4R&ct=iTimer_home" target="_blank"><img src="https://i.imgur.com/kgfFy8a.png" width="200"></a></p>
 <p><strong>iTimer</strong> could help you to focus on now. Use pie to show the remaining time. Could quickly start timer or restart. You can use it as Pomodoro timer.</p>
@@ -186,6 +160,32 @@
     </summary>
     
       <category term="iTimer" scheme="https://en.toolinbox.net/categories/iTimer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iText works with macOS Catalina</title>
+    <link href="https://en.toolinbox.net/iText/macOS_Catalina.html"/>
+    <id>https://en.toolinbox.net/iText/macOS_Catalina.html</id>
+    <published>2019-04-06T02:00:00.000Z</published>
+    <updated>2019-10-24T12:45:32.711Z</updated>
+    
+    <content type="html"><![CDATA[<p>macOS Catalina (10.15) adjusted the privacy &amp; permissions. In this case, need to enable “Screen Recording” permission for iText to let it capture screen to recognize the text in it.</p>
+<p>Specifically, when using iText to capture screen for the first time in macOS Catalina, the following dialog will pop up:</p>
+<p><img src="https://i.imgur.com/w8YmpzL.png" alt=""></p>
+<p>At this point, you can click “Open System Preferences”. If you ever clicked “Deny”, you can manually open the “System Preferences” app, select “Security &amp; Privacy”, and then in the “Privacy” column, select “Screen Recording” on the left.</p>
+<p><img src="https://i.imgur.com/lKfVHWJ.png" alt=""></p>
+<p>In this page, enable iText. After restart iText, it will work correctly.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;macOS Catalina (10.15) adjusted the privacy &amp;amp; permissions. In this case, need to enable “Screen Recording” permission for iText to le
+    
+    </summary>
+    
+      <category term="iText" scheme="https://en.toolinbox.net/categories/iText/"/>
     
     
   </entry>
