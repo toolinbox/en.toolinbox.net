@@ -4,6 +4,25 @@
 
     
   <url>
+    <loc>https://en.toolinbox.net/help/license.html</loc>
+    <lastmod>2020-08-08T06:43:12.392Z</lastmod>
+    <data>
+        <display>
+        <title>How to Activate the License</title>
+        <pubTime>2019-04-04T22:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Help" url="https://en.toolinbox.net/categories/Help/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
     <loc>https://en.toolinbox.net/iHosts/iHosts.html</loc>
     <lastmod>2019-11-12T10:05:00.289Z</lastmod>
     <data>
@@ -110,7 +129,6 @@
     </data>
     </url>
 
-    
     
     
     
@@ -352,11 +370,11 @@
 
     
   <url>
-    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
         <display>
-        <title>Terms and Conditions</title>
+        <title>Privacy Policy</title>
         <pubTime>2011-10-29T12:50:28.000Z</pubTime>
         
          
@@ -367,11 +385,11 @@
 
     
   <url>
-    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     <data>
         <display>
-        <title>Privacy Policy</title>
+        <title>Terms and Conditions</title>
         <pubTime>2011-10-29T12:50:28.000Z</pubTime>
         
          

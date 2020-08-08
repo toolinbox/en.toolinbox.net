@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://en.toolinbox.net/help/license.html</loc>
+    
+    <lastmod>2020-08-08T06:43:12.392Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/Klib/index.html</loc>
+    
+    <lastmod>2020-07-19T01:01:29.535Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://en.toolinbox.net/iHosts/iHosts.html</loc>
     
     <lastmod>2019-11-12T10:05:00.289Z</lastmod>
@@ -75,13 +89,6 @@
     <loc>https://en.toolinbox.net/iText/index.html</loc>
     
     <lastmod>2019-11-12T09:59:39.707Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/Klib/index.html</loc>
-    
-    <lastmod>2019-11-12T09:59:34.266Z</lastmod>
     
   </url>
   
@@ -177,14 +184,14 @@
   </url>
   
   <url>
-    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
     
     <lastmod>2016-12-06T02:14:38.000Z</lastmod>
     
