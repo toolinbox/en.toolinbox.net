@@ -2,205 +2,212 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://en.toolinbox.net/Klib/index.html</loc>
+    <loc>https://en.toolinbox.net/iPic/index.html</loc>
     
-    <lastmod>2021-06-04T02:56:22.308Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/help/license.html</loc>
-    
-    <lastmod>2021-02-19T13:26:20.154Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iHosts/iHosts.html</loc>
-    
-    <lastmod>2019-11-12T10:05:00.289Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iTimer/iTimer.html</loc>
-    
-    <lastmod>2019-11-12T10:04:55.498Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iPaste/iPaste.html</loc>
-    
-    <lastmod>2019-11-12T10:03:15.629Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iText/iText.html</loc>
-    
-    <lastmod>2019-11-12T10:02:59.012Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iPic/iPic.html</loc>
-    
-    <lastmod>2019-11-12T10:02:53.523Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/Klib/Klib.html</loc>
-    
-    <lastmod>2019-11-12T10:02:42.001Z</lastmod>
+    <lastmod>2022-12-17T09:09:33.447Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://en.toolinbox.net/iHosts/index.html</loc>
     
-    <lastmod>2019-11-12T10:00:06.265Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iTimer/index.html</loc>
-    
-    <lastmod>2019-11-12T10:00:00.749Z</lastmod>
+    <lastmod>2022-12-17T09:09:26.445Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://en.toolinbox.net/iPaste/index.html</loc>
     
-    <lastmod>2019-11-12T09:59:51.802Z</lastmod>
+    <lastmod>2022-12-17T09:09:07.690Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://en.toolinbox.net/iPic/index.html</loc>
+    <loc>https://en.toolinbox.net/iTimer/index.html</loc>
     
-    <lastmod>2019-11-12T09:59:45.568Z</lastmod>
+    <lastmod>2022-12-17T09:08:43.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/Klib/index.html</loc>
+    
+    <lastmod>2022-12-17T09:07:53.478Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/Klib/Klib.html</loc>
+    
+    <lastmod>2022-12-17T09:06:30.007Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iTimer/iTimer.html</loc>
+    
+    <lastmod>2022-12-17T09:06:18.406Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iPic/iPic.html</loc>
+    
+    <lastmod>2022-12-17T09:05:47.430Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iPaste/iPaste.html</loc>
+    
+    <lastmod>2022-12-17T09:05:35.058Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iHosts/iHosts.html</loc>
+    
+    <lastmod>2022-12-17T09:05:23.061Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://en.toolinbox.net/iText/index.html</loc>
     
-    <lastmod>2019-11-12T09:59:39.707Z</lastmod>
+    <lastmod>2022-12-17T09:04:57.225Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://en.toolinbox.net/iText/macOS_Catalina.html</loc>
+    <loc>https://en.toolinbox.net/iText/iText.html</loc>
     
-    <lastmod>2019-10-24T12:45:32.711Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iPaste/iPaste_macOS_Mojave.html</loc>
-    
-    <lastmod>2018-11-15T04:38:36.602Z</lastmod>
+    <lastmod>2022-12-17T09:04:50.730Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://en.toolinbox.net/iPic/ChangeLog.html</loc>
+    <loc>https://en.toolinbox.net/help/license.html</loc>
     
-    <lastmod>2018-03-28T08:26:28.217Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iPaste/ChangeLog.html</loc>
-    
-    <lastmod>2017-10-17T14:27:28.724Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iPic/iPicUploader_Typora.html</loc>
-    
-    <lastmod>2017-05-06T00:42:07.000Z</lastmod>
+    <lastmod>2022-12-17T09:04:29.341Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://en.toolinbox.net/Klib/Introduction.html</loc>
     
-    <lastmod>2017-04-24T08:02:28.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/Klib/KlibMAS.html</loc>
-    
-    <lastmod>2017-04-24T08:02:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iPic/iPicUploader.html</loc>
-    
-    <lastmod>2017-03-06T15:58:53.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iHosts/iHostsJapaneseMedia.html</loc>
-    
-    <lastmod>2017-03-06T15:54:01.000Z</lastmod>
+    <lastmod>2022-12-17T09:02:44.216Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://en.toolinbox.net/iHosts/iHostsMacAppStore.html</loc>
     
-    <lastmod>2017-03-06T15:53:24.000Z</lastmod>
+    <lastmod>2022-12-17T09:02:44.215Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://en.toolinbox.net/iPic/AddS3.html</loc>
+    <loc>https://en.toolinbox.net/Klib/KlibMAS.html</loc>
     
-    <lastmod>2017-02-26T00:49:55.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iTimer/ChangeLog.html</loc>
-    
-    <lastmod>2016-12-28T13:18:07.000Z</lastmod>
+    <lastmod>2022-12-17T09:02:44.215Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://en.toolinbox.net/iPic/iPicMover.html</loc>
+    <loc>https://en.toolinbox.net/iHosts/iHostsJapaneseMedia.html</loc>
     
-    <lastmod>2016-12-22T10:09:07.000Z</lastmod>
+    <lastmod>2022-12-17T09:02:44.214Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://en.toolinbox.net/iHosts/terms.html</loc>
     
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    <lastmod>2022-12-17T09:02:44.214Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://en.toolinbox.net/iHosts/privacy.html</loc>
     
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    <lastmod>2022-12-17T09:02:44.213Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iText/macOS_Catalina.html</loc>
+    
+    <lastmod>2022-12-17T09:02:44.212Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iPaste/iPaste_macOS_Mojave.html</loc>
+    
+    <lastmod>2022-12-17T09:02:44.211Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iPaste/ChangeLog.html</loc>
+    
+    <lastmod>2022-12-17T09:02:44.210Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iTimer/ChangeLog.html</loc>
+    
+    <lastmod>2022-12-17T09:02:44.210Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://en.toolinbox.net/iHostsChangeLog.html</loc>
     
-    <lastmod>2016-12-06T02:14:38.000Z</lastmod>
+    <lastmod>2022-12-17T09:02:44.210Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iPic/iPicUploader_Typora.html</loc>
+    
+    <lastmod>2022-12-17T09:02:44.208Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iPic/iPicUploader.html</loc>
+    
+    <lastmod>2022-12-17T09:02:44.208Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iPic/ChangeLog.html</loc>
+    
+    <lastmod>2022-12-17T09:02:44.206Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iPic/iPicMover.html</loc>
+    
+    <lastmod>2022-12-17T09:02:44.205Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iPic/AddS3.html</loc>
+    
+    <lastmod>2022-12-17T09:02:44.205Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://en.toolinbox.net/iPic/AddB2.html</loc>
+    
+    <lastmod>2022-12-17T09:02:44.204Z</lastmod>
     
   </url>
   
