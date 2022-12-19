@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://en.toolinbox.net/iPic/AddB2.html</loc>
+    
+    <lastmod>2022-12-19T04:26:03.178Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://en.toolinbox.net/iPic/index.html</loc>
     
     <lastmod>2022-12-17T09:09:33.447Z</lastmod>
@@ -149,14 +156,14 @@
   </url>
   
   <url>
-    <loc>https://en.toolinbox.net/iPaste/ChangeLog.html</loc>
+    <loc>https://en.toolinbox.net/iTimer/ChangeLog.html</loc>
     
     <lastmod>2022-12-17T09:02:44.210Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://en.toolinbox.net/iTimer/ChangeLog.html</loc>
+    <loc>https://en.toolinbox.net/iPaste/ChangeLog.html</loc>
     
     <lastmod>2022-12-17T09:02:44.210Z</lastmod>
     
@@ -201,13 +208,6 @@
     <loc>https://en.toolinbox.net/iPic/AddS3.html</loc>
     
     <lastmod>2022-12-17T09:02:44.205Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://en.toolinbox.net/iPic/AddB2.html</loc>
-    
-    <lastmod>2022-12-17T09:02:44.204Z</lastmod>
     
   </url>
   

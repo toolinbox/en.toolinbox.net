@@ -126,6 +126,11 @@
 <ul>
 <li><code>Bucket</code><ul>
 <li>Same with the bucket in Backblaze B2</li>
+<li><ul>
+<li>注意：添加 <code>Bucket</code> 时，权限需要选择 <code>Public</code>，不然别人无法访问，则无法作为图床使用。</li>
+</ul>
+</li>
+<li>Note: when create <code>Bucket</code>, should set the <code>File in Bucket</code> as <code>Public</code>, otherwise users can’t access the image in <code>Bucket</code> via url.</li>
 </ul>
 </li>
 <li><code>Access Key</code> and <code>Secret Key</code><ul>

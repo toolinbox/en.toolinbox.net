@@ -169,7 +169,7 @@
     <link href="https://en.toolinbox.net/iPic/AddB2.html"/>
     <id>https://en.toolinbox.net/iPic/AddB2.html</id>
     <published>2022-12-12T00:00:00.000Z</published>
-    <updated>2022-12-17T09:02:44.204Z</updated>
+    <updated>2022-12-19T04:26:03.178Z</updated>
     
     <content type="html"><![CDATA[<p>Backblaze B2 is almost the cheapest online storage now. For more introductions, please refer to <a href="https://www.backblaze.com/b2/cloud-storage.html" target="_blank" rel="external">Backblaze B2’s official site.</a></p>
 <h1 id="Add-Backblaze-B2-in-iPic"><a href="#Add-Backblaze-B2-in-iPic" class="headerlink" title="Add Backblaze B2 in iPic"></a>Add Backblaze B2 in iPic</h1><p>Open iPic’s <code>Preferences</code>, clicks <code>Image Host</code>, and add <code>Backblaze B2</code>.</p>
@@ -178,6 +178,11 @@
 <ul>
 <li><code>Bucket</code><ul>
 <li>Same with the bucket in Backblaze B2</li>
+<li><ul>
+<li>注意：添加 <code>Bucket</code> 时，权限需要选择 <code>Public</code>，不然别人无法访问，则无法作为图床使用。</li>
+</ul>
+</li>
+<li>Note: when create <code>Bucket</code>, should set the <code>File in Bucket</code> as <code>Public</code>, otherwise users can’t access the image in <code>Bucket</code> via url.</li>
 </ul>
 </li>
 <li><code>Access Key</code> and <code>Secret Key</code><ul>
@@ -229,6 +234,11 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Bucket&lt;/code&gt;&lt;ul&gt;
 &lt;li&gt;Same with the bucket in Backblaze B2&lt;/li&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;注意：添加 &lt;code&gt;Bucket&lt;/code&gt; 时，权限需要选择 &lt;code&gt;Public&lt;/code&gt;，不然别人无法访问，则无法作为图床使用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Note: when create &lt;code&gt;Bucket&lt;/code&gt;, should set the &lt;code&gt;File in Bucket&lt;/code&gt; as &lt;code&gt;Public&lt;/code&gt;, otherwise users can’t access the image in &lt;code&gt;Bucket&lt;/code&gt; via url.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;code&gt;Access Key&lt;/code&gt; and &lt;code&gt;Secret Key&lt;/code&gt;&lt;ul&gt;
