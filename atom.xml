@@ -943,45 +943,30 @@
   </entry>
   
   <entry>
-    <title>iPaste Change Log</title>
-    <link href="https://en.toolinbox.net/iPaste/ChangeLog.html"/>
-    <id>https://en.toolinbox.net/iPaste/ChangeLog.html</id>
+    <title>iTimer Change Log</title>
+    <link href="https://en.toolinbox.net/iTimer/ChangeLog.html"/>
+    <id>https://en.toolinbox.net/iTimer/ChangeLog.html</id>
     <published>2015-11-22T10:32:16.000Z</published>
     <updated>2022-12-17T09:02:44.210Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="v2-1-0"><a href="#v2-1-0" class="headerlink" title="v2.1.0"></a>v2.1.0</h1><p>2017/10/19</p>
+    <content type="html"><![CDATA[<h1 id="v1-3-0"><a href="#v1-3-0" class="headerlink" title="v1.3.0"></a>v1.3.0</h1><p>2016/12/28</p>
 <ul>
-<li>Use the shortcut of “Control-Command-A|B|C…” to open the corresponding group.</li>
+<li>Could customize timers.</li>
+<li>Fit to Swift 3.</li>
 </ul>
-<h1 id="v2-0-2"><a href="#v2-0-2" class="headerlink" title="v2.0.2"></a>v2.0.2</h1><p>2017/09/19</p>
+<h1 id="v1-2-3"><a href="#v1-2-3" class="headerlink" title="v1.2.3"></a>v1.2.3</h1><p>2016/09/26</p>
 <ul>
-<li>Could sync with iPaste for iPhone/iPad.</li>
-<li>Could set title when edit clipboard history.</li>
-</ul>
-<h1 id="v1-5-1"><a href="#v1-5-1" class="headerlink" title="v1.5.1"></a>v1.5.1</h1><p>2017/07/25</p>
-<ul>
-<li>Support groups for pinned clipboard history.</li>
-<li>Could flexibly edit clipboard history.</li>
-<li>Clipboard history count is increased to 30 for Pro.</li>
-</ul>
-<h1 id="v1-2-6"><a href="#v1-2-6" class="headerlink" title="v1.2.6"></a>v1.2.6</h1><p>2016/09/27</p>
-<ul>
-<li>Change App name to <strong>iPaste</strong>, also update logo.</li>
-<li>Increase clipboard history count.</li>
-<li>Save clipboard history before quit.</li>
-<li>Filter duplicated clipboard history.</li>
-<li>Could hide menu bar icon.</li>
-</ul>
-<h1 id="v0-8-2"><a href="#v0-8-2" class="headerlink" title="v0.8.2"></a>v0.8.2</h1><p>2015/12/18</p>
-<ul>
-<li>Pin the history you frequently use.</li>
+<li>Change App name to <strong>iTimer</strong>, also update logo.</li>
+<li>Add more timers.</li>
+<li>Support macOS Sierra.</li>
 </ul>
 <a id="more"></a>
-<h1 id="v0-7-0"><a href="#v0-7-0" class="headerlink" title="v0.7.0"></a>v0.7.0</h1><p>2015/12/07</p>
+<h1 id="v0-6-2"><a href="#v0-6-2" class="headerlink" title="v0.6.2"></a>v0.6.2</h1><p>2015/12/15</p>
 <ul>
-<li>Bug fixing and feature improvement.</li>
+<li>Remind to start timer.</li>
+<li>Support start at login.</li>
 </ul>
-<h1 id="v0-6-1"><a href="#v0-6-1" class="headerlink" title="v0.6.1"></a>v0.6.1</h1><p>2015/11/28</p>
+<h1 id="v0-5-1"><a href="#v0-5-1" class="headerlink" title="v0.5.1"></a>v0.5.1</h1><p>2015/12/05</p>
 <ul>
 <li>Release on Mac App Store</li>
 </ul>
@@ -989,37 +974,21 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;v2-1-0&quot;&gt;&lt;a href=&quot;#v2-1-0&quot; class=&quot;headerlink&quot; title=&quot;v2.1.0&quot;&gt;&lt;/a&gt;v2.1.0&lt;/h1&gt;&lt;p&gt;2017/10/19&lt;/p&gt;
+      &lt;h1 id=&quot;v1-3-0&quot;&gt;&lt;a href=&quot;#v1-3-0&quot; class=&quot;headerlink&quot; title=&quot;v1.3.0&quot;&gt;&lt;/a&gt;v1.3.0&lt;/h1&gt;&lt;p&gt;2016/12/28&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Use the shortcut of “Control-Command-A|B|C…” to open the corresponding group.&lt;/li&gt;
+&lt;li&gt;Could customize timers.&lt;/li&gt;
+&lt;li&gt;Fit to Swift 3.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&quot;v2-0-2&quot;&gt;&lt;a href=&quot;#v2-0-2&quot; class=&quot;headerlink&quot; title=&quot;v2.0.2&quot;&gt;&lt;/a&gt;v2.0.2&lt;/h1&gt;&lt;p&gt;2017/09/19&lt;/p&gt;
+&lt;h1 id=&quot;v1-2-3&quot;&gt;&lt;a href=&quot;#v1-2-3&quot; class=&quot;headerlink&quot; title=&quot;v1.2.3&quot;&gt;&lt;/a&gt;v1.2.3&lt;/h1&gt;&lt;p&gt;2016/09/26&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Could sync with iPaste for iPhone/iPad.&lt;/li&gt;
-&lt;li&gt;Could set title when edit clipboard history.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-5-1&quot;&gt;&lt;a href=&quot;#v1-5-1&quot; class=&quot;headerlink&quot; title=&quot;v1.5.1&quot;&gt;&lt;/a&gt;v1.5.1&lt;/h1&gt;&lt;p&gt;2017/07/25&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support groups for pinned clipboard history.&lt;/li&gt;
-&lt;li&gt;Could flexibly edit clipboard history.&lt;/li&gt;
-&lt;li&gt;Clipboard history count is increased to 30 for Pro.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v1-2-6&quot;&gt;&lt;a href=&quot;#v1-2-6&quot; class=&quot;headerlink&quot; title=&quot;v1.2.6&quot;&gt;&lt;/a&gt;v1.2.6&lt;/h1&gt;&lt;p&gt;2016/09/27&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Change App name to &lt;strong&gt;iPaste&lt;/strong&gt;, also update logo.&lt;/li&gt;
-&lt;li&gt;Increase clipboard history count.&lt;/li&gt;
-&lt;li&gt;Save clipboard history before quit.&lt;/li&gt;
-&lt;li&gt;Filter duplicated clipboard history.&lt;/li&gt;
-&lt;li&gt;Could hide menu bar icon.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;v0-8-2&quot;&gt;&lt;a href=&quot;#v0-8-2&quot; class=&quot;headerlink&quot; title=&quot;v0.8.2&quot;&gt;&lt;/a&gt;v0.8.2&lt;/h1&gt;&lt;p&gt;2015/12/18&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Pin the history you frequently use.&lt;/li&gt;
+&lt;li&gt;Change App name to &lt;strong&gt;iTimer&lt;/strong&gt;, also update logo.&lt;/li&gt;
+&lt;li&gt;Add more timers.&lt;/li&gt;
+&lt;li&gt;Support macOS Sierra.&lt;/li&gt;
 &lt;/ul&gt;
     
     </summary>
     
-      <category term="iPaste" scheme="https://en.toolinbox.net/categories/iPaste/"/>
+      <category term="iTimer" scheme="https://en.toolinbox.net/categories/iTimer/"/>
     
     
   </entry>
