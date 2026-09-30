@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>KOReader to Kindle Converter</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      text-align: center;
+      background: #f5f5f5;
+    }
+    
+    .drop-zone {
+      border: 2px dashed #ccc;
+      border-radius: 8px;
+      padding: 40px;
+      margin: 20px 0;
+      background: white;
+      transition: all 0.3s ease;
+    }
+    
+    .drop-zone.dragover {
+      border-color: #007bff;
+      background: #f8f9fa;
+    }
+    
+    .drop-zone p {
+      margin: 0;
+      color: #666;
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    
+    #fileInput {
+      display: none;
+    }
+    
+    .btn {
+      display: inline-block;
+      padding: 12px 24px;
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 18px;
+      margin: 10px;
+      transition: background 0.3s ease;
+    }
+    
+    .btn:hover {
+      background: #0056b3;
+    }
+    
+    .btn:disabled {
+      background: #ccc;
+      cursor: not-allowed;
+    }
+    
+    #status {
+      margin: 20px 0;
+      color: #666;
+      font-size: 18px;
+    }
+    
+    h1 {
+      font-size: 32px;
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
+  <h1>KOReader to Kindle Converter</h1>
+  
+  <div class="drop-zone" id="dropZone">
+    <p>Drag and drop koreader.html here</p>
+    <p>or</p>
+    <input type="file" id="fileInput" accept=".html">
+    <button class="btn" onclick="document.getElementById('fileInput').click()">Select File</button>
+  </div>
+  
+  <button class="btn" id="downloadBtn" disabled>Download My Clippings.txt</button>
+  
+  <div id="status"></div>
+
+  <script>
+    class KOReader {
+      parse(html) {
+        // Split content into sections based on h2 headers (books)
+        const sections = html.split(/<h2 style="font-size:18pt; text-align:right;">/).slice(1);
+        
+        const books = [];
+        
+        for (const section of sections) {
+          // Get book title
+          const titleMatch = section.match(/([^<]+)<\/h2>/);
+          if (!titleMatch) continue;
+          const title = titleMatch[1].trim();
+
+          // Extract author name
+          const authorMatch = section.match(/<h5[^>]*?>([^<]+)<\/h5>/);
+          if (!authorMatch) continue;
+          const author = authorMatch[1].trim();
+          
+          // Create book object
+          const book = {
+            title,
+            author,
+            annotations: []
+          };
+
+          // Extract annotations
+          const annotationBlocks = section.matchAll(/<div style="padding-top:0\.5em; padding-bottom:0\.5em[^>]*?">([\s\S]*?)<\/div>\s*<\/div>/g);
+          for (const block of annotationBlocks) {
+            const content = block[1];
+            
+            // Extract date
+            const dateMatch = content.match(/<span>(\d{2}\/\d{2}\/\d{2})<\/span>/);
+            if (!dateMatch) continue;
+            
+            // Extract text
+            const textMatch = content.match(/<div style="font-size:12pt">\s*<span>([^<]+)<\/span>/);
+            if (!textMatch) continue;
+            
+            // Extract chapter reference and location
+            const locationMatch = content.match(/<b>([^<:]*)<\/b>:\s*(\d+)/);
+            
+            // Extract note (if exists)
+            const noteMatch = content.match(/<span style="color:#888888">([^<]+)<\/span>/);
+            
+            book.annotations.push({
+              date: dateMatch[1],
+              text: textMatch[1].trim(),
+              chapter: locationMatch ? locationMatch[1].trim() || null : null,
+              location: locationMatch ? parseInt(locationMatch[2]) : null,
+              note: noteMatch ? noteMatch[1].trim() : null
+            });
+          }
+
+          books.push(book);
+        }
+
+        return books;
+      }
+
+      convertToTxt(html) {
+        const books = this.parse(html);
+        let output = '';
+        
+        for (const book of books) {
+          // Sort annotations by location
+          book.annotations.sort((a, b) => (a.location || 0) - (b.location || 0));
+          
+          for (const annotation of book.annotations) {
+            // Format the date
+            const date = new Date('20' + annotation.date);
+            const formattedDate = date.toLocaleDateString('zh-CN', {
+              year: 'numeric',
+              month: 'numeric',
+              day: 'numeric',
+              weekday: 'long',
+              hour: 'numeric',
+              minute: 'numeric',
+              second: 'numeric',
+              hour12: false
+            });
+
+            const chapterInfo = annotation.chapter ? ` ${annotation.chapter}` : '';
+
+            // Create entry for highlight
+            output += `==========\n`;
+            output += `${book.title} (${book.author})\n`;
+            output += `- Your Highlight on${chapterInfo} Location ${annotation.location || ''} | Added on ${formattedDate}\n\n`;
+            output += `${annotation.text}\n`;
+
+            // Add note if exists
+            if (annotation.note) {
+              output += `==========\n`;
+              output += `${book.title} (${book.author})\n`;
+              output += `- Your Note on${chapterInfo} Location ${annotation.location || ''} | Added on ${formattedDate}\n\n`;
+              output += `${annotation.note}\n`;
+            }
+          }
+        }
+
+        return output;
+      }
+    }
+
+    // UI handling
+    const dropZone = document.getElementById('dropZone');
+    const fileInput = document.getElementById('fileInput');
+    const downloadBtn = document.getElementById('downloadBtn');
+    const status = document.getElementById('status');
+    let convertedContent = null;
+
+    // Drag and drop handlers
+    dropZone.addEventListener('dragover', (e) => {
+      e.preventDefault();
+      dropZone.classList.add('dragover');
+    });
+
+    dropZone.addEventListener('dragleave', () => {
+      dropZone.classList.remove('dragover');
+    });
+
+    dropZone.addEventListener('drop', (e) => {
+      e.preventDefault();
+      dropZone.classList.remove('dragover');
+      handleFile(e.dataTransfer.files[0]);
+    });
+
+    fileInput.addEventListener('change', (e) => {
+      handleFile(e.target.files[0]);
+    });
+
+    function handleFile(file) {
+      if (!file) return;
+      
+      status.textContent = 'Reading file...';
+      const reader = new FileReader();
+      
+      reader.onload = (e) => {
+        try {
+          const koReader = new KOReader();
+          convertedContent = koReader.convertToTxt(e.target.result);
+          downloadBtn.disabled = false;
+          status.textContent = 'Conversion successful! Click the download button to save.';
+        } catch (error) {
+          status.textContent = 'Error converting file: ' + error.message;
+          downloadBtn.disabled = true;
+        }
+      };
+      
+      reader.onerror = () => {
+        status.textContent = 'Error reading file!';
+        downloadBtn.disabled = true;
+      };
+      
+      reader.readAsText(file);
+    }
+
+    downloadBtn.addEventListener('click', () => {
+      if (!convertedContent) return;
+      
+      const blob = new Blob([convertedContent], { type: 'text/plain' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'My Clippings.txt';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    });
+  </script>
+</body>
+</html>
